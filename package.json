@@ -1,0 +1,24 @@
+{
+  "name": "uma_project_python",
+  "version": "1.0.0",
+  "description": "競馬予想AIのほうでtensorflow.jsで事前予想AIをやっていたのですが、エラー頻発で難航したので事前予想AIの部分をPythonで作る事にしました。",
+  "main": "index.js",
+  "scripts": {
+    "scraping": "bun run run/scraping.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bun": "^1.1.27",
+    "iconv-lite": "^0.6.3",
+    "jsdom": "^25.0.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/jsdom": "^21.1.7"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
