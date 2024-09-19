@@ -4,7 +4,7 @@ from ai_programs.ai import AiClient
 
 def main():
     ai = AiClient()
-    print(torch.__version__)
+    ai.createModel()
 
 if __name__ == "__main__":
     main()
