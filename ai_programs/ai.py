@@ -13,6 +13,8 @@ from sklearn.preprocessing import LabelEncoder
 class AiClient:
     def __init__(self):
         pass
+    def load_model(self, versio: str):
+        parent_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
     def createModel(self):
         parent_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
 
@@ -27,6 +29,9 @@ class AiClient:
 
         for i in range(len(predictions)):
             print(f"予測: {predictions[i]}, 実際: {y_test[i]}")
+
+        model.save(os.path.join(parent_dir, "model/beta1/model.keras"))
+        model.save(os.path.join(parent_dir, "model/beta1/model.h5"))
     def load_data(self, json_file: str):
         with open(json_file, "r", encoding="UTF-8") as f:
             return json.loads(f.read())
