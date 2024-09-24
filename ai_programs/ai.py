@@ -17,7 +17,16 @@ class AiClient:
         parent_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
         model_path = os.path.join(parent_dir, f"model/{version}/model.h5")
         return tf.keras.models.load_model(model_path)
-    def createModel(self):
+    def predict_rank(self, version: str, json_data: str):
+        model = self.load_model(version)
+        data = json.loads(json_data)
+
+        x, _ = self.preprocess_data(pd.DataFrame(data), data)
+        predictions = model.predict(x)
+
+        for i in range(len(predictions)):
+            print(f"予測されたランク: {predictions[i][0]}")
+    def createModel(self, version: str):
         parent_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
 
         data = self.load_data(os.path.join(parent_dir, "db\jra\datafile-seiseki-g1-afs-result-afs2023.html.json"))
@@ -32,8 +41,8 @@ class AiClient:
         for i in range(len(predictions)):
             print(f"予測: {predictions[i]}, 実際: {y_test[i]}")
 
-        model.save(os.path.join(parent_dir, "model/beta1/model.keras"))
-        model.save(os.path.join(parent_dir, "model/beta1/model.h5"))
+        model.save(os.path.join(parent_dir, f"model/{version}/model.keras"))
+        model.save(os.path.join(parent_dir, f"model/{version}/model.h5"))
     def load_data(self, json_file: str):
         with open(json_file, "r", encoding="UTF-8") as f:
             return json.loads(f.read())
@@ -71,4 +80,3 @@ class AiClient:
         ])
         model.compile(optimizer="adam", loss="mean_squared_error")
         return model
- 
