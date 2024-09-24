@@ -13,8 +13,10 @@ from sklearn.preprocessing import LabelEncoder
 class AiClient:
     def __init__(self):
         pass
-    def load_model(self, versio: str):
+    def load_model(self, version: str):
         parent_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
+        model_path = os.path.join(parent_dir, f"model/{version}/model.h5")
+        return tf.keras.models.load_model(model_path)
     def createModel(self):
         parent_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
 
@@ -35,7 +37,7 @@ class AiClient:
     def load_data(self, json_file: str):
         with open(json_file, "r", encoding="UTF-8") as f:
             return json.loads(f.read())
-    def preprocess_data(self, df, data):
+    def preprocess_data(self, df: pd.DataFrame, data):
         horses = pd.DataFrame(data["horse"])
         horse_infos = horses[["rank", "umaban", "horse", "age", "weight", "jockey", "time", "h_weight", "f_time", "pop"]].copy()
 
@@ -44,6 +46,7 @@ class AiClient:
         for column in ["horse", "age", "jockey", "pop"]:
             horse_infos[column] = self.LabelEncode(horse_infos[column])
 
+        horse_infos["rank"] = self.LabelEncode(horse_infos["rank"])
         horse_infos["weight"] = horse_infos["weight"].astype(float)
         horse_infos["h_weight"] = horse_infos["h_weight"].astype(float)
         horse_infos["f_time"] = horse_infos["f_time"].astype(float)
@@ -51,6 +54,7 @@ class AiClient:
         scaler = StandardScaler()
         features_scaled = scaler.fit_transform(horse_infos)
 
+        #return features_scaled, self.LabelEncode(df["title"])
         return features_scaled, self.LabelEncode(df["title"])
     def convert_time_to_seconds(self, time_str):
         minutes, seconds = map(float, time_str.split(":"))
