@@ -28,12 +28,12 @@ class AiClient:
         x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
         model = self.build_model(x_train.shape[1])
-        model.fit(x_train, y_train, epochs=100, batch_size=32, validation_split=0.2)
+        model.fit(x_train, y_train, epochs=250, batch_size=32, validation_split=0.2, shuffle="batch")
 
         predictions = model.predict(x_test)
 
         for i in range(len(predictions)):
-            print(f"予測: {predictions[i][0]}, 実際: {y_test.flatten()[i]}")
+            print(f"予測: {round(int(predictions[i][0]))}, 実際: {int(y_test.flatten()[i])}")
 
         model.save(os.path.join(self.parent_dir, f"model/{self.version}/model.keras"))
         model.save(os.path.join(self.parent_dir, f"model/{self.version}/model.h5"))

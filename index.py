@@ -4,7 +4,7 @@ from ai_programs.ai import AiClient
 
 
 def main():
-    ai = AiClient("beta2")
+    ai = AiClient("v1")
     ai.createModel()
 
 if __name__ == "__main__":
