@@ -11,61 +11,61 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import LabelEncoder
 
 class AiClient:
-    def __init__(self):
-        pass
-    def load_model(self, version: str):
-        parent_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
-        model_path = os.path.join(parent_dir, f"model/{version}/model.h5")
+    version: str
+    parent_dir: str
+
+    def __init__(self, version: str):
+        self.version = version
+        self.parent_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
+    def load_model(self):
+        model_path = os.path.join(self.parent_dir, f"model/{self.version}/model.h5")
         return tf.keras.models.load_model(model_path)
-    def predict_rank(self, version: str, json_data: str):
-        model = self.load_model(version)
-        data = json.loads(json_data)
-
-        x, _ = self.preprocess_data(pd.DataFrame(data), data)
-        predictions = model.predict(x)
-
-        for i in range(len(predictions)):
-            print(f"予測されたランク: {predictions[i][0]}")
-    def createModel(self, version: str):
-        parent_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
-
-        data = self.load_data(os.path.join(parent_dir, "db\jra\datafile-seiseki-g1-afs-result-afs2023.html.json"))
-        x, y = self.preprocess_data(pd.DataFrame(data), data)
+    def createModel(self):
+        files = os.listdir(os.path.join(self.parent_dir, "db\jra\\"))
+        jsons = self.preprocess_jsons(files)
+        combined_data = pd.concat([pd.DataFrame(data) for data in jsons], ignore_index=True)
+        x, y = self.preprocess_data(combined_data)
         x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
         model = self.build_model(x_train.shape[1])
         model.fit(x_train, y_train, epochs=100, batch_size=32, validation_split=0.2)
 
-        predictions = model.predict(x_test)
+        model.save(os.path.join(self.parent_dir, f"model/{self.version}/model.keras"))
+        model.save(os.path.join(self.parent_dir, f"model/{self.version}/model.h5"))
+    def preprocess_jsons(self, jsons: list[str]):
+        all_data = []
+        for json_data in jsons:
+            datas = self.load_data(os.path.join(self.parent_dir, f"db\jra\{json_data}"))
+            for data in datas["horse"]:
+                data["title"] = datas["title"]
+                all_data.append(data)
 
-        for i in range(len(predictions)):
-            print(f"予測: {predictions[i]}, 実際: {y_test[i]}")
+        return all_data
+    def preprocess_data(self, data: pd.DataFrame):
+        horse_data = {}
 
-        model.save(os.path.join(parent_dir, f"model/{version}/model.keras"))
-        model.save(os.path.join(parent_dir, f"model/{version}/model.h5"))
-    def load_data(self, json_file: str):
-        with open(json_file, "r", encoding="UTF-8") as f:
-            return json.loads(f.read())
-    def preprocess_data(self, df: pd.DataFrame, data):
-        horses = pd.DataFrame(data["horse"])
-        horse_infos = horses[["rank", "umaban", "horse", "age", "weight", "jockey", "time", "h_weight", "f_time", "pop"]].copy()
-
+        horse_infos = data.copy()
         horse_infos["time"] = horse_infos["time"].apply(self.convert_time_to_seconds)
 
-        for column in ["horse", "age", "jockey", "pop"]:
+        for column in ["horse", "age", "jockey", "pop", "title"]:
             horse_infos[column] = self.LabelEncode(horse_infos[column])
 
-        horse_infos["rank"] = self.LabelEncode(horse_infos["rank"])
+        horse_infos["rank"] = horse_infos["rank"].astype(float)
         horse_infos["weight"] = horse_infos["weight"].astype(float)
         horse_infos["h_weight"] = horse_infos["h_weight"].astype(float)
         horse_infos["f_time"] = horse_infos["f_time"].astype(float)
 
-        scaler = StandardScaler()
-        features_scaled = scaler.fit_transform(horse_infos)
+        for column in ["horse", "age", "jockey", "pop", "title", "rank", "weight", "h_weight", "f_time"]:
+            horse_data[column] = horse_infos[column]
 
-        #return features_scaled, self.LabelEncode(df["title"])
-        return features_scaled, self.LabelEncode(df["title"])
-    def convert_time_to_seconds(self, time_str):
+        scaler = StandardScaler()
+        features_scaled = scaler.fit_transform(pd.DataFrame(horse_data))
+
+        return features_scaled, horse_data["rank"]
+    def load_data(self, file_path: str):
+        with open(file_path, "r", encoding="UTF-8") as f:
+            return json.loads(f.read())
+    def convert_time_to_seconds(self, time_str: str):
         minutes, seconds = map(float, time_str.split(":"))
         return minutes * 60 + seconds
     def LabelEncode(self, series):
