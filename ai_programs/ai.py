@@ -18,8 +18,27 @@ class AiClient:
         self.version = version
         self.parent_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
     def load_model(self):
-        model_path = os.path.join(self.parent_dir, f"model/{self.version}/model.h5")
+        model_path = os.path.join(self.parent_dir, f"model/{self.version}/model.keras")
         return tf.keras.models.load_model(model_path)
+    def prediction_rank(self, datas):
+        model = self.load_model()
+        all_data = []
+
+        for data in datas["horse"]:
+            data["title"] = datas["title"]
+            all_data.append(data)
+
+        combined_data = pd.concat([pd.DataFrame(data) for data in all_data], ignore_index=True)
+
+        features_scaled, _ = self.preprocess_data(combined_data)
+
+        predictions = model.predict(features_scaled)
+
+        for i in range(len(predictions)):
+            print(f"予想: {round(int(predictions[i][0]))}")
+
+        print(len(predictions))
+        return [round(int(pred[0])) for pred in predictions]
     def createModel(self):
         files = os.listdir(os.path.join(self.parent_dir, "db\jra\\"))
         jsons = self.preprocess_jsons(files)
@@ -51,12 +70,11 @@ class AiClient:
 
         horse_infos = data.copy()
         horse_infos["time"] = horse_infos["time"].apply(self.convert_time_to_seconds)
-        horse_info_list = ["horse", "age", "jockey", "pop", "title", "rank", "weight", "h_weight", "f_time"]
+        horse_info_list = ["horse", "age", "jockey", "pop", "title", "weight", "h_weight", "f_time"]
 
         for column in ["horse", "age", "jockey", "pop", "title"]:
             horse_infos[column] = self.LabelEncode(horse_infos[column])
 
-        horse_infos["rank"] = horse_infos["rank"].astype(float)
         horse_infos["weight"] = horse_infos["weight"].astype(float)
         horse_infos["h_weight"] = horse_infos["h_weight"].astype(float)
         horse_infos["f_time"] = horse_infos["f_time"].astype(float)
@@ -70,7 +88,7 @@ class AiClient:
         scaler = StandardScaler()
         features_scaled = scaler.fit_transform(pd.DataFrame(horse_data))
 
-        return features_scaled, horse_data["rank"].values
+        return features_scaled, horse_infos["rank"].astype(float).values if "rank" in horse_infos else None
     def load_data(self, file_path: str):
         with open(file_path, "r", encoding="UTF-8") as f:
             return json.loads(f.read())
