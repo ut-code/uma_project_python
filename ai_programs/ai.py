@@ -30,6 +30,11 @@ class AiClient:
         model = self.build_model(x_train.shape[1])
         model.fit(x_train, y_train, epochs=100, batch_size=32, validation_split=0.2)
 
+        predictions = model.predict(x_test)
+
+        for i in range(len(predictions)):
+            print(f"予測: {predictions[i][0]}, 実際: {y_test.flatten()[i]}")
+
         model.save(os.path.join(self.parent_dir, f"model/{self.version}/model.keras"))
         model.save(os.path.join(self.parent_dir, f"model/{self.version}/model.h5"))
     def preprocess_jsons(self, jsons: list[str]):
@@ -46,6 +51,7 @@ class AiClient:
 
         horse_infos = data.copy()
         horse_infos["time"] = horse_infos["time"].apply(self.convert_time_to_seconds)
+        horse_info_list = ["horse", "age", "jockey", "pop", "title", "rank", "weight", "h_weight", "f_time"]
 
         for column in ["horse", "age", "jockey", "pop", "title"]:
             horse_infos[column] = self.LabelEncode(horse_infos[column])
@@ -55,13 +61,16 @@ class AiClient:
         horse_infos["h_weight"] = horse_infos["h_weight"].astype(float)
         horse_infos["f_time"] = horse_infos["f_time"].astype(float)
 
-        for column in ["horse", "age", "jockey", "pop", "title", "rank", "weight", "h_weight", "f_time"]:
+        for column in horse_info_list:
+            horse_infos[column].dropna(inplace=True)
+
+        for column in horse_info_list:
             horse_data[column] = horse_infos[column]
 
         scaler = StandardScaler()
         features_scaled = scaler.fit_transform(pd.DataFrame(horse_data))
 
-        return features_scaled, horse_data["rank"]
+        return features_scaled, horse_data["rank"].values
     def load_data(self, file_path: str):
         with open(file_path, "r", encoding="UTF-8") as f:
             return json.loads(f.read())
