@@ -5,7 +5,7 @@ from ai_programs.ai import AiClient
 
 def main():
     ai = AiClient("v1")
-    predict = ai.prediction_rank({
+    predictions = ai.prediction_rank({
         "title": "朝日杯フューチュリティステークス",
         "course": "コース:1,600メートル（芝・右 外）",
         "url": "https://www.jra.go.jp/datafile/seiseki/g1/afs/result/afs2023.html",
@@ -335,7 +335,17 @@ def main():
             }
         ]
     })
-    print(predict)
+    all_horse_data = []
+    for name in predictions:
+        all_horse_data.append({
+            "name": name,
+            "rank": predictions[name]
+        })
+    all_horse_data = sorted(all_horse_data, key=lambda x: x["rank"])
+    for horse in all_horse_data:
+        name = horse["name"]
+        rank = horse["rank"]
+        print(f"{name}: {rank}")
 
 if __name__ == "__main__":
     main()

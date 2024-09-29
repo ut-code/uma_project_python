@@ -20,9 +20,15 @@ class AiClient:
     def load_model(self):
         model_path = os.path.join(self.parent_dir, f"model/{self.version}/model.keras")
         return tf.keras.models.load_model(model_path)
+    def format_data(self, datas):
+        result = []
+        for data in datas:
+            result.append(data[0])
+        return result
     def prediction_rank(self, datas):
         model = self.load_model()
         all_data = []
+        result = {}
 
         for data in datas["horse"]:
             data["title"] = datas["title"]
@@ -34,11 +40,15 @@ class AiClient:
 
         predictions = model.predict(features_scaled)
 
-        for i in range(len(predictions)):
-            print(f"予想: {round(int(predictions[i][0]))}")
+        combined_data["predicted_rank"] = predictions.flatten()
+        combined_data["predicted_rank"] = combined_data["predicted_rank"].rank(method="min", ascending=True)
 
-        print(len(predictions))
-        return [round(int(pred[0])) for pred in predictions]
+        for _, row in combined_data.iterrows():
+            horse = row["horse"]
+            rank = int(row["predicted_rank"])
+            result[horse] = rank
+
+        return result
     def createModel(self):
         files = os.listdir(os.path.join(self.parent_dir, "db\jra\\"))
         jsons = self.preprocess_jsons(files)
