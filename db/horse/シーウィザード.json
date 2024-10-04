@@ -1,0 +1,93 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "シーウィザード",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "三浦 皇成",
+		"time": "2:03.1",
+		"margin": "クビ",
+		"h_weight": 474,
+		"h_weight_zougen": 2,
+		"f_time": "35.8",
+		"trainer": "鹿戸 雄一",
+		"pop": "4",
+		"corner": [
+			3,
+			3,
+			3,
+			3
+		],
+		"title": "京成杯"
+	},
+	{
+		"rank": 10,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "シーウィザード",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "柴田 善臣",
+		"time": "1:49.8",
+		"margin": "同着",
+		"h_weight": 478,
+		"h_weight_zougen": 4,
+		"f_time": "35.7",
+		"trainer": "鹿戸 雄一",
+		"pop": "12",
+		"corner": [
+			16,
+			16,
+			16,
+			14
+		],
+		"title": "フジテレビ賞スプリングステークス"
+	},
+	{
+		"rank": 10,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "シーウィザード",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "武 豊",
+		"time": "1:34.5",
+		"margin": "クビ",
+		"h_weight": 474,
+		"h_weight_zougen": -4,
+		"f_time": "35.4",
+		"trainer": "鹿戸 雄一",
+		"pop": "10",
+		"corner": [
+			15,
+			16,
+			15
+		],
+		"title": "ニュージーランドトロフィー"
+	},
+	{
+		"rank": 13,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "シーウィザード",
+		"age": "牡3",
+		"weight": "55.0",
+		"jockey": "三浦 皇成",
+		"time": "1:48.0",
+		"margin": "ハナ",
+		"h_weight": 480,
+		"h_weight_zougen": 6,
+		"f_time": "35.1",
+		"trainer": "鹿戸 雄一",
+		"pop": "15",
+		"corner": [
+			15,
+			15,
+			15,
+			15
+		],
+		"title": "ラジオNIKKEI賞"
+	}
+]

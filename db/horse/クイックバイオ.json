@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "クイックバイオ",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "L.モリス",
+		"time": "1:33.7",
+		"margin": "ハナ",
+		"h_weight": 480,
+		"h_weight_zougen": 2,
+		"f_time": "34.9",
+		"trainer": "須貝 尚介",
+		"pop": "10",
+		"corner": [
+			7,
+			7
+		],
+		"title": "阪神ジュベナイルフィリーズ"
+	},
+	{
+		"rank": 7,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "クイックバイオ",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "西村 淳也",
+		"time": "1:20.9",
+		"margin": "クビ",
+		"h_weight": 478,
+		"h_weight_zougen": -2,
+		"f_time": "34.0",
+		"trainer": "須貝 尚介",
+		"pop": "4",
+		"corner": [
+			12,
+			11
+		],
+		"title": "KBS京都賞ファンタジーステークス"
+	}
+]

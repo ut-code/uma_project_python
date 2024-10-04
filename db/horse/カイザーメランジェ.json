@@ -1,0 +1,170 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠7橙",
+		"umaban": 12,
+		"horse": "カイザーメランジェ",
+		"age": "牡8",
+		"weight": "55.0",
+		"jockey": "荻野 極",
+		"time": "1:08.8",
+		"margin": "１ 3/4",
+		"h_weight": 492,
+		"h_weight_zougen": -2,
+		"f_time": "34.9",
+		"trainer": "中野 栄治",
+		"pop": "15",
+		"corner": [
+			2,
+			2
+		],
+		"title": "シルクロードステークス"
+	},
+	{
+		"rank": 7,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "カイザーメランジェ",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "黛 弘人",
+		"time": "1:08.1",
+		"margin": "アタマ",
+		"h_weight": 490,
+		"h_weight_zougen": -2,
+		"f_time": "34.1",
+		"trainer": "中野 栄治",
+		"pop": "16",
+		"corner": [
+			6,
+			8
+		],
+		"title": "夕刊フジ賞オーシャンステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "カイザーメランジェ",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "吉田 隼人",
+		"time": "1:08.6",
+		"margin": "クビ",
+		"h_weight": 494,
+		"h_weight_zougen": 0,
+		"f_time": "34.8",
+		"trainer": "中野 栄治",
+		"pop": "12",
+		"corner": [
+			12,
+			15
+		],
+		"title": "函館スプリントステークス"
+	},
+	{
+		"rank": 15,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "カイザーメランジェ",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "江田 照男",
+		"time": "1:11.7",
+		"margin": "１／２",
+		"h_weight": 480,
+		"h_weight_zougen": 0,
+		"f_time": "36.5",
+		"trainer": "中野 栄治",
+		"pop": "15",
+		"corner": [
+			13,
+			11
+		],
+		"title": "キーンランドカップ"
+	},
+	{
+		"rank": 12,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "カイザーメランジェ",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "江田 照男",
+		"time": "1:11.0",
+		"margin": "２ 1/2",
+		"h_weight": 480,
+		"h_weight_zougen": -8,
+		"f_time": "35.9",
+		"trainer": "中野 栄治",
+		"pop": "16",
+		"corner": [
+			13,
+			14
+		],
+		"title": "カペラステークス"
+	},
+	{
+		"rank": 18,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "カイザーメランジェ",
+		"age": "牡9",
+		"weight": "56.0",
+		"jockey": "津村 明秀",
+		"time": "1:10.6",
+		"margin": "６",
+		"h_weight": 486,
+		"h_weight_zougen": 6,
+		"f_time": "36.7",
+		"trainer": "中野 栄治",
+		"pop": "18",
+		"corner": [
+			4,
+			3
+		],
+		"title": "シルクロードステークス"
+	},
+	{
+		"rank": 10,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "カイザーメランジェ",
+		"age": "牡9",
+		"weight": "57.0",
+		"jockey": "吉田 豊",
+		"time": "1:08.8",
+		"margin": "ハナ",
+		"h_weight": 488,
+		"h_weight_zougen": 2,
+		"f_time": "34.3",
+		"trainer": "中野 栄治",
+		"pop": "16",
+		"corner": [
+			14,
+			14
+		],
+		"title": "夕刊フジ賞オーシャンステークス"
+	},
+	{
+		"rank": 15,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "カイザーメランジェ",
+		"age": "牡9",
+		"weight": "57.0",
+		"jockey": "佐々木 大輔",
+		"time": "1:09.5",
+		"margin": "３／４",
+		"h_weight": 490,
+		"h_weight_zougen": 0,
+		"f_time": "36.1",
+		"trainer": "矢嶋 大樹",
+		"pop": "16",
+		"corner": [
+			1,
+			1
+		],
+		"title": "函館スプリントステークス"
+	}
+]

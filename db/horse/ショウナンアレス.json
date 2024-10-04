@@ -1,0 +1,23 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "ショウナンアレス",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:20.1",
+		"margin": "ハナ",
+		"h_weight": 546,
+		"h_weight_zougen": 0,
+		"f_time": "33.6",
+		"trainer": "池添 兼雄",
+		"pop": "8",
+		"corner": [
+			10,
+			11
+		],
+		"title": "阪急杯"
+	}
+]

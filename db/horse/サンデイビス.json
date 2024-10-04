@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 1,
+		"waku": "枠6緑",
+		"umaban": 6,
+		"horse": "サンデイビス",
+		"age": "牡6",
+		"weight": "60.0",
+		"jockey": "上野 翔",
+		"time": "4:31.0",
+		"margin": "",
+		"h_weight": 500,
+		"h_weight_zougen": 6,
+		"f_time": "13.8",
+		"trainer": "村田 一誠",
+		"pop": "6",
+		"corner": [
+			4,
+			3,
+			2,
+			2
+		],
+		"title": "京都ハイジャンプ"
+	}
+]

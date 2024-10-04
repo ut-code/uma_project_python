@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠6緑",
+		"umaban": 9,
+		"horse": "アスクカムオンモア",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "2:12.9",
+		"margin": "１",
+		"h_weight": 488,
+		"h_weight_zougen": 0,
+		"f_time": "35.1",
+		"trainer": "藤原 英昭",
+		"pop": "6",
+		"corner": [
+			6,
+			6,
+			7,
+			8
+		],
+		"title": "朝日杯セントライト記念"
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "パラレルヴィジョン",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "C.ルメール",
+		"time": "1:33.3",
+		"margin": "クビ",
+		"h_weight": 492,
+		"h_weight_zougen": 6,
+		"f_time": "34.1",
+		"trainer": "国枝 栄",
+		"pop": "6",
+		"corner": [
+			8,
+			9
+		],
+		"title": "安田記念"
+	},
+	{
+		"rank": 1,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "パラレルヴィジョン",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:32.9",
+		"margin": "",
+		"h_weight": 486,
+		"h_weight_zougen": -16,
+		"f_time": "34.0",
+		"trainer": "国枝 栄",
+		"pop": "2",
+		"corner": [
+			2,
+			2,
+			2
+		],
+		"title": "ダービー卿チャレンジトロフィー"
+	},
+	{
+		"rank": 14,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "パラレルヴィジョン",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "三浦 皇成",
+		"time": "1:34.2",
+		"margin": "２ 1/2",
+		"h_weight": 492,
+		"h_weight_zougen": 0,
+		"f_time": "33.9",
+		"trainer": "国枝 栄",
+		"pop": "7",
+		"corner": [
+			9,
+			9
+		],
+		"title": "関屋記念"
+	}
+]

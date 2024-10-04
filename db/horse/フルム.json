@@ -1,0 +1,67 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "フルム",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "水口 優也",
+		"time": "1:24.9",
+		"margin": "１ 1/4",
+		"h_weight": 482,
+		"h_weight_zougen": 6,
+		"f_time": "37.4",
+		"trainer": "浜田 多実雄",
+		"pop": "7",
+		"corner": [
+			15,
+			15
+		],
+		"title": "プロキオンステークス"
+	},
+	{
+		"rank": 5,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "フルム",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "水口 優也",
+		"time": "1:24.8",
+		"margin": "１／２",
+		"h_weight": 484,
+		"h_weight_zougen": -4,
+		"f_time": "35.7",
+		"trainer": "浜田 多実雄",
+		"pop": "7",
+		"corner": [
+			6,
+			6
+		],
+		"title": "根岸ステークス"
+	},
+	{
+		"rank": 10,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "フルム",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "水口 優也",
+		"time": "1:45.3",
+		"margin": "クビ",
+		"h_weight": 482,
+		"h_weight_zougen": -12,
+		"f_time": "37.6",
+		"trainer": "浜田 多実雄",
+		"pop": "8",
+		"corner": [
+			7,
+			7,
+			7,
+			7
+		],
+		"title": "エルムステークス"
+	}
+]

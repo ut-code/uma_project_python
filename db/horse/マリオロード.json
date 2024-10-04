@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "マリオロード",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "酒井 学",
+		"time": "1:52.2",
+		"margin": "１",
+		"h_weight": 498,
+		"h_weight_zougen": -4,
+		"f_time": "37.6",
+		"trainer": "安達 昭夫",
+		"pop": "10",
+		"corner": [
+			10,
+			10,
+			10,
+			8
+		],
+		"title": "みやこステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "マリオロード",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "松山 弘平",
+		"time": "1:43.3",
+		"margin": "３／４",
+		"h_weight": 496,
+		"h_weight_zougen": -12,
+		"f_time": "37.4",
+		"trainer": "安達 昭夫",
+		"pop": "12",
+		"corner": [
+			10,
+			10,
+			9,
+			9
+		],
+		"title": "プロキオンステークス"
+	}
+]

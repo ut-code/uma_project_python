@@ -1,0 +1,65 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 9,
+		"horse": "アームズレイン",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "北村 友一",
+		"time": "1:23.2",
+		"margin": "ハナ",
+		"h_weight": 486,
+		"h_weight_zougen": -6,
+		"f_time": "36.4",
+		"trainer": "上村 洋行",
+		"pop": "12",
+		"corner": [
+			2,
+			2
+		],
+		"title": "中日スポーツ賞ファルコンステークス"
+	},
+	{
+		"rank": 5,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "アームズレイン",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "北村 友一",
+		"time": "1:07.6",
+		"margin": "１",
+		"h_weight": 482,
+		"h_weight_zougen": -4,
+		"f_time": "33.2",
+		"trainer": "上村 洋行",
+		"pop": "11",
+		"corner": [
+			5,
+			5
+		],
+		"title": "葵ステークス"
+	},
+	{
+		"rank": 2,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "アームズレイン",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "松若 風馬",
+		"time": "1:24.5",
+		"margin": "２ 1/2",
+		"h_weight": 506,
+		"h_weight_zougen": -4,
+		"f_time": "36.0",
+		"trainer": "上村 洋行",
+		"pop": "6",
+		"corner": [
+			2,
+			2
+		],
+		"title": "根岸ステークス"
+	}
+]

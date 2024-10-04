@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠4青",
+		"umaban": 5,
+		"horse": "バールデュヴァン",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "古川 吉洋",
+		"time": "2:25.0",
+		"margin": "１",
+		"h_weight": 504,
+		"h_weight_zougen": 0,
+		"f_time": "34.2",
+		"trainer": "浜田 多実雄",
+		"pop": "13",
+		"corner": [
+			11,
+			11,
+			12,
+			10
+		],
+		"title": "神戸新聞杯"
+	}
+]

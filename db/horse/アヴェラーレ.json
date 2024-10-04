@@ -1,0 +1,107 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "アヴェラーレ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "C.ルメール",
+		"time": "1:20.5",
+		"margin": "クビ",
+		"h_weight": 454,
+		"h_weight_zougen": 4,
+		"f_time": "32.5",
+		"trainer": "木村 哲也",
+		"pop": "4",
+		"corner": [
+			14,
+			13
+		],
+		"title": "京王杯スプリングカップ"
+	},
+	{
+		"rank": 1,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "アヴェラーレ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:32.1",
+		"margin": "",
+		"h_weight": 442,
+		"h_weight_zougen": -12,
+		"f_time": "32.8",
+		"trainer": "木村 哲也",
+		"pop": "4",
+		"corner": [
+			8,
+			8
+		],
+		"title": "関屋記念"
+	},
+	{
+		"rank": 7,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "アヴェラーレ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "川田 将雅",
+		"time": "1:20.4",
+		"margin": "１／２",
+		"h_weight": 446,
+		"h_weight_zougen": 4,
+		"f_time": "34.3",
+		"trainer": "木村 哲也",
+		"pop": "1",
+		"corner": [
+			8,
+			10
+		],
+		"title": "MBS賞スワンステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 18,
+		"horse": "アヴェラーレ",
+		"age": "牝6",
+		"weight": "56.0",
+		"jockey": "A.ルメートル",
+		"time": "1:34.1",
+		"margin": "１ 1/4",
+		"h_weight": 448,
+		"h_weight_zougen": 2,
+		"f_time": "35.6",
+		"trainer": "木村 哲也",
+		"pop": "6",
+		"corner": [
+			9,
+			9
+		],
+		"title": "スポーツニッポン賞京都金杯"
+	},
+	{
+		"rank": 7,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "アヴェラーレ",
+		"age": "牝6",
+		"weight": "56.0",
+		"jockey": "R.キングスコート",
+		"time": "1:32.6",
+		"margin": "３／４",
+		"h_weight": 452,
+		"h_weight_zougen": 4,
+		"f_time": "33.1",
+		"trainer": "木村 哲也",
+		"pop": "5",
+		"corner": [
+			13,
+			14
+		],
+		"title": "東京新聞杯"
+	}
+]

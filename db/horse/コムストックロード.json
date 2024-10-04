@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 16,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "コムストックロード",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "国分 優作",
+		"time": "1:21.6",
+		"margin": "クビ",
+		"h_weight": 438,
+		"h_weight_zougen": -12,
+		"f_time": "34.6",
+		"trainer": "中野 栄治",
+		"pop": "18",
+		"corner": [
+			8,
+			9
+		],
+		"title": "京都牝馬ステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "コムストックロード",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "B.ムルザバエフ",
+		"time": "1:20.5",
+		"margin": "１",
+		"h_weight": 454,
+		"h_weight_zougen": -6,
+		"f_time": "33.5",
+		"trainer": "中野 栄治",
+		"pop": "16",
+		"corner": [
+			16,
+			14
+		],
+		"title": "京都牝馬ステークス"
+	}
+]

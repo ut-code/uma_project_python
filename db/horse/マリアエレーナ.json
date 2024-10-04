@@ -1,0 +1,163 @@
+[
+	{
+		"rank": 15,
+		"waku": "枠8桃",
+		"umaban": 14,
+		"horse": "マリアエレーナ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "三浦 皇成",
+		"time": "2:15.3",
+		"margin": "３／４",
+		"h_weight": 438,
+		"h_weight_zougen": 10,
+		"f_time": "37.2",
+		"trainer": "吉田 直弘",
+		"pop": "7",
+		"corner": [
+			6,
+			6,
+			5,
+			5
+		],
+		"title": "エリザベス女王杯"
+	},
+	{
+		"rank": 5,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "マリアエレーナ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "浜中 俊",
+		"time": "1:57.9",
+		"margin": "３／４",
+		"h_weight": 428,
+		"h_weight_zougen": 4,
+		"f_time": "35.0",
+		"trainer": "吉田 直弘",
+		"pop": "6",
+		"corner": [
+			10,
+			10,
+			8,
+			9
+		],
+		"title": "大阪杯"
+	},
+	{
+		"rank": 3,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "マリアエレーナ",
+		"age": "牝5",
+		"weight": "56.5",
+		"jockey": "松山 弘平",
+		"time": "2:03.6",
+		"margin": "１ 1/4",
+		"h_weight": 424,
+		"h_weight_zougen": -2,
+		"f_time": "34.4",
+		"trainer": "吉田 直弘",
+		"pop": "2",
+		"corner": [
+			3,
+			3,
+			3,
+			3
+		],
+		"title": "愛知杯"
+	},
+	{
+		"rank": 8,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "マリアエレーナ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "松山 弘平",
+		"time": "2:00.5",
+		"margin": "アタマ",
+		"h_weight": 424,
+		"h_weight_zougen": 0,
+		"f_time": "34.7",
+		"trainer": "吉田 直弘",
+		"pop": "2",
+		"corner": [
+			5,
+			6,
+			6,
+			7
+		],
+		"title": "金鯱賞"
+	},
+	{
+		"rank": 5,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "マリアエレーナ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "松山 弘平",
+		"time": "1:59.3",
+		"margin": "クビ",
+		"h_weight": 430,
+		"h_weight_zougen": 2,
+		"f_time": "35.7",
+		"trainer": "吉田 直弘",
+		"pop": "2",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "鳴尾記念"
+	},
+	{
+		"rank": 4,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "マリアエレーナ",
+		"age": "牝5",
+		"weight": "56.5",
+		"jockey": "松山 弘平",
+		"time": "1:58.4",
+		"margin": "クビ",
+		"h_weight": 428,
+		"h_weight_zougen": -2,
+		"f_time": "35.5",
+		"trainer": "吉田 直弘",
+		"pop": "1",
+		"corner": [
+			3,
+			3,
+			3,
+			2
+		],
+		"title": "農林水産省賞典 小倉記念"
+	},
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 14,
+		"horse": "マリアエレーナ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "三浦 皇成",
+		"time": "2:12.2",
+		"margin": "クビ",
+		"h_weight": 428,
+		"h_weight_zougen": 0,
+		"f_time": "35.0",
+		"trainer": "吉田 直弘",
+		"pop": "10",
+		"corner": [
+			7,
+			7,
+			7,
+			6
+		],
+		"title": "産経賞オールカマー"
+	}
+]

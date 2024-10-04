@@ -1,0 +1,45 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ルミノメテオール",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "M.デムーロ",
+		"time": "1:34.1",
+		"margin": "３／４",
+		"h_weight": 446,
+		"h_weight_zougen": 4,
+		"f_time": "34.0",
+		"trainer": "金成 貴史",
+		"pop": "3",
+		"corner": [
+			3,
+			3
+		],
+		"title": "チューリップ賞"
+	},
+	{
+		"rank": 6,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "ルミノメテオール",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "横山 武史",
+		"time": "1:34.2",
+		"margin": "アタマ",
+		"h_weight": 446,
+		"h_weight_zougen": 0,
+		"f_time": "35.9",
+		"trainer": "金成 貴史",
+		"pop": "4",
+		"corner": [
+			6,
+			6,
+			8
+		],
+		"title": "ニュージーランドトロフィー"
+	}
+]

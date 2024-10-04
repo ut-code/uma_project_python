@@ -1,0 +1,38 @@
+[
+	{
+		"rank": 18,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "ファイアダンサー",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "武藤 雅",
+		"time": "0:57.4",
+		"margin": "１",
+		"h_weight": 462,
+		"h_weight_zougen": 4,
+		"f_time": "33.7",
+		"trainer": "鈴木 慎太郎",
+		"pop": "1",
+		"corner": [],
+		"title": "アイビスサマーダッシュ"
+	},
+	{
+		"rank": 16,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "ファイアダンサー",
+		"age": "牝6",
+		"weight": "55.0",
+		"jockey": "戸崎 圭太",
+		"time": "0:56.4",
+		"margin": "クビ",
+		"h_weight": 466,
+		"h_weight_zougen": -2,
+		"f_time": "33.6",
+		"trainer": "鈴木 慎太郎",
+		"pop": "4",
+		"corner": [],
+		"title": "アイビスサマーダッシュ"
+	}
+]

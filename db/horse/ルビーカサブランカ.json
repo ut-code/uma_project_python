@@ -1,0 +1,94 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠6緑",
+		"umaban": 10,
+		"horse": "ルビーカサブランカ",
+		"age": "牝6",
+		"weight": "55.0",
+		"jockey": "武 豊",
+		"time": "2:04.6",
+		"margin": "１",
+		"h_weight": 480,
+		"h_weight_zougen": -2,
+		"f_time": "35.1",
+		"trainer": "須貝 尚介",
+		"pop": "4",
+		"corner": [
+			12,
+			12,
+			9,
+			5
+		],
+		"title": "愛知杯"
+	},
+	{
+		"rank": 12,
+		"waku": "枠5黄",
+		"umaban": 6,
+		"horse": "ルビーカサブランカ",
+		"age": "牝6",
+		"weight": "55.0",
+		"jockey": "西村 淳也",
+		"time": "2:00.8",
+		"margin": "１／２",
+		"h_weight": 480,
+		"h_weight_zougen": 0,
+		"f_time": "35.0",
+		"trainer": "須貝 尚介",
+		"pop": "9",
+		"corner": [
+			5,
+			6,
+			6,
+			7
+		],
+		"title": "金鯱賞"
+	},
+	{
+		"rank": 2,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "ルビーカサブランカ",
+		"age": "牝6",
+		"weight": "55.0",
+		"jockey": "吉田 隼人",
+		"time": "2:01.8",
+		"margin": "２",
+		"h_weight": 478,
+		"h_weight_zougen": -2,
+		"f_time": "36.3",
+		"trainer": "須貝 尚介",
+		"pop": "4",
+		"corner": [
+			8,
+			7,
+			7,
+			5
+		],
+		"title": "農林水産省賞典 函館記念"
+	},
+	{
+		"rank": 4,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "ルビーカサブランカ",
+		"age": "牝6",
+		"weight": "55.0",
+		"jockey": "C.ルメール",
+		"time": "1:46.9",
+		"margin": "クビ",
+		"h_weight": 478,
+		"h_weight_zougen": 0,
+		"f_time": "34.7",
+		"trainer": "須貝 尚介",
+		"pop": "2",
+		"corner": [
+			7,
+			7,
+			9,
+			10
+		],
+		"title": "北海道新聞杯クイーンステークス"
+	}
+]

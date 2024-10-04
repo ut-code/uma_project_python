@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "グランアルティスタ",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "原 優介",
+		"time": "2:25.1",
+		"margin": "１ 1/4",
+		"h_weight": 502,
+		"h_weight_zougen": -14,
+		"f_time": "34.6",
+		"trainer": "寺島 良",
+		"pop": "14",
+		"corner": [
+			9,
+			8,
+			9,
+			9
+		],
+		"title": "テレビ東京杯青葉賞"
+	}
+]

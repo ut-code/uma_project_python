@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 6,
+		"horse": "コウユーヌレエフ",
+		"age": "牡9",
+		"weight": "60.0",
+		"jockey": "大江原 圭",
+		"time": "3:28.1",
+		"margin": "クビ",
+		"h_weight": 512,
+		"h_weight_zougen": 12,
+		"f_time": "13.4",
+		"trainer": "斉藤 崇史",
+		"pop": "10",
+		"corner": [
+			3,
+			3,
+			4,
+			5
+		],
+		"title": "東京ジャンプステークス"
+	},
+	{
+		"rank": 13,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "コウユーヌレエフ",
+		"age": "牡10",
+		"weight": "60.0",
+		"jockey": "小牧 加矢太",
+		"time": "3:36.1",
+		"margin": "大差",
+		"h_weight": 494,
+		"h_weight_zougen": -18,
+		"f_time": "13.9",
+		"trainer": "斉藤 崇史",
+		"pop": "13",
+		"corner": [
+			4,
+			5,
+			8,
+			10
+		],
+		"title": "東京ジャンプステークス"
+	}
+]

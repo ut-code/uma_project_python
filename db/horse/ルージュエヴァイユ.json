@@ -1,0 +1,161 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ルージュエヴァイユ",
+		"age": "牝4",
+		"weight": "56.0",
+		"jockey": "松山 弘平",
+		"time": "2:12.7",
+		"margin": "３／４",
+		"h_weight": 468,
+		"h_weight_zougen": -2,
+		"f_time": "34.3",
+		"trainer": "黒岩 陽一",
+		"pop": "5",
+		"corner": [
+			7,
+			7,
+			8,
+			8
+		],
+		"title": "エリザベス女王杯"
+	},
+	{
+		"rank": 3,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ルージュエヴァイユ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "菅原 明良",
+		"time": "1:58.2",
+		"margin": "ハナ",
+		"h_weight": 464,
+		"h_weight_zougen": -14,
+		"f_time": "34.0",
+		"trainer": "黒岩 陽一",
+		"pop": "11",
+		"corner": [
+			12,
+			12,
+			11,
+			10
+		],
+		"title": "大阪杯"
+	},
+	{
+		"rank": 8,
+		"waku": "枠8桃",
+		"umaban": 13,
+		"horse": "ルージュエヴァイユ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "川田 将雅",
+		"time": "2:12.9",
+		"margin": "ハナ",
+		"h_weight": 468,
+		"h_weight_zougen": 4,
+		"f_time": "35.3",
+		"trainer": "黒岩 陽一",
+		"pop": "10",
+		"corner": [
+			1,
+			1,
+			1,
+			2
+		],
+		"title": "宝塚記念"
+	},
+	{
+		"rank": 12,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "ルージュエヴァイユ",
+		"age": "牝4",
+		"weight": "54.0",
+		"jockey": "戸崎 圭太",
+		"time": "2:04.9",
+		"margin": "１ 1/4",
+		"h_weight": 458,
+		"h_weight_zougen": -4,
+		"f_time": "34.9",
+		"trainer": "黒岩 陽一",
+		"pop": "3",
+		"corner": [
+			13,
+			12,
+			15,
+			15
+		],
+		"title": "愛知杯"
+	},
+	{
+		"rank": 2,
+		"waku": "枠8桃",
+		"umaban": 17,
+		"horse": "ルージュエヴァイユ",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "石川 裕紀人",
+		"time": "1:45.7",
+		"margin": "１ 1/4",
+		"h_weight": 466,
+		"h_weight_zougen": 0,
+		"f_time": "35.3",
+		"trainer": "黒岩 陽一",
+		"pop": "7",
+		"corner": [
+			2,
+			2,
+			2
+		],
+		"title": "エプソムカップ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠4青",
+		"umaban": 5,
+		"horse": "ルージュエヴァイユ",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "横山 武史",
+		"time": "1:46.1",
+		"margin": "ハナ",
+		"h_weight": 470,
+		"h_weight_zougen": 4,
+		"f_time": "32.7",
+		"trainer": "黒岩 陽一",
+		"pop": "4",
+		"corner": [
+			12,
+			8,
+			8
+		],
+		"title": "アイルランドトロフィー府中牝馬ステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "ルージュエヴァイユ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "松山 弘平",
+		"time": "2:12.8",
+		"margin": "１／２",
+		"h_weight": 478,
+		"h_weight_zougen": 10,
+		"f_time": "35.0",
+		"trainer": "黒岩 陽一",
+		"pop": "2",
+		"corner": [
+			9,
+			9,
+			10,
+			10
+		],
+		"title": "京都記念"
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "トロピカルライト",
+		"age": "牝4",
+		"weight": "49.0",
+		"jockey": "丸田 恭介",
+		"time": "3:31.0",
+		"margin": "３／４",
+		"h_weight": 476,
+		"h_weight_zougen": -2,
+		"f_time": "33.9",
+		"trainer": "宗像 義忠",
+		"pop": "6",
+		"corner": [
+			10,
+			10,
+			10,
+			10
+		],
+		"title": "ダイヤモンドステークス"
+	}
+]

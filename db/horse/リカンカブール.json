@@ -1,0 +1,94 @@
+[
+	{
+		"rank": 16,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "リカンカブール",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "津村 明秀",
+		"time": "2:00.5",
+		"margin": "２",
+		"h_weight": 498,
+		"h_weight_zougen": 4,
+		"f_time": "36.7",
+		"trainer": "田中 克典",
+		"pop": "12",
+		"corner": [
+			3,
+			3,
+			7,
+			8
+		],
+		"title": "大阪杯"
+	},
+	{
+		"rank": 7,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "リカンカブール",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "藤岡 康太",
+		"time": "1:59.3",
+		"margin": "１／２",
+		"h_weight": 506,
+		"h_weight_zougen": 12,
+		"f_time": "34.7",
+		"trainer": "田中 克典",
+		"pop": "7",
+		"corner": [
+			13,
+			13,
+			12,
+			12
+		],
+		"title": "チャレンジカップ"
+	},
+	{
+		"rank": 1,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "リカンカブール",
+		"age": "牡5",
+		"weight": "56.0",
+		"jockey": "津村 明秀",
+		"time": "1:58.9",
+		"margin": "",
+		"h_weight": 494,
+		"h_weight_zougen": -12,
+		"f_time": "34.5",
+		"trainer": "田中 克典",
+		"pop": "5",
+		"corner": [
+			3,
+			4,
+			4,
+			4
+		],
+		"title": "日刊スポーツ賞中山金杯"
+	},
+	{
+		"rank": 8,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "リカンカブール",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "津村 明秀",
+		"time": "2:00.3",
+		"margin": "クビ",
+		"h_weight": 490,
+		"h_weight_zougen": -8,
+		"f_time": "35.8",
+		"trainer": "田中 克典",
+		"pop": "11",
+		"corner": [
+			3,
+			4,
+			6,
+			5
+		],
+		"title": "農林水産省賞典 函館記念"
+	}
+]

@@ -1,0 +1,93 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "ゴールデンハインド",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "菅原 明良",
+		"time": "2:25.8",
+		"margin": "３ 1/2",
+		"h_weight": 492,
+		"h_weight_zougen": 6,
+		"f_time": "37.0",
+		"trainer": "武市 康男",
+		"pop": "4",
+		"corner": [
+			5,
+			5,
+			5,
+			5
+		],
+		"title": "オークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ゴールデンハインド",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "丹内 祐次",
+		"time": "1:53.6",
+		"margin": "１",
+		"h_weight": 476,
+		"h_weight_zougen": 4,
+		"f_time": "37.9",
+		"trainer": "武市 康男",
+		"pop": "7",
+		"corner": [
+			3,
+			4,
+			3,
+			2
+		],
+		"title": "フラワーカップ"
+	},
+	{
+		"rank": 1,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "ゴールデンハインド",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "菅原 明良",
+		"time": "1:58.9",
+		"margin": "",
+		"h_weight": 486,
+		"h_weight_zougen": 10,
+		"f_time": "34.1",
+		"trainer": "武市 康男",
+		"pop": "7",
+		"corner": [
+			1,
+			1,
+			1
+		],
+		"title": "サンケイスポーツ賞フローラステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "ゴールデンハインド",
+		"age": "牝4",
+		"weight": "54.0",
+		"jockey": "菅原 明良",
+		"time": "1:59.5",
+		"margin": "アタマ",
+		"h_weight": 498,
+		"h_weight_zougen": 6,
+		"f_time": "35.4",
+		"trainer": "武市 康男",
+		"pop": "4",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "日刊スポーツ賞中山金杯"
+	}
+]

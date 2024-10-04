@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "マリネロ",
+		"age": "牝5",
+		"weight": "50.0",
+		"jockey": "松若 風馬",
+		"time": "1:57.9",
+		"margin": "クビ",
+		"h_weight": 424,
+		"h_weight_zougen": -2,
+		"f_time": "34.2",
+		"trainer": "嘉藤 貴行",
+		"pop": "14",
+		"corner": [
+			11,
+			13,
+			12,
+			14
+		],
+		"title": "マーメイドステークス"
+	}
+]

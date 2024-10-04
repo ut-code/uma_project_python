@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠6緑",
+		"umaban": 7,
+		"horse": "テーオーコンドル",
+		"age": "せん4",
+		"weight": "60.0",
+		"jockey": "五十嵐 雄祐",
+		"time": "3:42.2",
+		"margin": "３",
+		"h_weight": 470,
+		"h_weight_zougen": 6,
+		"f_time": "14.0",
+		"trainer": "宮 徹",
+		"pop": "11",
+		"corner": [
+			2,
+			2,
+			7,
+			10
+		],
+		"title": "京都ジャンプステークス"
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠6緑",
+		"umaban": 6,
+		"horse": "コートアリシアン",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "菅原 明良",
+		"time": "1:34.3",
+		"margin": "１／２",
+		"h_weight": 434,
+		"h_weight_zougen": -4,
+		"f_time": "33.9",
+		"trainer": "伊藤 大士",
+		"pop": "1",
+		"corner": [
+			5,
+			5
+		],
+		"title": "新潟2歳ステークス"
+	}
+]

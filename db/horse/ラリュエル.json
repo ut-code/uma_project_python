@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ラリュエル",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "北村 友一",
+		"time": "1:48.1",
+		"margin": "１ 3/4",
+		"h_weight": 418,
+		"h_weight_zougen": -4,
+		"f_time": "36.1",
+		"trainer": "矢作 芳人",
+		"pop": "9",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "福島牝馬ステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "ラリュエル",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "佐々木 大輔",
+		"time": "1:47.8",
+		"margin": "１／２",
+		"h_weight": 434,
+		"h_weight_zougen": 6,
+		"f_time": "35.0",
+		"trainer": "矢作 芳人",
+		"pop": "11",
+		"corner": [
+			5,
+			5,
+			8,
+			10
+		],
+		"title": "北海道新聞杯クイーンステークス"
+	}
+]

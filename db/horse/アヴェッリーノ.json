@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 16,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "アヴェッリーノ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "木幡 巧也",
+		"time": "1:54.5",
+		"margin": "大差",
+		"h_weight": 482,
+		"h_weight_zougen": -2,
+		"f_time": "40.7",
+		"trainer": "的場 均",
+		"pop": "16",
+		"corner": [
+			10,
+			11,
+			13,
+			16
+		],
+		"title": "フジテレビ賞スプリングステークス"
+	}
+]

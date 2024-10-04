@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠6緑",
+		"umaban": 10,
+		"horse": "コスモブッドレア",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "石川 裕紀人",
+		"time": "2:00.6",
+		"margin": "クビ",
+		"h_weight": 482,
+		"h_weight_zougen": 6,
+		"f_time": "34.8",
+		"trainer": "小野 次郎",
+		"pop": "10",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "京成杯"
+	},
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 9,
+		"horse": "コスモブッドレア",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "石川 裕紀人",
+		"time": "1:50.1",
+		"margin": "同着",
+		"h_weight": 480,
+		"h_weight_zougen": -2,
+		"f_time": "34.2",
+		"trainer": "小野 次郎",
+		"pop": "7",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "フジテレビ賞スプリングステークス"
+	},
+	{
+		"rank": 7,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "コスモブッドレア",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "石川 裕紀人",
+		"time": "2:24.7",
+		"margin": "３／４",
+		"h_weight": 482,
+		"h_weight_zougen": 2,
+		"f_time": "34.7",
+		"trainer": "小野 次郎",
+		"pop": "13",
+		"corner": [
+			4,
+			4,
+			3,
+			3
+		],
+		"title": "テレビ東京杯青葉賞"
+	}
+]

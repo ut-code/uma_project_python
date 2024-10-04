@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "オメガレインボー",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "藤岡 佑介",
+		"time": "1:24.1",
+		"margin": "６",
+		"h_weight": 468,
+		"h_weight_zougen": 0,
+		"f_time": "37.5",
+		"trainer": "安田 翔伍",
+		"pop": "5",
+		"corner": [
+			8,
+			8
+		],
+		"title": "プロキオンステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "オメガレインボー",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "横山 和生",
+		"time": "1:10.5",
+		"margin": "クビ",
+		"h_weight": 466,
+		"h_weight_zougen": -2,
+		"f_time": "35.5",
+		"trainer": "安田 翔伍",
+		"pop": "7",
+		"corner": [
+			10,
+			13
+		],
+		"title": "カペラステークス"
+	}
+]

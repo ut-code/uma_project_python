@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "ケイアイターコイズ",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "横山 和生",
+		"time": "1:37.5",
+		"margin": "３／４",
+		"h_weight": 522,
+		"h_weight_zougen": -6,
+		"f_time": "38.3",
+		"trainer": "新谷 功一",
+		"pop": "15",
+		"corner": [
+			2,
+			2
+		],
+		"title": "フェブラリーステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ケイアイターコイズ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "藤懸 貴志",
+		"time": "1:25.7",
+		"margin": "５",
+		"h_weight": 528,
+		"h_weight_zougen": 0,
+		"f_time": "38.6",
+		"trainer": "新谷 功一",
+		"pop": "10",
+		"corner": [
+			13,
+			14
+		],
+		"title": "プロキオンステークス"
+	}
+]

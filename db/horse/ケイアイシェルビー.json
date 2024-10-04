@@ -1,0 +1,46 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ケイアイシェルビー",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "藤懸 貴志",
+		"time": "1:52.1",
+		"margin": "３／４",
+		"h_weight": 476,
+		"h_weight_zougen": 8,
+		"f_time": "38.7",
+		"trainer": "平田 修",
+		"pop": "15",
+		"corner": [
+			2,
+			3,
+			2,
+			3
+		],
+		"title": "チャンピオンズカップ"
+	},
+	{
+		"rank": 4,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "ケイアイシェルビー",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "藤懸 貴志",
+		"time": "1:35.9",
+		"margin": "クビ",
+		"h_weight": 468,
+		"h_weight_zougen": -2,
+		"f_time": "37.4",
+		"trainer": "平田 修",
+		"pop": "12",
+		"corner": [
+			2,
+			2
+		],
+		"title": "東京中日スポーツ杯武蔵野ステークス"
+	}
+]

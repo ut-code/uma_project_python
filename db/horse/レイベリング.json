@@ -1,0 +1,46 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "レイベリング",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "M.デムーロ",
+		"time": "1:48.1",
+		"margin": "１ 3/4",
+		"h_weight": 472,
+		"h_weight_zougen": 2,
+		"f_time": "34.2",
+		"trainer": "鹿戸 雄一",
+		"pop": "4",
+		"corner": [
+			9,
+			9,
+			8
+		],
+		"title": "共同通信杯"
+	},
+	{
+		"rank": 8,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "レイベリング",
+		"age": "牡4",
+		"weight": "55.0",
+		"jockey": "丹内 祐次",
+		"time": "1:33.8",
+		"margin": "アタマ",
+		"h_weight": 478,
+		"h_weight_zougen": 0,
+		"f_time": "34.1",
+		"trainer": "鹿戸 雄一",
+		"pop": "10",
+		"corner": [
+			8,
+			11,
+			10
+		],
+		"title": "ダービー卿チャレンジトロフィー"
+	}
+]

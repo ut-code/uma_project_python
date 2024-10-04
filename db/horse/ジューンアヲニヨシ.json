@@ -1,0 +1,46 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ジューンアヲニヨシ",
+		"age": "牡4",
+		"weight": "55.0",
+		"jockey": "池添 謙一",
+		"time": "2:32.9",
+		"margin": "クビ",
+		"h_weight": 482,
+		"h_weight_zougen": -2,
+		"f_time": "33.8",
+		"trainer": "松下 武士",
+		"pop": "5",
+		"corner": [
+			6,
+			6,
+			7,
+			7
+		],
+		"title": "目黒記念"
+	},
+	{
+		"rank": 9,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "ジューンアヲニヨシ",
+		"age": "牡4",
+		"weight": "55.0",
+		"jockey": "池添 謙一",
+		"time": "1:58.9",
+		"margin": "２ 1/2",
+		"h_weight": 498,
+		"h_weight_zougen": 16,
+		"f_time": "34.4",
+		"trainer": "松下 武士",
+		"pop": "6",
+		"corner": [
+			6,
+			6
+		],
+		"title": "農林水産省賞典 新潟記念"
+	}
+]

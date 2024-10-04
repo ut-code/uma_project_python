@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "キタノヴィジョン",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "江田 照男",
+		"time": "1:51.5",
+		"margin": "１",
+		"h_weight": 496,
+		"h_weight_zougen": 2,
+		"f_time": "36.5",
+		"trainer": "萱野 浩二",
+		"pop": "11",
+		"corner": [
+			14,
+			14,
+			12,
+			10
+		],
+		"title": "マーチステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "キタノヴィジョン",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "石川 裕紀人",
+		"time": "1:51.5",
+		"margin": "３／４",
+		"h_weight": 496,
+		"h_weight_zougen": -2,
+		"f_time": "36.7",
+		"trainer": "萱野 浩二",
+		"pop": "9",
+		"corner": [
+			9,
+			10,
+			11,
+			7
+		],
+		"title": "マーチステークス"
+	}
+]

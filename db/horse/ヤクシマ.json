@@ -1,0 +1,86 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠8桃",
+		"umaban": 17,
+		"horse": "ヤクシマ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "C.ルメール",
+		"time": "1:35.0",
+		"margin": "ハナ",
+		"h_weight": 504,
+		"h_weight_zougen": 6,
+		"f_time": "35.8",
+		"trainer": "寺島 良",
+		"pop": "6",
+		"corner": [
+			7,
+			7
+		],
+		"title": "アーリントンカップ"
+	},
+	{
+		"rank": 11,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "ヤクシマ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "池添 謙一",
+		"time": "1:07.9",
+		"margin": "クビ",
+		"h_weight": 498,
+		"h_weight_zougen": -10,
+		"f_time": "33.2",
+		"trainer": "寺島 良",
+		"pop": "9",
+		"corner": [
+			8,
+			8
+		],
+		"title": "葵ステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "ヤクシマ",
+		"age": "牡4",
+		"weight": "55.0",
+		"jockey": "幸 英明",
+		"time": "1:08.8",
+		"margin": "クビ",
+		"h_weight": 520,
+		"h_weight_zougen": -4,
+		"f_time": "35.2",
+		"trainer": "寺島 良",
+		"pop": "15",
+		"corner": [
+			16,
+			14
+		],
+		"title": "テレビ西日本賞北九州記念"
+	},
+	{
+		"rank": 12,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "ヤクシマ",
+		"age": "牡4",
+		"weight": "55.0",
+		"jockey": "西塚 洸二",
+		"time": "1:08.1",
+		"margin": "アタマ",
+		"h_weight": 510,
+		"h_weight_zougen": -10,
+		"f_time": "33.2",
+		"trainer": "寺島 良",
+		"pop": "17",
+		"corner": [
+			16,
+			16
+		],
+		"title": "CBC賞"
+	}
+]

@@ -1,0 +1,94 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "マイネルラウレア",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "岩田 望来",
+		"time": "3:04.1",
+		"margin": "ハナ",
+		"h_weight": 500,
+		"h_weight_zougen": 4,
+		"f_time": "35.1",
+		"trainer": "宮 徹",
+		"pop": "11",
+		"corner": [
+			15,
+			15,
+			12,
+			12
+		],
+		"title": "菊花賞"
+	},
+	{
+		"rank": 14,
+		"waku": "枠8桃",
+		"umaban": 18,
+		"horse": "マイネルラウレア",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "2:02.9",
+		"margin": "ハナ",
+		"h_weight": 510,
+		"h_weight_zougen": 8,
+		"f_time": "37.4",
+		"trainer": "宮 徹",
+		"pop": "11",
+		"corner": [
+			16,
+			17,
+			18,
+			18
+		],
+		"title": "皐月賞"
+	},
+	{
+		"rank": 5,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "マイネルラウレア",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "和田 竜二",
+		"time": "2:14.2",
+		"margin": "クビ",
+		"h_weight": 502,
+		"h_weight_zougen": -8,
+		"f_time": "33.2",
+		"trainer": "宮 徹",
+		"pop": "3",
+		"corner": [
+			5,
+			5,
+			8,
+			8
+		],
+		"title": "京都新聞杯"
+	},
+	{
+		"rank": 8,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "マイネルラウレア",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "横山 武史",
+		"time": "2:24.1",
+		"margin": "１ 1/4",
+		"h_weight": 496,
+		"h_weight_zougen": -6,
+		"f_time": "33.4",
+		"trainer": "宮 徹",
+		"pop": "6",
+		"corner": [
+			8,
+			8,
+			9,
+			10
+		],
+		"title": "神戸新聞杯"
+	}
+]

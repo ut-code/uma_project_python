@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "パーソナルハイ",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "斎藤 新",
+		"time": "1:48.2",
+		"margin": "ハナ",
+		"h_weight": 464,
+		"h_weight_zougen": -6,
+		"f_time": "35.0",
+		"trainer": "矢作 芳人",
+		"pop": "13",
+		"corner": [
+			4,
+			4,
+			3,
+			6
+		],
+		"title": "福島牝馬ステークス"
+	}
+]

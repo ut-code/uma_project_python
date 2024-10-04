@@ -1,0 +1,172 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ウイングレイテスト",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "松岡 正海",
+		"time": "1:50.5",
+		"margin": "クビ",
+		"h_weight": 506,
+		"h_weight_zougen": -6,
+		"f_time": "36.7",
+		"trainer": "畠山 吉宏",
+		"pop": "5",
+		"corner": [
+			6,
+			6,
+			4,
+			4
+		],
+		"title": "小倉大賞典"
+	},
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "ウイングレイテスト",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "松岡 正海",
+		"time": "1:33.6",
+		"margin": "クビ",
+		"h_weight": 512,
+		"h_weight_zougen": 6,
+		"f_time": "34.1",
+		"trainer": "畠山 吉宏",
+		"pop": "6",
+		"corner": [
+			3,
+			3,
+			3
+		],
+		"title": "ダービー卿チャレンジトロフィー"
+	},
+	{
+		"rank": 4,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "ウイングレイテスト",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "松岡 正海",
+		"time": "1:33.5",
+		"margin": "ハナ",
+		"h_weight": 494,
+		"h_weight_zougen": -2,
+		"f_time": "35.3",
+		"trainer": "畠山 吉宏",
+		"pop": "3",
+		"corner": [
+			7,
+			6,
+			7
+		],
+		"title": "中京記念"
+	},
+	{
+		"rank": 2,
+		"waku": "枠8桃",
+		"umaban": 10,
+		"horse": "ウイングレイテスト",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "松岡 正海",
+		"time": "1:31.6",
+		"margin": "クビ",
+		"h_weight": 496,
+		"h_weight_zougen": 2,
+		"f_time": "33.9",
+		"trainer": "畠山 吉宏",
+		"pop": "5",
+		"corner": [
+			2,
+			2,
+			2
+		],
+		"title": "京成杯オータムハンデキャップ"
+	},
+	{
+		"rank": 1,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ウイングレイテスト",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "松岡 正海",
+		"time": "1:19.9",
+		"margin": "",
+		"h_weight": 500,
+		"h_weight_zougen": 4,
+		"f_time": "34.4",
+		"trainer": "畠山 吉宏",
+		"pop": "10",
+		"corner": [
+			2,
+			2
+		],
+		"title": "MBS賞スワンステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠8桃",
+		"umaban": 17,
+		"horse": "ウイングレイテスト",
+		"age": "牡6",
+		"weight": "58.0",
+		"jockey": "松岡 正海",
+		"time": "1:19.6",
+		"margin": "クビ",
+		"h_weight": 508,
+		"h_weight_zougen": 8,
+		"f_time": "35.3",
+		"trainer": "畠山 吉宏",
+		"pop": "7",
+		"corner": [
+			1,
+			1
+		],
+		"title": "阪神カップ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "ウイングレイテスト",
+		"age": "牡7",
+		"weight": "59.0",
+		"jockey": "松岡 正海",
+		"time": "1:08.6",
+		"margin": "１ 1/4",
+		"h_weight": 504,
+		"h_weight_zougen": null,
+		"f_time": "34.8",
+		"trainer": "畠山 吉宏",
+		"pop": "5",
+		"corner": [
+			3,
+			3
+		],
+		"title": "函館スプリントステークス"
+	},
+	{
+		"rank": 2,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ウイングレイテスト",
+		"age": "牡7",
+		"weight": "59.0",
+		"jockey": "松岡 正海",
+		"time": "0:55.4",
+		"margin": "クビ",
+		"h_weight": 504,
+		"h_weight_zougen": 0,
+		"f_time": "33.1",
+		"trainer": "畠山 吉宏",
+		"pop": "2",
+		"corner": [],
+		"title": "アイビスサマーダッシュ"
+	}
+]

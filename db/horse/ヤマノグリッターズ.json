@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠6緑",
+		"umaban": 7,
+		"horse": "ヤマノグリッターズ",
+		"age": "牡5",
+		"weight": "60.0",
+		"jockey": "草野 太郎",
+		"time": "3:31.8",
+		"margin": "３ 1/2",
+		"h_weight": 504,
+		"h_weight_zougen": 10,
+		"f_time": "13.0",
+		"trainer": "松山 将樹",
+		"pop": "11",
+		"corner": [
+			9,
+			9,
+			8,
+			5
+		],
+		"title": "新潟ジャンプステークス"
+	},
+	{
+		"rank": 7,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "ヤマノグリッターズ",
+		"age": "牡5",
+		"weight": "60.0",
+		"jockey": "五十嵐 雄祐",
+		"time": "3:30.0",
+		"margin": "１",
+		"h_weight": 498,
+		"h_weight_zougen": -4,
+		"f_time": "13.4",
+		"trainer": "松山 将樹",
+		"pop": "13",
+		"corner": [
+			3,
+			3,
+			3,
+			4
+		],
+		"title": "阪神ジャンプステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ヤマノグリッターズ",
+		"age": "牡5",
+		"weight": "60.0",
+		"jockey": "大江原 圭",
+		"time": "3:37.1",
+		"margin": "３／４",
+		"h_weight": 504,
+		"h_weight_zougen": 6,
+		"f_time": "14.0",
+		"trainer": "松山 将樹",
+		"pop": "12",
+		"corner": [
+			4,
+			5,
+			6,
+			5
+		],
+		"title": "東京ハイジャンプ"
+	}
+]

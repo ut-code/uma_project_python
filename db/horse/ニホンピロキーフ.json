@@ -1,0 +1,69 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "ニホンピロキーフ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "田口 貫太",
+		"time": "1:32.9",
+		"margin": "１／２",
+		"h_weight": 480,
+		"h_weight_zougen": 0,
+		"f_time": "35.0",
+		"trainer": "大橋 勇樹",
+		"pop": "6",
+		"corner": [
+			7,
+			6
+		],
+		"title": "読売マイラーズカップ"
+	},
+	{
+		"rank": 12,
+		"waku": "枠8桃",
+		"umaban": 13,
+		"horse": "ニホンピロキーフ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "田口 貫太",
+		"time": "1:59.0",
+		"margin": "２ 1/2",
+		"h_weight": 480,
+		"h_weight_zougen": 0,
+		"f_time": "35.7",
+		"trainer": "大橋 勇樹",
+		"pop": "3",
+		"corner": [
+			5,
+			5,
+			5,
+			6
+		],
+		"title": "鳴尾記念"
+	},
+	{
+		"rank": 5,
+		"waku": "枠8桃",
+		"umaban": 13,
+		"horse": "ニホンピロキーフ",
+		"age": "牡4",
+		"weight": "56.5",
+		"jockey": "田口 貫太",
+		"time": "1:47.5",
+		"margin": "１／２",
+		"h_weight": 474,
+		"h_weight_zougen": -6,
+		"f_time": "36.2",
+		"trainer": "大橋 勇樹",
+		"pop": "3",
+		"corner": [
+			11,
+			12,
+			13,
+			9
+		],
+		"title": "中京記念"
+	}
+]

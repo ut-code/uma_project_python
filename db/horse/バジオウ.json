@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "バジオウ",
+		"age": "牡5",
+		"weight": "55.0",
+		"jockey": "菱田 裕二",
+		"time": "1:49.8",
+		"margin": "１／２",
+		"h_weight": 472,
+		"h_weight_zougen": -8,
+		"f_time": "36.4",
+		"trainer": "田中 博康",
+		"pop": "10",
+		"corner": [
+			3,
+			3,
+			2,
+			1
+		],
+		"title": "小倉大賞典"
+	}
+]

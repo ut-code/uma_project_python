@@ -1,0 +1,111 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "ルージュリナージュ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "横山 和生",
+		"time": "1:32.2",
+		"margin": "１／２",
+		"h_weight": 448,
+		"h_weight_zougen": 2,
+		"f_time": "33.6",
+		"trainer": "宗像 義忠",
+		"pop": "13",
+		"corner": [
+			15,
+			15
+		],
+		"title": "ヴィクトリアマイル"
+	},
+	{
+		"rank": 11,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "ルージュリナージュ",
+		"age": "牝4",
+		"weight": "53.0",
+		"jockey": "横山 和生",
+		"time": "1:33.4",
+		"margin": "１／２",
+		"h_weight": 442,
+		"h_weight_zougen": -4,
+		"f_time": "33.7",
+		"trainer": "宗像 義忠",
+		"pop": "12",
+		"corner": [
+			15,
+			15,
+			14
+		],
+		"title": "ターコイズステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "ルージュリナージュ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "横山 和生",
+		"time": "1:32.7",
+		"margin": "１／２",
+		"h_weight": 448,
+		"h_weight_zougen": 6,
+		"f_time": "33.4",
+		"trainer": "宗像 義忠",
+		"pop": "13",
+		"corner": [
+			11,
+			11
+		],
+		"title": "東京新聞杯"
+	},
+	{
+		"rank": 13,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "ルージュリナージュ",
+		"age": "牝5",
+		"weight": "53.0",
+		"jockey": "丸田 恭介",
+		"time": "1:49.7",
+		"margin": "クビ",
+		"h_weight": 446,
+		"h_weight_zougen": -2,
+		"f_time": "36.1",
+		"trainer": "宗像 義忠",
+		"pop": "8",
+		"corner": [
+			10,
+			9,
+			11,
+			12
+		],
+		"title": "ローレル競馬場賞中山牝馬ステークス"
+	},
+	{
+		"rank": 11,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ルージュリナージュ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "丸田 恭介",
+		"time": "1:45.5",
+		"margin": "ハナ",
+		"h_weight": 446,
+		"h_weight_zougen": -2,
+		"f_time": "34.0",
+		"trainer": "宗像 義忠",
+		"pop": "8",
+		"corner": [
+			12,
+			14,
+			13
+		],
+		"title": "エプソムカップ"
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠6緑",
+		"umaban": 10,
+		"horse": "アドマイヤアルバ",
+		"age": "せん8",
+		"weight": "60.0",
+		"jockey": "上野 翔",
+		"time": "3:35.7",
+		"margin": "大差",
+		"h_weight": 476,
+		"h_weight_zougen": 2,
+		"f_time": "13.7",
+		"trainer": "堀内 岳志",
+		"pop": "9",
+		"corner": [
+			14,
+			14,
+			14,
+			14
+		],
+		"title": "阪神ジャンプステークス"
+	}
+]

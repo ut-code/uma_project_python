@@ -1,0 +1,92 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠8桃",
+		"umaban": 13,
+		"horse": "サトノシュトラーセ",
+		"age": "牡2",
+		"weight": "56.0",
+		"jockey": "川田 将雅",
+		"time": "1:59.9",
+		"margin": "ハナ",
+		"h_weight": 512,
+		"h_weight_zougen": 2,
+		"f_time": "35.7",
+		"trainer": "友道 康夫",
+		"pop": "3",
+		"corner": [
+			4,
+			4,
+			2,
+			2
+		],
+		"title": "ラジオNIKKEI杯京都2歳ステークス"
+	},
+	{
+		"rank": 6,
+		"waku": "枠8桃",
+		"umaban": 9,
+		"horse": "サトノシュトラーセ",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "藤岡 康太",
+		"time": "1:47.3",
+		"margin": "ハナ",
+		"h_weight": 516,
+		"h_weight_zougen": 10,
+		"f_time": "35.1",
+		"trainer": "友道 康夫",
+		"pop": "3",
+		"corner": [
+			7,
+			7
+		],
+		"title": "毎日杯"
+	},
+	{
+		"rank": 4,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "サトノシュトラーセ",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "M.デムーロ",
+		"time": "2:24.4",
+		"margin": "クビ",
+		"h_weight": 514,
+		"h_weight_zougen": -2,
+		"f_time": "34.0",
+		"trainer": "友道 康夫",
+		"pop": "6",
+		"corner": [
+			13,
+			11,
+			7,
+			8
+		],
+		"title": "テレビ東京杯青葉賞"
+	},
+	{
+		"rank": 9,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "サトノシュトラーセ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "M.デムーロ",
+		"time": "1:46.4",
+		"margin": "クビ",
+		"h_weight": 514,
+		"h_weight_zougen": 0,
+		"f_time": "35.8",
+		"trainer": "友道 康夫",
+		"pop": "1",
+		"corner": [
+			11,
+			11,
+			6,
+			8
+		],
+		"title": "ラジオNIKKEI賞"
+	}
+]

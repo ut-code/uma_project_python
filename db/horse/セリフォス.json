@@ -1,0 +1,86 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "セリフォス",
+		"age": "牡4",
+		"weight": "58.0",
+		"jockey": "川田 将雅",
+		"time": "1:32.9",
+		"margin": "ハナ",
+		"h_weight": 490,
+		"h_weight_zougen": 4,
+		"f_time": "34.4",
+		"trainer": "中内田 充正",
+		"pop": "2",
+		"corner": [
+			3,
+			5
+		],
+		"title": "マイルチャンピオンシップ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "セリフォス",
+		"age": "牡4",
+		"weight": "58.0",
+		"jockey": "D.レーン",
+		"time": "1:31.6",
+		"margin": "１ 1/4",
+		"h_weight": 486,
+		"h_weight_zougen": null,
+		"f_time": "33.6",
+		"trainer": "中内田 充正",
+		"pop": "3",
+		"corner": [
+			4,
+			5
+		],
+		"title": "農林水産省賞典 安田記念"
+	},
+	{
+		"rank": 5,
+		"waku": "枠8桃",
+		"umaban": 17,
+		"horse": "セリフォス",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "川田 将雅",
+		"time": "1:32.7",
+		"margin": "１／２",
+		"h_weight": 494,
+		"h_weight_zougen": -4,
+		"f_time": "33.0",
+		"trainer": "中内田 充正",
+		"pop": "3",
+		"corner": [
+			15,
+			15
+		],
+		"title": "安田記念"
+	},
+	{
+		"rank": 2,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "セリフォス",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "川田 将雅",
+		"time": "1:32.8",
+		"margin": "１ 3/4",
+		"h_weight": 498,
+		"h_weight_zougen": 12,
+		"f_time": "34.8",
+		"trainer": "中内田 充正",
+		"pop": "2",
+		"corner": [
+			8,
+			9
+		],
+		"title": "読売マイラーズカップ"
+	}
+]

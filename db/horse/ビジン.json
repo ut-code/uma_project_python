@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "ビジン",
+		"age": "牝4",
+		"weight": "50.0",
+		"jockey": "酒井 学",
+		"time": "2:04.4",
+		"margin": "１",
+		"h_weight": 464,
+		"h_weight_zougen": -4,
+		"f_time": "35.0",
+		"trainer": "武 英智",
+		"pop": "13",
+		"corner": [
+			5,
+			5,
+			6,
+			5
+		],
+		"title": "愛知杯"
+	},
+	{
+		"rank": 6,
+		"waku": "枠7橙",
+		"umaban": 11,
+		"horse": "ビジン",
+		"age": "牝4",
+		"weight": "53.0",
+		"jockey": "酒井 学",
+		"time": "1:59.3",
+		"margin": "１ 1/4",
+		"h_weight": 468,
+		"h_weight_zougen": 2,
+		"f_time": "37.2",
+		"trainer": "武 英智",
+		"pop": "8",
+		"corner": [
+			4,
+			4,
+			4,
+			1
+		],
+		"title": "マーメイドステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠8桃",
+		"umaban": 13,
+		"horse": "ビジン",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "藤岡 佑介",
+		"time": "1:47.7",
+		"margin": "１",
+		"h_weight": 468,
+		"h_weight_zougen": 0,
+		"f_time": "35.7",
+		"trainer": "武 英智",
+		"pop": "13",
+		"corner": [
+			4,
+			5,
+			6,
+			6
+		],
+		"title": "北海道新聞杯クイーンステークス"
+	}
+]

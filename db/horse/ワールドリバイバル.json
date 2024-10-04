@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "ワールドリバイバル",
+		"age": "牡6",
+		"weight": "55.0",
+		"jockey": "小牧 太",
+		"time": "1:49.2",
+		"margin": "１ 3/4",
+		"h_weight": 508,
+		"h_weight_zougen": -2,
+		"f_time": "39.0",
+		"trainer": "牧田 和弥",
+		"pop": "14",
+		"corner": [
+			3,
+			3,
+			2,
+			4
+		],
+		"title": "中京記念"
+	}
+]

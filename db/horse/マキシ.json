@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "マキシ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "松山 弘平",
+		"time": "2:14.1",
+		"margin": "クビ",
+		"h_weight": 504,
+		"h_weight_zougen": 16,
+		"f_time": "33.8",
+		"trainer": "辻野 泰之",
+		"pop": "4",
+		"corner": [
+			9,
+			5,
+			2,
+			2
+		],
+		"title": "京都新聞杯"
+	}
+]

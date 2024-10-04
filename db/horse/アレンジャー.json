@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "アレンジャー",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "横山 和生",
+		"time": "1:33.6",
+		"margin": "クビ",
+		"h_weight": 460,
+		"h_weight_zougen": 0,
+		"f_time": "34.2",
+		"trainer": "昆 貢",
+		"pop": "15",
+		"corner": [
+			15,
+			14
+		],
+		"title": "NHKマイルカップ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "アレンジャー",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "横山 典弘",
+		"time": "1:34.1",
+		"margin": "１／２",
+		"h_weight": 460,
+		"h_weight_zougen": -2,
+		"f_time": "32.9",
+		"trainer": "昆 貢",
+		"pop": "15",
+		"corner": [
+			2,
+			3
+		],
+		"title": "アーリントンカップ"
+	}
+]

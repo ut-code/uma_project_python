@@ -1,0 +1,94 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "グロリアムンディ",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "C.ルメール",
+		"time": "1:52.1",
+		"margin": "クビ",
+		"h_weight": 506,
+		"h_weight_zougen": -6,
+		"f_time": "38.3",
+		"trainer": "大久保 龍志",
+		"pop": "8",
+		"corner": [
+			4,
+			7,
+			7,
+			7
+		],
+		"title": "チャンピオンズカップ"
+	},
+	{
+		"rank": 1,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "グロリアムンディ",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "川田 将雅",
+		"time": "1:59.8",
+		"margin": "",
+		"h_weight": 510,
+		"h_weight_zougen": 9,
+		"f_time": "39.4",
+		"trainer": "大久保 龍志",
+		"pop": "1",
+		"corner": [
+			3,
+			3,
+			2,
+			1
+		],
+		"title": "平安ステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "グロリアムンディ",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "幸 英明",
+		"time": "1:58.0",
+		"margin": "クビ",
+		"h_weight": 510,
+		"h_weight_zougen": 3,
+		"f_time": "37.3",
+		"trainer": "大久保 龍志",
+		"pop": "9",
+		"corner": [
+			5,
+			5,
+			3,
+			3
+		],
+		"title": "平安ステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "グロリアムンディ",
+		"age": "牡6",
+		"weight": "58.0",
+		"jockey": "幸 英明",
+		"time": "1:44.5",
+		"margin": "２",
+		"h_weight": 512,
+		"h_weight_zougen": 2,
+		"f_time": "39.0",
+		"trainer": "大久保 龍志",
+		"pop": "7",
+		"corner": [
+			7,
+			7,
+			4,
+			4
+		],
+		"title": "プロキオンステークス"
+	}
+]

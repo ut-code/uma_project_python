@@ -1,0 +1,46 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "カンティアーモ",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "T.マーカンド",
+		"time": "1:35.1",
+		"margin": "３／４",
+		"h_weight": 482,
+		"h_weight_zougen": -4,
+		"f_time": "34.8",
+		"trainer": "木村 哲也",
+		"pop": "3",
+		"corner": [
+			9,
+			10
+		],
+		"title": "デイリー杯2歳ステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "カンティアーモ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "C.ルメール",
+		"time": "1:48.2",
+		"margin": "クビ",
+		"h_weight": 496,
+		"h_weight_zougen": 14,
+		"f_time": "35.3",
+		"trainer": "木村 哲也",
+		"pop": "1",
+		"corner": [
+			10,
+			9,
+			10,
+			9
+		],
+		"title": "フラワーカップ"
+	}
+]

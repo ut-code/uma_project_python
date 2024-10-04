@@ -1,0 +1,47 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "グランディア",
+		"age": "せん5",
+		"weight": "57.0",
+		"jockey": "三浦 皇成",
+		"time": "1:45.3",
+		"margin": "ハナ",
+		"h_weight": 482,
+		"h_weight_zougen": 2,
+		"f_time": "34.1",
+		"trainer": "中内田 充正",
+		"pop": "5",
+		"corner": [
+			10,
+			10,
+			9
+		],
+		"title": "エプソムカップ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "グランディア",
+		"age": "せん5",
+		"weight": "56.0",
+		"jockey": "三浦 皇成",
+		"time": "1:59.8",
+		"margin": "３ 1/2",
+		"h_weight": 476,
+		"h_weight_zougen": -6,
+		"f_time": "35.3",
+		"trainer": "中内田 充正",
+		"pop": "4",
+		"corner": [
+			7,
+			7,
+			6,
+			5
+		],
+		"title": "農林水産省賞典 函館記念"
+	}
+]

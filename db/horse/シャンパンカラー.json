@@ -1,0 +1,131 @@
+[
+	{
+		"rank": 16,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "シャンパンカラー",
+		"age": "牡4",
+		"weight": "58.0",
+		"jockey": "内田 博幸",
+		"time": "1:38.4",
+		"margin": "１／２",
+		"h_weight": 508,
+		"h_weight_zougen": 4,
+		"f_time": "40.0",
+		"trainer": "田中 剛",
+		"pop": "14",
+		"corner": [
+			6,
+			6
+		],
+		"title": "フェブラリーステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "シャンパンカラー",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "内田 博幸",
+		"time": "1:33.8",
+		"margin": "",
+		"h_weight": 500,
+		"h_weight_zougen": -4,
+		"f_time": "34.4",
+		"trainer": "田中 剛",
+		"pop": "9",
+		"corner": [
+			12,
+			13
+		],
+		"title": "NHKマイルカップ"
+	},
+	{
+		"rank": 17,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "シャンパンカラー",
+		"age": "牡4",
+		"weight": "58.0",
+		"jockey": "吉田 豊",
+		"time": "1:11.3",
+		"margin": "２ 1/2",
+		"h_weight": 510,
+		"h_weight_zougen": 2,
+		"f_time": "35.1",
+		"trainer": "田中 剛",
+		"pop": "14",
+		"corner": [
+			15,
+			16
+		],
+		"title": "高松宮記念"
+	},
+	{
+		"rank": 14,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "シャンパンカラー",
+		"age": "牡3",
+		"weight": "54.0",
+		"jockey": "内田 博幸",
+		"time": "1:32.6",
+		"margin": "１ 1/4",
+		"h_weight": 504,
+		"h_weight_zougen": 4,
+		"f_time": "34.5",
+		"trainer": "田中 剛",
+		"pop": "11",
+		"corner": [
+			6,
+			5
+		],
+		"title": "農林水産省賞典 安田記念"
+	},
+	{
+		"rank": 6,
+		"waku": "枠8桃",
+		"umaban": 9,
+		"horse": "シャンパンカラー",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "戸崎 圭太",
+		"time": "2:03.0",
+		"margin": "クビ",
+		"h_weight": 502,
+		"h_weight_zougen": 0,
+		"f_time": "35.8",
+		"trainer": "田中 剛",
+		"pop": "3",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "京成杯"
+	},
+	{
+		"rank": 3,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "シャンパンカラー",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "内田 博幸",
+		"time": "1:34.0",
+		"margin": "クビ",
+		"h_weight": 504,
+		"h_weight_zougen": 2,
+		"f_time": "35.7",
+		"trainer": "田中 剛",
+		"pop": "7",
+		"corner": [
+			6,
+			6,
+			4
+		],
+		"title": "ニュージーランドトロフィー"
+	}
+]

@@ -1,0 +1,70 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "シャーレイポピー",
+		"age": "牝5",
+		"weight": "53.0",
+		"jockey": "富田 暁",
+		"time": "1:33.6",
+		"margin": "１ 1/4",
+		"h_weight": 442,
+		"h_weight_zougen": 4,
+		"f_time": "34.8",
+		"trainer": "石坂 公一",
+		"pop": "16",
+		"corner": [
+			9,
+			12,
+			13
+		],
+		"title": "スポーツニッポン賞京都金杯"
+	},
+	{
+		"rank": 10,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "シャーレイポピー",
+		"age": "牝5",
+		"weight": "53.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:47.6",
+		"margin": "ハナ",
+		"h_weight": 438,
+		"h_weight_zougen": -4,
+		"f_time": "35.2",
+		"trainer": "石坂 公一",
+		"pop": "10",
+		"corner": [
+			2,
+			2,
+			5,
+			5
+		],
+		"title": "ローレル競馬場賞中山牝馬ステークス"
+	},
+	{
+		"rank": 13,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "シャーレイポピー",
+		"age": "牝5",
+		"weight": "53.0",
+		"jockey": "藤岡 康太",
+		"time": "2:03.2",
+		"margin": "４",
+		"h_weight": 452,
+		"h_weight_zougen": 14,
+		"f_time": "41.1",
+		"trainer": "石坂 公一",
+		"pop": "9",
+		"corner": [
+			1,
+			1,
+			2,
+			4
+		],
+		"title": "マーメイドステークス"
+	}
+]

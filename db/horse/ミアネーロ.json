@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ミアネーロ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "津村 明秀",
+		"time": "2:25.3",
+		"margin": "ハナ",
+		"h_weight": 476,
+		"h_weight_zougen": 4,
+		"f_time": "35.3",
+		"trainer": "林 徹",
+		"pop": "9",
+		"corner": [
+			7,
+			7,
+			9,
+			10
+		],
+		"title": "オークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠5黄",
+		"umaban": 5,
+		"horse": "ミアネーロ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "津村 明秀",
+		"time": "1:48.0",
+		"margin": "",
+		"h_weight": 472,
+		"h_weight_zougen": -6,
+		"f_time": "35.4",
+		"trainer": "林 徹",
+		"pop": "2",
+		"corner": [
+			7,
+			7,
+			7,
+			6
+		],
+		"title": "フラワーカップ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ミアネーロ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "津村 明秀",
+		"time": "1:56.6",
+		"margin": "クビ",
+		"h_weight": 480,
+		"h_weight_zougen": 4,
+		"f_time": "33.0",
+		"trainer": "林 徹",
+		"pop": "3",
+		"corner": [
+			8,
+			9,
+			8,
+			8
+		],
+		"title": "紫苑ステークス"
+	}
+]

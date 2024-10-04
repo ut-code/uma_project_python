@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 15,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "テイエムトッキュウ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "津村 明秀",
+		"time": "1:10.1",
+		"margin": "４",
+		"h_weight": 498,
+		"h_weight_zougen": -4,
+		"f_time": "37.0",
+		"trainer": "木原 一良",
+		"pop": "6",
+		"corner": [
+			3,
+			8
+		],
+		"title": "函館スプリントステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "テイエムトッキュウ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "津村 明秀",
+		"time": "1:09.3",
+		"margin": "",
+		"h_weight": 500,
+		"h_weight_zougen": -2,
+		"f_time": "35.8",
+		"trainer": "木原 一良",
+		"pop": "2",
+		"corner": [
+			1,
+			1
+		],
+		"title": "カペラステークス"
+	}
+]

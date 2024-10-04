@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "ハビレ",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "三浦 皇成",
+		"time": "1:52.1",
+		"margin": "アタマ",
+		"h_weight": 498,
+		"h_weight_zougen": 0,
+		"f_time": "37.7",
+		"trainer": "武井 亮",
+		"pop": "8",
+		"corner": [
+			11,
+			11,
+			9,
+			8
+		],
+		"title": "レパードステークス"
+	}
+]

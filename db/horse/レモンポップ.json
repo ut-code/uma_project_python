@@ -1,0 +1,67 @@
+[
+	{
+		"rank": 1,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "レモンポップ",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "坂井 瑠星",
+		"time": "1:35.6",
+		"margin": "",
+		"h_weight": 518,
+		"h_weight_zougen": -4,
+		"f_time": "36.3",
+		"trainer": "田中 博康",
+		"pop": "1",
+		"corner": [
+			4,
+			4
+		],
+		"title": "フェブラリーステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "レモンポップ",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "坂井 瑠星",
+		"time": "1:50.6",
+		"margin": "",
+		"h_weight": 514,
+		"h_weight_zougen": -3,
+		"f_time": "37.3",
+		"trainer": "田中 博康",
+		"pop": "1",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "チャンピオンズカップ"
+	},
+	{
+		"rank": 1,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "レモンポップ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:22.5",
+		"margin": "",
+		"h_weight": 522,
+		"h_weight_zougen": 4,
+		"f_time": "35.5",
+		"trainer": "田中 博康",
+		"pop": "1",
+		"corner": [
+			5,
+			5
+		],
+		"title": "根岸ステークス"
+	}
+]

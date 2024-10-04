@@ -1,0 +1,66 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "コスモディナー",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "松岡 正海",
+		"time": "1:33.6",
+		"margin": "１",
+		"h_weight": 446,
+		"h_weight_zougen": -22,
+		"f_time": "34.3",
+		"trainer": "伊藤 伸一",
+		"pop": "14",
+		"corner": [
+			13,
+			13
+		],
+		"title": "阪神ジュベナイルフィリーズ"
+	},
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "コスモディナー",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "松岡 正海",
+		"time": "1:34.0",
+		"margin": "１ 1/2",
+		"h_weight": 462,
+		"h_weight_zougen": 16,
+		"f_time": "34.5",
+		"trainer": "伊藤 伸一",
+		"pop": "7",
+		"corner": [
+			8,
+			8
+		],
+		"title": "デイリー杯クイーンカップ"
+	},
+	{
+		"rank": 11,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "コスモディナー",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "松岡 正海",
+		"time": "1:59.8",
+		"margin": "ハナ",
+		"h_weight": 458,
+		"h_weight_zougen": 0,
+		"f_time": "34.5",
+		"trainer": "伊藤 伸一",
+		"pop": "11",
+		"corner": [
+			9,
+			10,
+			11
+		],
+		"title": "サンケイスポーツ賞フローラステークス"
+	}
+]

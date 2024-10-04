@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "レッドジェネシス",
+		"age": "せん5",
+		"weight": "57.0",
+		"jockey": "小崎 綾也",
+		"time": "3:47.8",
+		"margin": "３／４",
+		"h_weight": 484,
+		"h_weight_zougen": -2,
+		"f_time": "35.3",
+		"trainer": "友道 康夫",
+		"pop": "16",
+		"corner": [
+			11,
+			12,
+			13,
+			14
+		],
+		"title": "スポーツニッポン賞ステイヤーズステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠8桃",
+		"umaban": 13,
+		"horse": "レッドジェネシス",
+		"age": "せん6",
+		"weight": "57.0",
+		"jockey": "角田 大和",
+		"time": "1:59.5",
+		"margin": "２",
+		"h_weight": 498,
+		"h_weight_zougen": -6,
+		"f_time": "35.8",
+		"trainer": "小林 真也",
+		"pop": "13",
+		"corner": [
+			8,
+			9,
+			10,
+			10
+		],
+		"title": "金鯱賞"
+	}
+]

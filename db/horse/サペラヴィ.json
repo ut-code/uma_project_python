@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠7橙",
+		"umaban": 8,
+		"horse": "サペラヴィ",
+		"age": "牡6",
+		"weight": "60.0",
+		"jockey": "江田 勇亮",
+		"time": "3:29.3",
+		"margin": "５",
+		"h_weight": 460,
+		"h_weight_zougen": -14,
+		"f_time": "12.9",
+		"trainer": "南田 美知雄",
+		"pop": "7",
+		"corner": [
+			3,
+			4,
+			2,
+			3
+		],
+		"title": "新潟ジャンプステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "サペラヴィ",
+		"age": "牡7",
+		"weight": "60.0",
+		"jockey": "江田 勇亮",
+		"time": "3:33.1",
+		"margin": "１ 1/4",
+		"h_weight": 474,
+		"h_weight_zougen": -10,
+		"f_time": "13.1",
+		"trainer": "南田 美知雄",
+		"pop": "3",
+		"corner": [
+			4,
+			4,
+			3,
+			5
+		],
+		"title": "新潟ジャンプステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "サペラヴィ",
+		"age": "牡7",
+		"weight": "60.0",
+		"jockey": "江田 勇亮",
+		"time": "3:39.0",
+		"margin": "",
+		"h_weight": 480,
+		"h_weight_zougen": 6,
+		"f_time": "13.2",
+		"trainer": "南田 美知雄",
+		"pop": "3",
+		"corner": [
+			2,
+			2,
+			1,
+			1
+		],
+		"title": "阪神ジャンプステークス"
+	}
+]

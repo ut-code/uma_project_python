@@ -1,0 +1,45 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ブラウンウェーブ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "菅原 明良",
+		"time": "1:34.6",
+		"margin": "アタマ",
+		"h_weight": 424,
+		"h_weight_zougen": -10,
+		"f_time": "35.4",
+		"trainer": "宗像 義忠",
+		"pop": "15",
+		"corner": [
+			13,
+			12,
+			12
+		],
+		"title": "フェアリーステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "ブラウンウェーブ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "大野 拓弥",
+		"time": "1:34.4",
+		"margin": "１ 1/4",
+		"h_weight": 420,
+		"h_weight_zougen": -4,
+		"f_time": "34.9",
+		"trainer": "宗像 義忠",
+		"pop": "12",
+		"corner": [
+			14,
+			15
+		],
+		"title": "デイリー杯クイーンカップ"
+	}
+]

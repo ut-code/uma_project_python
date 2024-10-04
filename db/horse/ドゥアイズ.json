@@ -1,0 +1,155 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "ドゥアイズ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "吉田 隼人",
+		"time": "2:25.2",
+		"margin": "１ 1/4",
+		"h_weight": 456,
+		"h_weight_zougen": 8,
+		"f_time": "35.0",
+		"trainer": "庄野 靖志",
+		"pop": "6",
+		"corner": [
+			17,
+			17,
+			18,
+			16
+		],
+		"title": "オークス"
+	},
+	{
+		"rank": 5,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "ドゥアイズ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "吉田 隼人",
+		"time": "1:32.7",
+		"margin": "１／２",
+		"h_weight": 448,
+		"h_weight_zougen": 2,
+		"f_time": "34.1",
+		"trainer": "庄野 靖志",
+		"pop": "4",
+		"corner": [
+			9,
+			8
+		],
+		"title": "桜花賞"
+	},
+	{
+		"rank": 10,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ドゥアイズ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "西村 淳也",
+		"time": "2:02.1",
+		"margin": "クビ",
+		"h_weight": 458,
+		"h_weight_zougen": 2,
+		"f_time": "34.4",
+		"trainer": "庄野 靖志",
+		"pop": "10",
+		"corner": [
+			8,
+			9,
+			10,
+			9
+		],
+		"title": "秋華賞"
+	},
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "ドゥアイズ",
+		"age": "牝4",
+		"weight": "56.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:32.1",
+		"margin": "クビ",
+		"h_weight": 472,
+		"h_weight_zougen": 4,
+		"f_time": "34.4",
+		"trainer": "庄野 靖志",
+		"pop": "11",
+		"corner": [
+			7,
+			6
+		],
+		"title": "ヴィクトリアマイル"
+	},
+	{
+		"rank": 2,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "ドゥアイズ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "吉田 隼人",
+		"time": "1:33.1",
+		"margin": "クビ",
+		"h_weight": 446,
+		"h_weight_zougen": -2,
+		"f_time": "34.7",
+		"trainer": "庄野 靖志",
+		"pop": "2",
+		"corner": [
+			3,
+			3
+		],
+		"title": "デイリー杯クイーンカップ"
+	},
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 7,
+		"horse": "ドゥアイズ",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "B.ムルザバエフ",
+		"time": "1:33.4",
+		"margin": "３／４",
+		"h_weight": 468,
+		"h_weight_zougen": 0,
+		"f_time": "33.0",
+		"trainer": "庄野 靖志",
+		"pop": "2",
+		"corner": [
+			9,
+			9
+		],
+		"title": "サンケイスポーツ杯阪神牝馬ステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 13,
+		"horse": "ドゥアイズ",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:47.5",
+		"margin": "ハナ",
+		"h_weight": 474,
+		"h_weight_zougen": 2,
+		"f_time": "34.7",
+		"trainer": "庄野 靖志",
+		"pop": "3",
+		"corner": [
+			9,
+			9,
+			8,
+			7
+		],
+		"title": "北海道新聞杯クイーンステークス"
+	}
+]

@@ -1,0 +1,132 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "ソーダズリング",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "武 豊",
+		"time": "2:25.0",
+		"margin": "クビ",
+		"h_weight": 470,
+		"h_weight_zougen": 0,
+		"f_time": "35.3",
+		"trainer": "音無 秀孝",
+		"pop": "5",
+		"corner": [
+			10,
+			10,
+			12,
+			12
+		],
+		"title": "オークス"
+	},
+	{
+		"rank": 14,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "ソーダズリング",
+		"age": "牝4",
+		"weight": "56.0",
+		"jockey": "武 豊",
+		"time": "1:10.6",
+		"margin": "クビ",
+		"h_weight": 472,
+		"h_weight_zougen": 0,
+		"f_time": "34.8",
+		"trainer": "音無 秀孝",
+		"pop": "7",
+		"corner": [
+			10,
+			12
+		],
+		"title": "高松宮記念"
+	},
+	{
+		"rank": 2,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ソーダズリング",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:59.1",
+		"margin": "１ 1/4",
+		"h_weight": 470,
+		"h_weight_zougen": 0,
+		"f_time": "34.0",
+		"trainer": "音無 秀孝",
+		"pop": "1",
+		"corner": [
+			3,
+			4,
+			4
+		],
+		"title": "サンケイスポーツ賞フローラステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "ソーダズリング",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "武 豊",
+		"time": "1:44.1",
+		"margin": "１",
+		"h_weight": 474,
+		"h_weight_zougen": 4,
+		"f_time": "34.6",
+		"trainer": "音無 秀孝",
+		"pop": "3",
+		"corner": [
+			5,
+			4
+		],
+		"title": "関西テレビ放送賞ローズステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ソーダズリング",
+		"age": "牝3",
+		"weight": "53.0",
+		"jockey": "武 豊",
+		"time": "1:33.0",
+		"margin": "クビ",
+		"h_weight": 468,
+		"h_weight_zougen": -6,
+		"f_time": "34.0",
+		"trainer": "音無 秀孝",
+		"pop": "4",
+		"corner": [
+			8,
+			8,
+			6
+		],
+		"title": "ターコイズステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠7橙",
+		"umaban": 15,
+		"horse": "ソーダズリング",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "武 豊",
+		"time": "1:20.3",
+		"margin": "",
+		"h_weight": 472,
+		"h_weight_zougen": 4,
+		"f_time": "33.9",
+		"trainer": "音無 秀孝",
+		"pop": "2",
+		"corner": [
+			9,
+			7
+		],
+		"title": "京都牝馬ステークス"
+	}
+]

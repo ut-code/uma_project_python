@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠8桃",
+		"umaban": 14,
+		"horse": "アイコンテーラー",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "J.モレイラ",
+		"time": "1:54.1",
+		"margin": "大差",
+		"h_weight": 484,
+		"h_weight_zougen": 7,
+		"f_time": "40.2",
+		"trainer": "河内 洋",
+		"pop": "7",
+		"corner": [
+			10,
+			10,
+			10,
+			11
+		],
+		"title": "チャンピオンズカップ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "アイコンテーラー",
+		"age": "牝5",
+		"weight": "53.0",
+		"jockey": "菱田 裕二",
+		"time": "2:03.4",
+		"margin": "１ 3/4",
+		"h_weight": 480,
+		"h_weight_zougen": 4,
+		"f_time": "34.5",
+		"trainer": "河内 洋",
+		"pop": "7",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "愛知杯"
+	},
+	{
+		"rank": 2,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "アイコンテーラー",
+		"age": "牝5",
+		"weight": "55.5",
+		"jockey": "団野 大成",
+		"time": "2:04.6",
+		"margin": "１ 1/4",
+		"h_weight": 474,
+		"h_weight_zougen": 0,
+		"f_time": "37.6",
+		"trainer": "河内 洋",
+		"pop": "2",
+		"corner": [
+			3,
+			3,
+			3,
+			1
+		],
+		"title": "シリウスステークス"
+	}
+]

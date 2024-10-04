@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "エリオトローピオ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "石橋 脩",
+		"time": "1:47.5",
+		"margin": "１／２",
+		"h_weight": 410,
+		"h_weight_zougen": -6,
+		"f_time": "34.6",
+		"trainer": "深山 雅史",
+		"pop": "14",
+		"corner": [
+			11,
+			10,
+			9,
+			9
+		],
+		"title": "福島牝馬ステークス"
+	}
+]

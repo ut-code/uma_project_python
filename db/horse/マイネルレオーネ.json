@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠8桃",
+		"umaban": 11,
+		"horse": "マイネルレオーネ",
+		"age": "牡11",
+		"weight": "63.0",
+		"jockey": "平沢 健治",
+		"time": "4:42.8",
+		"margin": "２ 1/2",
+		"h_weight": 414,
+		"h_weight_zougen": -4,
+		"f_time": "13.8",
+		"trainer": "清水 久詞",
+		"pop": "7",
+		"corner": [
+			11,
+			10,
+			10,
+			8
+		],
+		"title": "中山大障害"
+	},
+	{
+		"rank": 6,
+		"waku": "枠7橙",
+		"umaban": 10,
+		"horse": "マイネルレオーネ",
+		"age": "牡11",
+		"weight": "60.0",
+		"jockey": "小坂 忠士",
+		"time": "4:23.5",
+		"margin": "２",
+		"h_weight": 412,
+		"h_weight_zougen": 4,
+		"f_time": "13.5",
+		"trainer": "清水 久詞",
+		"pop": "8",
+		"corner": [
+			4,
+			3,
+			2,
+			2
+		],
+		"title": "阪神スプリングジャンプ"
+	},
+	{
+		"rank": 6,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "マイネルレオーネ",
+		"age": "牡11",
+		"weight": "60.0",
+		"jockey": "難波 剛健",
+		"time": "3:39.7",
+		"margin": "３／４",
+		"h_weight": 418,
+		"h_weight_zougen": 6,
+		"f_time": "13.9",
+		"trainer": "清水 久詞",
+		"pop": "8",
+		"corner": [
+			6,
+			9,
+			7,
+			7
+		],
+		"title": "京都ジャンプステークス"
+	}
+]

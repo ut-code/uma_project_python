@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠7橙",
+		"umaban": 11,
+		"horse": "アウスヴァール",
+		"age": "せん6",
+		"weight": "57.0",
+		"jockey": "古川 吉洋",
+		"time": "1:59.3",
+		"margin": "２",
+		"h_weight": 484,
+		"h_weight_zougen": 2,
+		"f_time": "36.4",
+		"trainer": "昆 貢",
+		"pop": "11",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "鳴尾記念"
+	},
+	{
+		"rank": 3,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "アウスヴァール",
+		"age": "せん6",
+		"weight": "54.0",
+		"jockey": "古川 吉洋",
+		"time": "1:59.9",
+		"margin": "３／４",
+		"h_weight": 494,
+		"h_weight_zougen": 10,
+		"f_time": "36.4",
+		"trainer": "昆 貢",
+		"pop": "14",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "農林水産省賞典 函館記念"
+	},
+	{
+		"rank": 7,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "アウスヴァール",
+		"age": "せん6",
+		"weight": "58.0",
+		"jockey": "古川 吉洋",
+		"time": "2:00.4",
+		"margin": "クビ",
+		"h_weight": 494,
+		"h_weight_zougen": 0,
+		"f_time": "36.3",
+		"trainer": "昆 貢",
+		"pop": "9",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "札幌記念"
+	}
+]

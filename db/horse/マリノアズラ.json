@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "マリノアズラ",
+		"age": "牝5",
+		"weight": "53.0",
+		"jockey": "横山 武史",
+		"time": "3:29.9",
+		"margin": "３／４",
+		"h_weight": 476,
+		"h_weight_zougen": -10,
+		"f_time": "36.4",
+		"trainer": "小手川 準",
+		"pop": "4",
+		"corner": [
+			7,
+			8,
+			7,
+			6
+		],
+		"title": "ダイヤモンドステークス"
+	}
+]

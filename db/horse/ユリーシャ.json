@@ -1,0 +1,65 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "ユリーシャ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "松山 弘平",
+		"time": "1:35.0",
+		"margin": "ハナ",
+		"h_weight": 444,
+		"h_weight_zougen": -4,
+		"f_time": "36.4",
+		"trainer": "中村 直也",
+		"pop": "15",
+		"corner": [
+			2,
+			3
+		],
+		"title": "NHKマイルカップ"
+	},
+	{
+		"rank": 11,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "ユリーシャ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "松山 弘平",
+		"time": "1:35.0",
+		"margin": "１",
+		"h_weight": 448,
+		"h_weight_zougen": 2,
+		"f_time": "37.3",
+		"trainer": "中村 直也",
+		"pop": "1",
+		"corner": [
+			1,
+			1
+		],
+		"title": "アーリントンカップ"
+	},
+	{
+		"rank": 17,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "ユリーシャ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "菱田 裕二",
+		"time": "1:45.1",
+		"margin": "１ 1/2",
+		"h_weight": 454,
+		"h_weight_zougen": -2,
+		"f_time": "36.1",
+		"trainer": "中村 直也",
+		"pop": "16",
+		"corner": [
+			1,
+			1
+		],
+		"title": "関西テレビ放送賞ローズステークス"
+	}
+]

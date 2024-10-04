@@ -1,0 +1,90 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "タガノデュード",
+		"age": "牡2",
+		"weight": "56.0",
+		"jockey": "古川 吉洋",
+		"time": "1:34.1",
+		"margin": "１／２",
+		"h_weight": 480,
+		"h_weight_zougen": -6,
+		"f_time": "34.9",
+		"trainer": "宮 徹",
+		"pop": "15",
+		"corner": [
+			13,
+			10
+		],
+		"title": "朝日杯フューチュリティステークス"
+	},
+	{
+		"rank": 10,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "タガノデュード",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "古川 吉洋",
+		"time": "1:34.9",
+		"margin": "３／４",
+		"h_weight": 482,
+		"h_weight_zougen": 0,
+		"f_time": "33.0",
+		"trainer": "宮 徹",
+		"pop": "9",
+		"corner": [
+			12,
+			10
+		],
+		"title": "アーリントンカップ"
+	},
+	{
+		"rank": 7,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "タガノデュード",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "古川 吉洋",
+		"time": "2:12.1",
+		"margin": "１ 1/2",
+		"h_weight": 480,
+		"h_weight_zougen": -2,
+		"f_time": "34.0",
+		"trainer": "宮 徹",
+		"pop": "14",
+		"corner": [
+			15,
+			15,
+			15,
+			12
+		],
+		"title": "京都新聞杯"
+	},
+	{
+		"rank": 9,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "タガノデュード",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "丹内 祐次",
+		"time": "2:13.2",
+		"margin": "アタマ",
+		"h_weight": 472,
+		"h_weight_zougen": -16,
+		"f_time": "35.8",
+		"trainer": "宮 徹",
+		"pop": "10",
+		"corner": [
+			3,
+			4,
+			3,
+			3
+		],
+		"title": "朝日杯セントライト記念"
+	}
+]

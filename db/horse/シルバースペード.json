@@ -1,0 +1,47 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠6緑",
+		"umaban": 6,
+		"horse": "シルバースペード",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "吉田 豊",
+		"time": "2:03.4",
+		"margin": "１／２",
+		"h_weight": 474,
+		"h_weight_zougen": 12,
+		"f_time": "35.3",
+		"trainer": "小野 次郎",
+		"pop": "8",
+		"corner": [
+			8,
+			9,
+			9,
+			9
+		],
+		"title": "京成杯"
+	},
+	{
+		"rank": 8,
+		"waku": "枠6緑",
+		"umaban": 7,
+		"horse": "シルバースペード",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "吉田 豊",
+		"time": "1:47.8",
+		"margin": "１ 1/4",
+		"h_weight": 468,
+		"h_weight_zougen": -6,
+		"f_time": "33.7",
+		"trainer": "小野 次郎",
+		"pop": "12",
+		"corner": [
+			11,
+			9,
+			11
+		],
+		"title": "共同通信杯"
+	}
+]

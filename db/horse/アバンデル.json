@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "アバンデル",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "石橋 脩",
+		"time": "2:24.8",
+		"margin": "アタマ",
+		"h_weight": 436,
+		"h_weight_zougen": -10,
+		"f_time": "33.5",
+		"trainer": "金成 貴史",
+		"pop": "12",
+		"corner": [
+			17,
+			17,
+			17,
+			17
+		],
+		"title": "テレビ東京杯青葉賞"
+	}
+]

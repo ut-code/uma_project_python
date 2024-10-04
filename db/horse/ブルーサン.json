@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ブルーサン",
+		"age": "牡3",
+		"weight": "54.0",
+		"jockey": "和田 竜二",
+		"time": "1:45.0",
+		"margin": "１ 1/2",
+		"h_weight": 506,
+		"h_weight_zougen": -2,
+		"f_time": "40.1",
+		"trainer": "川村 禎彦",
+		"pop": "6",
+		"corner": [
+			1,
+			1,
+			1,
+			2
+		],
+		"title": "プロキオンステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "ブルーサン",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "石橋 脩",
+		"time": "1:52.9",
+		"margin": "１ 3/4",
+		"h_weight": 510,
+		"h_weight_zougen": 4,
+		"f_time": "39.5",
+		"trainer": "川村 禎彦",
+		"pop": "5",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "レパードステークス"
+	}
+]

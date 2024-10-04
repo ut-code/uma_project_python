@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 15,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "エンパイアウエスト",
+		"age": "牝5",
+		"weight": "53.0",
+		"jockey": "横山 武史",
+		"time": "2:00.8",
+		"margin": "１／２",
+		"h_weight": 500,
+		"h_weight_zougen": -8,
+		"f_time": "35.9",
+		"trainer": "黒岩 陽一",
+		"pop": "7",
+		"corner": [
+			12,
+			13,
+			14,
+			15
+		],
+		"title": "農林水産省賞典 函館記念"
+	}
+]

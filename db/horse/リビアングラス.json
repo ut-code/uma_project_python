@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "リビアングラス",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "坂井 瑠星",
+		"time": "3:04.1",
+		"margin": "３／４",
+		"h_weight": 498,
+		"h_weight_zougen": -2,
+		"f_time": "35.9",
+		"trainer": "矢作 芳人",
+		"pop": "9",
+		"corner": [
+			3,
+			3,
+			1,
+			1
+		],
+		"title": "菊花賞"
+	},
+	{
+		"rank": 3,
+		"waku": "枠8桃",
+		"umaban": 12,
+		"horse": "リビアングラス",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "鮫島 克駿",
+		"time": "2:14.1",
+		"margin": "アタマ",
+		"h_weight": 488,
+		"h_weight_zougen": -6,
+		"f_time": "33.9",
+		"trainer": "矢作 芳人",
+		"pop": "7",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "京都新聞杯"
+	},
+	{
+		"rank": 8,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "リビアングラス",
+		"age": "牡4",
+		"weight": "54.0",
+		"jockey": "田口 貫太",
+		"time": "2:25.1",
+		"margin": "クビ",
+		"h_weight": 488,
+		"h_weight_zougen": 0,
+		"f_time": "37.5",
+		"trainer": "矢作 芳人",
+		"pop": "6",
+		"corner": [
+			2,
+			2,
+			2,
+			7
+		],
+		"title": "日経新春杯"
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠8桃",
+		"umaban": 12,
+		"horse": "マイネルパラディ",
+		"age": "せん9",
+		"weight": "60.0",
+		"jockey": "黒岩 悠",
+		"time": "4:29.2",
+		"margin": "５",
+		"h_weight": 476,
+		"h_weight_zougen": 6,
+		"f_time": "13.8",
+		"trainer": "吉田 直弘",
+		"pop": "12",
+		"corner": [
+			11,
+			11,
+			11,
+			11
+		],
+		"title": "阪神スプリングジャンプ"
+	}
+]

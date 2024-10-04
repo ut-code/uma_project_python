@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ヒラボクミニー",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "田辺 裕信",
+		"time": "1:50.4",
+		"margin": "１／２",
+		"h_weight": 466,
+		"h_weight_zougen": 10,
+		"f_time": "38.0",
+		"trainer": "村田 一誠",
+		"pop": "7",
+		"corner": [
+			3,
+			3,
+			3,
+			2
+		],
+		"title": "フラワーカップ"
+	}
+]

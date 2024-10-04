@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "ウィステリアリヴァ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "吉田 豊",
+		"time": "1:50.0",
+		"margin": "３／４",
+		"h_weight": 490,
+		"h_weight_zougen": -8,
+		"f_time": "36.1",
+		"trainer": "小野 次郎",
+		"pop": "14",
+		"corner": [
+			14,
+			14,
+			13,
+			12
+		],
+		"title": "フジテレビ賞スプリングステークス"
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 16,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "オーロラテソーロ",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "原 優介",
+		"time": "1:25.1",
+		"margin": "１／２",
+		"h_weight": 502,
+		"h_weight_zougen": 1,
+		"f_time": "38.5",
+		"trainer": "畠山 吉宏",
+		"pop": "12",
+		"corner": [
+			1,
+			1
+		],
+		"title": "根岸ステークス"
+	},
+	{
+		"rank": 14,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "オーロラテソーロ",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "佐々木 大輔",
+		"time": "1:11.3",
+		"margin": "３／４",
+		"h_weight": 504,
+		"h_weight_zougen": -5,
+		"f_time": "37.1",
+		"trainer": "畠山 吉宏",
+		"pop": "9",
+		"corner": [
+			6,
+			7
+		],
+		"title": "カペラステークス"
+	}
+]

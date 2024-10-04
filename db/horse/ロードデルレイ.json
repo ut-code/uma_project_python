@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠4青",
+		"umaban": 4,
+		"horse": "ロードデルレイ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "坂井 瑠星",
+		"time": "2:23.6",
+		"margin": "アタマ",
+		"h_weight": 478,
+		"h_weight_zougen": -4,
+		"f_time": "33.5",
+		"trainer": "中内田 充正",
+		"pop": "4",
+		"corner": [
+			5,
+			5,
+			5,
+			4
+		],
+		"title": "神戸新聞杯"
+	}
+]

@@ -1,0 +1,80 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "ロードベイリーフ",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "酒井 学",
+		"time": "1:20.2",
+		"margin": "クビ",
+		"h_weight": 498,
+		"h_weight_zougen": 6,
+		"f_time": "34.4",
+		"trainer": "森田 直行",
+		"pop": "14",
+		"corner": [
+			5,
+			6
+		],
+		"title": "阪急杯"
+	},
+	{
+		"rank": 3,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "ロードベイリーフ",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "西村 淳也",
+		"time": "0:55.1",
+		"margin": "クビ",
+		"h_weight": 480,
+		"h_weight_zougen": 2,
+		"f_time": "32.2",
+		"trainer": "森田 直行",
+		"pop": "12",
+		"corner": [],
+		"title": "アイビスサマーダッシュ"
+	},
+	{
+		"rank": 7,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "ロードベイリーフ",
+		"age": "牡6",
+		"weight": "55.0",
+		"jockey": "M.デムーロ",
+		"time": "1:07.9",
+		"margin": "１／２",
+		"h_weight": 486,
+		"h_weight_zougen": 6,
+		"f_time": "34.3",
+		"trainer": "森田 直行",
+		"pop": "16",
+		"corner": [
+			8,
+			8
+		],
+		"title": "テレビ西日本賞北九州記念"
+	},
+	{
+		"rank": 8,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ロードベイリーフ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "和田 竜二",
+		"time": "0:55.7",
+		"margin": "１／２",
+		"h_weight": 500,
+		"h_weight_zougen": 2,
+		"f_time": "32.7",
+		"trainer": "森田 直行",
+		"pop": "14",
+		"corner": [],
+		"title": "アイビスサマーダッシュ"
+	}
+]

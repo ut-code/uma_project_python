@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠7橙",
+		"umaban": 11,
+		"horse": "スライリー",
+		"age": "牝5",
+		"weight": "53.0",
+		"jockey": "津村 明秀",
+		"time": "1:47.4",
+		"margin": "３／４",
+		"h_weight": 454,
+		"h_weight_zougen": 6,
+		"f_time": "34.8",
+		"trainer": "相沢 郁",
+		"pop": "9",
+		"corner": [
+			6,
+			6,
+			8,
+			9
+		],
+		"title": "ローレル競馬場賞中山牝馬ステークス"
+	},
+	{
+		"rank": 14,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "スライリー",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "丹内 祐次",
+		"time": "1:48.7",
+		"margin": "３／４",
+		"h_weight": 442,
+		"h_weight_zougen": -12,
+		"f_time": "35.3",
+		"trainer": "相沢 郁",
+		"pop": "12",
+		"corner": [
+			8,
+			6,
+			7,
+			9
+		],
+		"title": "福島牝馬ステークス"
+	}
+]

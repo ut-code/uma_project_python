@@ -1,0 +1,69 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ブレイヴロッカー",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "酒井 学",
+		"time": "2:12.7",
+		"margin": "クビ",
+		"h_weight": 468,
+		"h_weight_zougen": 6,
+		"f_time": "35.1",
+		"trainer": "本田 優",
+		"pop": "5",
+		"corner": [
+			10,
+			9,
+			7,
+			6
+		],
+		"title": "京都記念"
+	},
+	{
+		"rank": 7,
+		"waku": "枠4青",
+		"umaban": 5,
+		"horse": "ブレイヴロッカー",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "丸山 元気",
+		"time": "1:58.9",
+		"margin": "３／４",
+		"h_weight": 466,
+		"h_weight_zougen": -2,
+		"f_time": "35.6",
+		"trainer": "本田 優",
+		"pop": "10",
+		"corner": [
+			5,
+			5,
+			3,
+			5
+		],
+		"title": "金鯱賞"
+	},
+	{
+		"rank": 9,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "ブレイヴロッカー",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "太宰 啓介",
+		"time": "2:01.0",
+		"margin": "クビ",
+		"h_weight": 458,
+		"h_weight_zougen": -6,
+		"f_time": "34.0",
+		"trainer": "本田 優",
+		"pop": "9",
+		"corner": [
+			14,
+			14
+		],
+		"title": "新潟大賞典"
+	}
+]

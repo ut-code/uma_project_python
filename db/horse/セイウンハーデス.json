@@ -1,0 +1,46 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "セイウンハーデス",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "津村 明秀",
+		"time": "2:03.9",
+		"margin": "３／４",
+		"h_weight": 478,
+		"h_weight_zougen": -2,
+		"f_time": "36.6",
+		"trainer": "橋口 慎介",
+		"pop": "2",
+		"corner": [
+			1,
+			1
+		],
+		"title": "新潟大賞典"
+	},
+	{
+		"rank": 1,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "セイウンハーデス",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "幸 英明",
+		"time": "1:59.8",
+		"margin": "",
+		"h_weight": 476,
+		"h_weight_zougen": -2,
+		"f_time": "34.9",
+		"trainer": "橋口 慎介",
+		"pop": "2",
+		"corner": [
+			3,
+			4,
+			2,
+			2
+		],
+		"title": "七夕賞"
+	}
+]

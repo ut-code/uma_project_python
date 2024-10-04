@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "ホールネス",
+		"age": "牝4",
+		"weight": "52.0",
+		"jockey": "西塚 洸二",
+		"time": "1:57.6",
+		"margin": "クビ",
+		"h_weight": 522,
+		"h_weight_zougen": -2,
+		"f_time": "34.3",
+		"trainer": "藤原 英昭",
+		"pop": "6",
+		"corner": [
+			8,
+			9,
+			9,
+			10
+		],
+		"title": "マーメイドステークス"
+	}
+]

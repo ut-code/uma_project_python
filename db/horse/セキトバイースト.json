@@ -1,0 +1,67 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "セキトバイースト",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "藤岡 佑介",
+		"time": "1:32.8",
+		"margin": "１ 1/2",
+		"h_weight": 438,
+		"h_weight_zougen": -4,
+		"f_time": "34.4",
+		"trainer": "四位 洋文",
+		"pop": "10",
+		"corner": [
+			3,
+			3
+		],
+		"title": "桜花賞"
+	},
+	{
+		"rank": 2,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "セキトバイースト",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "藤岡 佑介",
+		"time": "1:33.3",
+		"margin": "１ 1/4",
+		"h_weight": 442,
+		"h_weight_zougen": -10,
+		"f_time": "35.6",
+		"trainer": "四位 洋文",
+		"pop": "9",
+		"corner": [
+			1,
+			1
+		],
+		"title": "チューリップ賞"
+	},
+	{
+		"rank": 3,
+		"waku": "枠6緑",
+		"umaban": 10,
+		"horse": "セキトバイースト",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "藤岡 佑介",
+		"time": "2:00.1",
+		"margin": "アタマ",
+		"h_weight": 452,
+		"h_weight_zougen": 14,
+		"f_time": "35.8",
+		"trainer": "四位 洋文",
+		"pop": "11",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "関西テレビ放送賞ローズステークス"
+	}
+]

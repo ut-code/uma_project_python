@@ -1,0 +1,170 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "トゥラヴェスーラ",
+		"age": "牡8",
+		"weight": "58.0",
+		"jockey": "丹内 祐次",
+		"time": "1:11.7",
+		"margin": "１／２",
+		"h_weight": 484,
+		"h_weight_zougen": -12,
+		"f_time": "35.3",
+		"trainer": "高橋 康之",
+		"pop": "13",
+		"corner": [
+			10,
+			11
+		],
+		"title": "高松宮記念"
+	},
+	{
+		"rank": 12,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "トゥラヴェスーラ",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "丹内 祐次",
+		"time": "1:20.9",
+		"margin": "クビ",
+		"h_weight": 482,
+		"h_weight_zougen": -2,
+		"f_time": "33.2",
+		"trainer": "高橋 康之",
+		"pop": "8",
+		"corner": [
+			9,
+			10
+		],
+		"title": "京王杯スプリングカップ"
+	},
+	{
+		"rank": 4,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "トゥラヴェスーラ",
+		"age": "牡8",
+		"weight": "58.0",
+		"jockey": "藤岡 康太",
+		"time": "1:07.7",
+		"margin": "３／４",
+		"h_weight": 486,
+		"h_weight_zougen": 4,
+		"f_time": "33.3",
+		"trainer": "高橋 康之",
+		"pop": "5",
+		"corner": [
+			7,
+			6
+		],
+		"title": "CBC賞"
+	},
+	{
+		"rank": 6,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "トゥラヴェスーラ",
+		"age": "牡8",
+		"weight": "58.0",
+		"jockey": "藤岡 康太",
+		"time": "1:07.8",
+		"margin": "１ 1/4",
+		"h_weight": 478,
+		"h_weight_zougen": -8,
+		"f_time": "33.9",
+		"trainer": "高橋 康之",
+		"pop": "7",
+		"corner": [
+			12,
+			12
+		],
+		"title": "テレビ西日本賞北九州記念"
+	},
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 18,
+		"horse": "トゥラヴェスーラ",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "藤岡 康太",
+		"time": "1:07.8",
+		"margin": "ハナ",
+		"h_weight": 486,
+		"h_weight_zougen": 8,
+		"f_time": "32.9",
+		"trainer": "高橋 康之",
+		"pop": "12",
+		"corner": [
+			9,
+			10
+		],
+		"title": "京阪杯"
+	},
+	{
+		"rank": 6,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "トゥラヴェスーラ",
+		"age": "牡9",
+		"weight": "58.0",
+		"jockey": "永島 まなみ",
+		"time": "1:08.6",
+		"margin": "ハナ",
+		"h_weight": 494,
+		"h_weight_zougen": 8,
+		"f_time": "33.8",
+		"trainer": "高橋 康之",
+		"pop": "9",
+		"corner": [
+			15,
+			12
+		],
+		"title": "シルクロードステークス"
+	},
+	{
+		"rank": 13,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "トゥラヴェスーラ",
+		"age": "牡9",
+		"weight": "58.0",
+		"jockey": "永島 まなみ",
+		"time": "1:09.1",
+		"margin": "ハナ",
+		"h_weight": 476,
+		"h_weight_zougen": -18,
+		"f_time": "35.3",
+		"trainer": "高橋 康之",
+		"pop": "13",
+		"corner": [
+			18,
+			17
+		],
+		"title": "テレビ西日本賞北九州記念"
+	},
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "トゥラヴェスーラ",
+		"age": "牡9",
+		"weight": "57.0",
+		"jockey": "藤岡 佑介",
+		"time": "1:08.1",
+		"margin": "ハナ",
+		"h_weight": 480,
+		"h_weight_zougen": 4,
+		"f_time": "33.3",
+		"trainer": "高橋 康之",
+		"pop": "14",
+		"corner": [
+			14,
+			13
+		],
+		"title": "産経賞セントウルステークス"
+	}
+]

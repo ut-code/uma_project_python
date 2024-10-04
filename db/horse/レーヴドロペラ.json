@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠5黄",
+		"umaban": 5,
+		"horse": "レーヴドロペラ",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "大野 拓弥",
+		"time": "1:51.4",
+		"margin": "１ 3/4",
+		"h_weight": 450,
+		"h_weight_zougen": 0,
+		"f_time": "37.1",
+		"trainer": "加藤 士津八",
+		"pop": "11",
+		"corner": [
+			9,
+			10,
+			11,
+			10
+		],
+		"title": "札幌2歳ステークス"
+	}
+]

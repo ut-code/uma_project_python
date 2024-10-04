@@ -1,0 +1,24 @@
+[
+	{
+		"rank": 16,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ロードディフィート",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "田辺 裕信",
+		"time": "1:36.9",
+		"margin": "５",
+		"h_weight": 420,
+		"h_weight_zougen": -8,
+		"f_time": "38.0",
+		"trainer": "和田 勇介",
+		"pop": "11",
+		"corner": [
+			16,
+			15,
+			16
+		],
+		"title": "ニュージーランドトロフィー"
+	}
+]

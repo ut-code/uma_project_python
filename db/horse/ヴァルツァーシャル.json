@@ -1,0 +1,69 @@
+[
+	{
+		"rank": 16,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "ヴァルツァーシャル",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "菅原 明良",
+		"time": "1:53.8",
+		"margin": "クビ",
+		"h_weight": 490,
+		"h_weight_zougen": 4,
+		"f_time": "39.2",
+		"trainer": "高木 登",
+		"pop": "3",
+		"corner": [
+			9,
+			9,
+			9,
+			12
+		],
+		"title": "マーチステークス"
+	},
+	{
+		"rank": 7,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "ヴァルツァーシャル",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "三浦 皇成",
+		"time": "1:36.1",
+		"margin": "１／２",
+		"h_weight": 498,
+		"h_weight_zougen": 2,
+		"f_time": "36.4",
+		"trainer": "高木 登",
+		"pop": "11",
+		"corner": [
+			12,
+			11
+		],
+		"title": "東京中日スポーツ杯武蔵野ステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ヴァルツァーシャル",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "斎藤 新",
+		"time": "1:50.7",
+		"margin": "",
+		"h_weight": 504,
+		"h_weight_zougen": 0,
+		"f_time": "36.2",
+		"trainer": "高木 登",
+		"pop": "7",
+		"corner": [
+			7,
+			7,
+			7,
+			7
+		],
+		"title": "マーチステークス"
+	}
+]

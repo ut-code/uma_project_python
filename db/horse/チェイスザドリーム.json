@@ -1,0 +1,41 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "チェイスザドリーム",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "藤岡 佑介",
+		"time": "1:09.8",
+		"margin": "３",
+		"h_weight": 472,
+		"h_weight_zougen": -8,
+		"f_time": "36.1",
+		"trainer": "矢作 芳人",
+		"pop": "10",
+		"corner": [
+			2,
+			2
+		],
+		"title": "カペラステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "チェイスザドリーム",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "坂井 瑠星",
+		"time": "0:55.7",
+		"margin": "ハナ",
+		"h_weight": 490,
+		"h_weight_zougen": 20,
+		"f_time": "33.6",
+		"trainer": "矢作 芳人",
+		"pop": "1",
+		"corner": [],
+		"title": "アイビスサマーダッシュ"
+	}
+]

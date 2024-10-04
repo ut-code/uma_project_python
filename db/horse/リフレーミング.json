@@ -1,0 +1,69 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "リフレーミング",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "丸田 恭介",
+		"time": "2:00.6",
+		"margin": "１／２",
+		"h_weight": 468,
+		"h_weight_zougen": 0,
+		"f_time": "33.7",
+		"trainer": "鮫島 一歩",
+		"pop": "5",
+		"corner": [
+			14,
+			14
+		],
+		"title": "新潟大賞典"
+	},
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 10,
+		"horse": "リフレーミング",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "丸田 恭介",
+		"time": "1:58.5",
+		"margin": "１／２",
+		"h_weight": 470,
+		"h_weight_zougen": 2,
+		"f_time": "35.0",
+		"trainer": "鮫島 一歩",
+		"pop": "3",
+		"corner": [
+			12,
+			13,
+			11,
+			13
+		],
+		"title": "七夕賞"
+	},
+	{
+		"rank": 1,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "リフレーミング",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "川田 将雅",
+		"time": "1:56.5",
+		"margin": "レコード",
+		"h_weight": 466,
+		"h_weight_zougen": -4,
+		"f_time": "34.1",
+		"trainer": "鮫島 一歩",
+		"pop": "1",
+		"corner": [
+			8,
+			8,
+			8,
+			8
+		],
+		"title": "農林水産省賞典 小倉記念"
+	}
+]

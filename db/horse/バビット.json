@@ -1,0 +1,162 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠4青",
+		"umaban": 5,
+		"horse": "バビット",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "横山 典弘",
+		"time": "2:14.5",
+		"margin": "１／２",
+		"h_weight": 476,
+		"h_weight_zougen": 14,
+		"f_time": "36.0",
+		"trainer": "浜田 多実雄",
+		"pop": "6",
+		"corner": [
+			2,
+			2,
+			2,
+			1
+		],
+		"title": "アメリカジョッキークラブカップ"
+	},
+	{
+		"rank": 10,
+		"waku": "枠5黄",
+		"umaban": 5,
+		"horse": "バビット",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "内田 博幸",
+		"time": "1:46.3",
+		"margin": "２",
+		"h_weight": 464,
+		"h_weight_zougen": -12,
+		"f_time": "35.0",
+		"trainer": "浜田 多実雄",
+		"pop": "9",
+		"corner": [
+			2,
+			2,
+			2
+		],
+		"title": "毎日王冠"
+	},
+	{
+		"rank": 14,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "バビット",
+		"age": "牡6",
+		"weight": "58.0",
+		"jockey": "内田 博幸",
+		"time": "2:03.4",
+		"margin": "５",
+		"h_weight": 458,
+		"h_weight_zougen": -6,
+		"f_time": "39.2",
+		"trainer": "浜田 多実雄",
+		"pop": "11",
+		"corner": [
+			4,
+			4,
+			3,
+			3
+		],
+		"title": "福島記念"
+	},
+	{
+		"rank": 16,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "バビット",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "団野 大成",
+		"time": "1:54.4",
+		"margin": "大差",
+		"h_weight": 468,
+		"h_weight_zougen": 10,
+		"f_time": "41.1",
+		"trainer": "浜田 多実雄",
+		"pop": "11",
+		"corner": [
+			1,
+			1,
+			2,
+			9
+		],
+		"title": "東海テレビ杯東海ステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "バビット",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "団野 大成",
+		"time": "2:12.5",
+		"margin": "２",
+		"h_weight": 460,
+		"h_weight_zougen": -8,
+		"f_time": "35.5",
+		"trainer": "浜田 多実雄",
+		"pop": "9",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "京都記念"
+	},
+	{
+		"rank": 7,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "バビット",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "和田 竜二",
+		"time": "1:57.9",
+		"margin": "１ 1/4",
+		"h_weight": 458,
+		"h_weight_zougen": -6,
+		"f_time": "35.1",
+		"trainer": "浜田 多実雄",
+		"pop": "7",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "鳴尾記念"
+	},
+	{
+		"rank": 11,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "バビット",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "内田 博幸",
+		"time": "1:59.1",
+		"margin": "３／４",
+		"h_weight": 460,
+		"h_weight_zougen": 2,
+		"f_time": "37.8",
+		"trainer": "浜田 多実雄",
+		"pop": "10",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "七夕賞"
+	}
+]

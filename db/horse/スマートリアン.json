@@ -1,0 +1,86 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "スマートリアン",
+		"age": "牝6",
+		"weight": "55.0",
+		"jockey": "柴田 善臣",
+		"time": "1:07.5",
+		"margin": "１／２",
+		"h_weight": 476,
+		"h_weight_zougen": 2,
+		"f_time": "33.6",
+		"trainer": "石橋 守",
+		"pop": "8",
+		"corner": [
+			12,
+			12
+		],
+		"title": "テレビ西日本賞北九州記念"
+	},
+	{
+		"rank": 15,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "スマートリアン",
+		"age": "牝6",
+		"weight": "55.0",
+		"jockey": "柴田 善臣",
+		"time": "1:20.9",
+		"margin": "クビ",
+		"h_weight": 482,
+		"h_weight_zougen": 6,
+		"f_time": "34.3",
+		"trainer": "石橋 守",
+		"pop": "13",
+		"corner": [
+			14,
+			16
+		],
+		"title": "MBS賞スワンステークス"
+	},
+	{
+		"rank": 10,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "スマートリアン",
+		"age": "牝6",
+		"weight": "55.0",
+		"jockey": "柴田 善臣",
+		"time": "1:08.1",
+		"margin": "ハナ",
+		"h_weight": 480,
+		"h_weight_zougen": -2,
+		"f_time": "32.8",
+		"trainer": "石橋 守",
+		"pop": "14",
+		"corner": [
+			12,
+			12
+		],
+		"title": "京阪杯"
+	},
+	{
+		"rank": 4,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "スマートリアン",
+		"age": "牝7",
+		"weight": "55.0",
+		"jockey": "角田 大河",
+		"time": "1:20.5",
+		"margin": "クビ",
+		"h_weight": 482,
+		"h_weight_zougen": 2,
+		"f_time": "33.8",
+		"trainer": "石橋 守",
+		"pop": "14",
+		"corner": [
+			13,
+			14
+		],
+		"title": "京都牝馬ステークス"
+	}
+]

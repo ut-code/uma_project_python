@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "グランテスト",
+		"age": "牝4",
+		"weight": "53.0",
+		"jockey": "坂井 瑠星",
+		"time": "1:09.3",
+		"margin": "３／４",
+		"h_weight": 476,
+		"h_weight_zougen": 8,
+		"f_time": "36.3",
+		"trainer": "今野 貞一",
+		"pop": "6",
+		"corner": [
+			5,
+			5
+		],
+		"title": "テレビ西日本賞北九州記念"
+	},
+	{
+		"rank": 3,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "グランテスト",
+		"age": "牝4",
+		"weight": "52.0",
+		"jockey": "坂井 瑠星",
+		"time": "1:07.6",
+		"margin": "３／４",
+		"h_weight": 470,
+		"h_weight_zougen": -6,
+		"f_time": "34.0",
+		"trainer": "今野 貞一",
+		"pop": "2",
+		"corner": [
+			1,
+			1
+		],
+		"title": "CBC賞"
+	}
+]

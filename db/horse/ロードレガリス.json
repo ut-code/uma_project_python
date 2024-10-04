@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ロードレガリス",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "松田 大作",
+		"time": "1:52.5",
+		"margin": "１ 1/4",
+		"h_weight": 520,
+		"h_weight_zougen": -8,
+		"f_time": "36.3",
+		"trainer": "野中 賢二",
+		"pop": "10",
+		"corner": [
+			14,
+			14,
+			13,
+			12
+		],
+		"title": "東海テレビ杯東海ステークス"
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠4青",
+		"umaban": 5,
+		"horse": "アレグロモデラート",
+		"age": "牝5",
+		"weight": "51.0",
+		"jockey": "富田 暁",
+		"time": "1:58.4",
+		"margin": "１ 3/4",
+		"h_weight": 484,
+		"h_weight_zougen": -2,
+		"f_time": "36.2",
+		"trainer": "武井 亮",
+		"pop": "6",
+		"corner": [
+			3,
+			3,
+			2,
+			1
+		],
+		"title": "愛知杯"
+	},
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "アレグロモデラート",
+		"age": "牝5",
+		"weight": "50.0",
+		"jockey": "木幡 巧也",
+		"time": "1:49.4",
+		"margin": "アタマ",
+		"h_weight": 488,
+		"h_weight_zougen": 4,
+		"f_time": "35.8",
+		"trainer": "武井 亮",
+		"pop": "10",
+		"corner": [
+			15,
+			15,
+			11,
+			11
+		],
+		"title": "ローレル競馬場賞中山牝馬ステークス"
+	}
+]

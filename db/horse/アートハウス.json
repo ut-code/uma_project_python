@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "アートハウス",
+		"age": "牝4",
+		"weight": "56.0",
+		"jockey": "坂井 瑠星",
+		"time": "2:13.3",
+		"margin": "アタマ",
+		"h_weight": 490,
+		"h_weight_zougen": 20,
+		"f_time": "35.8",
+		"trainer": "中内田 充正",
+		"pop": "9",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "エリザベス女王杯"
+	},
+	{
+		"rank": 1,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "アートハウス",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "川田 将雅",
+		"time": "2:03.1",
+		"margin": "",
+		"h_weight": 482,
+		"h_weight_zougen": 10,
+		"f_time": "33.9",
+		"trainer": "中内田 充正",
+		"pop": "1",
+		"corner": [
+			3,
+			3,
+			3,
+			3
+		],
+		"title": "愛知杯"
+	},
+	{
+		"rank": 4,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "アートハウス",
+		"age": "牝4",
+		"weight": "57.0",
+		"jockey": "川田 将雅",
+		"time": "1:47.0",
+		"margin": "アタマ",
+		"h_weight": 470,
+		"h_weight_zougen": -12,
+		"f_time": "34.7",
+		"trainer": "中内田 充正",
+		"pop": "1",
+		"corner": [
+			3,
+			3,
+			3,
+			3
+		],
+		"title": "ローレル競馬場賞中山牝馬ステークス"
+	}
+]

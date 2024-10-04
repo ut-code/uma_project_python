@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "リバートゥルー",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "吉田 豊",
+		"time": "1:52.4",
+		"margin": "クビ",
+		"h_weight": 456,
+		"h_weight_zougen": 0,
+		"f_time": "37.2",
+		"trainer": "久保田 貴士",
+		"pop": "11",
+		"corner": [
+			15,
+			15,
+			15,
+			14
+		],
+		"title": "レパードステークス"
+	}
+]

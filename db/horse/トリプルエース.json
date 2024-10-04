@@ -1,0 +1,23 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "トリプルエース",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "団野 大成",
+		"time": "1:32.2",
+		"margin": "クビ",
+		"h_weight": 492,
+		"h_weight_zougen": -10,
+		"f_time": "33.2",
+		"trainer": "斉藤 崇史",
+		"pop": "14",
+		"corner": [
+			14,
+			15
+		],
+		"title": "読売マイラーズカップ"
+	}
+]

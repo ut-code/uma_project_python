@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "ジャディード",
+		"age": "牡9",
+		"weight": "60.0",
+		"jockey": "石神 深一",
+		"time": "3:42.9",
+		"margin": "５",
+		"h_weight": 462,
+		"h_weight_zougen": -2,
+		"f_time": "13.4",
+		"trainer": "小島 茂之",
+		"pop": "12",
+		"corner": [
+			11,
+			11,
+			10,
+			10
+		],
+		"title": "阪神ジャンプステークス"
+	}
+]

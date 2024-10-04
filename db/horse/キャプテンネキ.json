@@ -1,0 +1,66 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "キャプテンネキ",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "松若 風馬",
+		"time": "1:20.9",
+		"margin": "１",
+		"h_weight": 528,
+		"h_weight_zougen": 0,
+		"f_time": "34.5",
+		"trainer": "杉山 晴紀",
+		"pop": "8",
+		"corner": [
+			6,
+			5
+		],
+		"title": "KBS京都賞ファンタジーステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠6緑",
+		"umaban": 10,
+		"horse": "キャプテンネキ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "R.ピーヒュレク",
+		"time": "1:34.4",
+		"margin": "クビ",
+		"h_weight": 530,
+		"h_weight_zougen": 2,
+		"f_time": "35.3",
+		"trainer": "杉山 晴紀",
+		"pop": "12",
+		"corner": [
+			2,
+			3,
+			2
+		],
+		"title": "フェアリーステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "キャプテンネキ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "松山 弘平",
+		"time": "1:21.2",
+		"margin": "１／２",
+		"h_weight": 530,
+		"h_weight_zougen": 0,
+		"f_time": "35.6",
+		"trainer": "杉山 晴紀",
+		"pop": "10",
+		"corner": [
+			2,
+			2
+		],
+		"title": "中日スポーツ賞ファルコンステークス"
+	}
+]

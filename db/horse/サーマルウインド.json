@@ -1,0 +1,45 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "サーマルウインド",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "北村 宏司",
+		"time": "1:33.2",
+		"margin": "ハナ",
+		"h_weight": 526,
+		"h_weight_zougen": 4,
+		"f_time": "34.7",
+		"trainer": "奥村 武",
+		"pop": "7",
+		"corner": [
+			2,
+			2,
+			2
+		],
+		"title": "ターコイズステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "サーマルウインド",
+		"age": "牝5",
+		"weight": "55.5",
+		"jockey": "川田 将雅",
+		"time": "1:09.1",
+		"margin": "クビ",
+		"h_weight": 530,
+		"h_weight_zougen": 4,
+		"f_time": "36.1",
+		"trainer": "奥村 武",
+		"pop": "1",
+		"corner": [
+			5,
+			5
+		],
+		"title": "テレビ西日本賞北九州記念"
+	}
+]

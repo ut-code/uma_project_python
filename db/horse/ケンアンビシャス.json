@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠8桃",
+		"umaban": 11,
+		"horse": "ケンアンビシャス",
+		"age": "牡6",
+		"weight": "60.0",
+		"jockey": "五十嵐 雄祐",
+		"time": "3:40.7",
+		"margin": "１／２",
+		"h_weight": 482,
+		"h_weight_zougen": 0,
+		"f_time": "13.3",
+		"trainer": "久保田 貴士",
+		"pop": "6",
+		"corner": [
+			1,
+			1,
+			2,
+			2
+		],
+		"title": "阪神ジャンプステークス"
+	}
+]

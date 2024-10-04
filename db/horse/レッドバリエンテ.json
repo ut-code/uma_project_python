@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "レッドバリエンテ",
+		"age": "牡4",
+		"weight": "55.0",
+		"jockey": "永野 猛蔵",
+		"time": "2:30.3",
+		"margin": "ハナ",
+		"h_weight": 478,
+		"h_weight_zougen": 0,
+		"f_time": "34.4",
+		"trainer": "中内田 充正",
+		"pop": "8",
+		"corner": [
+			17,
+			17,
+			16,
+			16
+		],
+		"title": "アルゼンチン共和国杯"
+	},
+	{
+		"rank": 6,
+		"waku": "枠4青",
+		"umaban": 5,
+		"horse": "レッドバリエンテ",
+		"age": "牡5",
+		"weight": "55.0",
+		"jockey": "西村 淳也",
+		"time": "2:24.7",
+		"margin": "クビ",
+		"h_weight": 480,
+		"h_weight_zougen": 2,
+		"f_time": "37.0",
+		"trainer": "中内田 充正",
+		"pop": "5",
+		"corner": [
+			8,
+			8,
+			8,
+			7
+		],
+		"title": "日経新春杯"
+	}
+]

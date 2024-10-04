@@ -1,0 +1,23 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "チギリ",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "北村 友一",
+		"time": "1:09.9",
+		"margin": "クビ",
+		"h_weight": 456,
+		"h_weight_zougen": -2,
+		"f_time": "34.5",
+		"trainer": "鹿戸 雄一",
+		"pop": "9",
+		"corner": [
+			10,
+			11
+		],
+		"title": "函館2歳ステークス"
+	}
+]

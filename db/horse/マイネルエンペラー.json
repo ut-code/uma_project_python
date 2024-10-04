@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "マイネルエンペラー",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "和田 竜二",
+		"time": "2:25.0",
+		"margin": "１／２",
+		"h_weight": 460,
+		"h_weight_zougen": 6,
+		"f_time": "35.4",
+		"trainer": "清水 久詞",
+		"pop": "10",
+		"corner": [
+			6,
+			6,
+			7,
+			7
+		],
+		"title": "テレビ東京杯青葉賞"
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 15,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ロータスワンド",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "藤岡 佑介",
+		"time": "1:14.3",
+		"margin": "２",
+		"h_weight": 452,
+		"h_weight_zougen": -4,
+		"f_time": "39.1",
+		"trainer": "中竹 和也",
+		"pop": "3",
+		"corner": [
+			5,
+			8
+		],
+		"title": "函館2歳ステークス"
+	},
+	{
+		"rank": 13,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "ロータスワンド",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "藤岡 康太",
+		"time": "1:21.5",
+		"margin": "１ 1/4",
+		"h_weight": 466,
+		"h_weight_zougen": 14,
+		"f_time": "34.2",
+		"trainer": "中竹 和也",
+		"pop": "16",
+		"corner": [
+			15,
+			14
+		],
+		"title": "KBS京都賞ファンタジーステークス"
+	}
+]

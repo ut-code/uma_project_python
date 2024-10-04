@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "アルジーヌ",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "藤岡 佑介",
+		"time": "1:47.5",
+		"margin": "クビ",
+		"h_weight": 456,
+		"h_weight_zougen": -6,
+		"f_time": "35.0",
+		"trainer": "中内田 充正",
+		"pop": "7",
+		"corner": [
+			3,
+			3,
+			5,
+			3
+		],
+		"title": "北海道新聞杯クイーンステークス"
+	}
+]

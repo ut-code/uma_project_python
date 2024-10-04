@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "オーロラエックス",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "松山 弘平",
+		"time": "2:00.8",
+		"margin": "１",
+		"h_weight": 488,
+		"h_weight_zougen": 4,
+		"f_time": "34.1",
+		"trainer": "杉山 晴紀",
+		"pop": "3",
+		"corner": [
+			9,
+			10,
+			10,
+			10
+		],
+		"title": "関西テレビ放送賞ローズステークス"
+	}
+]

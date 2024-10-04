@@ -1,0 +1,138 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠8桃",
+		"umaban": 13,
+		"horse": "アリストテレス",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "横山 和生",
+		"time": "2:14.4",
+		"margin": "２ 1/2",
+		"h_weight": 484,
+		"h_weight_zougen": 0,
+		"f_time": "35.2",
+		"trainer": "音無 秀孝",
+		"pop": "10",
+		"corner": [
+			12,
+			12,
+			11,
+			11
+		],
+		"title": "アメリカジョッキークラブカップ"
+	},
+	{
+		"rank": 11,
+		"waku": "枠6緑",
+		"umaban": 7,
+		"horse": "アリストテレス",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "菅原 明良",
+		"time": "2:41.0",
+		"margin": "７",
+		"h_weight": 486,
+		"h_weight_zougen": 2,
+		"f_time": "40.0",
+		"trainer": "音無 秀孝",
+		"pop": "9",
+		"corner": [
+			8,
+			8,
+			7,
+			10
+		],
+		"title": "日経賞"
+	},
+	{
+		"rank": 15,
+		"waku": "枠7橙",
+		"umaban": 15,
+		"horse": "アリストテレス",
+		"age": "牡6",
+		"weight": "58.0",
+		"jockey": "戸崎 圭太",
+		"time": "2:32.4",
+		"margin": "２",
+		"h_weight": 490,
+		"h_weight_zougen": 4,
+		"f_time": "35.8",
+		"trainer": "音無 秀孝",
+		"pop": "15",
+		"corner": [
+			6,
+			6,
+			6,
+			4
+		],
+		"title": "目黒記念"
+	},
+	{
+		"rank": 16,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "アリストテレス",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "内田 博幸",
+		"time": "2:31.2",
+		"margin": "１ 1/2",
+		"h_weight": 474,
+		"h_weight_zougen": -16,
+		"f_time": "36.3",
+		"trainer": "上村 洋行",
+		"pop": "16",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "アルゼンチン共和国杯"
+	},
+	{
+		"rank": 15,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "アリストテレス",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "古川 吉洋",
+		"time": "1:34.6",
+		"margin": "クビ",
+		"h_weight": 490,
+		"h_weight_zougen": -6,
+		"f_time": "36.0",
+		"trainer": "上村 洋行",
+		"pop": "15",
+		"corner": [
+			15,
+			17
+		],
+		"title": "読売マイラーズカップ"
+	},
+	{
+		"rank": 9,
+		"waku": "枠5黄",
+		"umaban": 8,
+		"horse": "アリストテレス",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "横山 典弘",
+		"time": "1:58.3",
+		"margin": "１",
+		"h_weight": 482,
+		"h_weight_zougen": -8,
+		"f_time": "34.4",
+		"trainer": "上村 洋行",
+		"pop": "9",
+		"corner": [
+			11,
+			11,
+			11,
+			11
+		],
+		"title": "鳴尾記念"
+	}
+]

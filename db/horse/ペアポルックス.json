@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ペアポルックス",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "松若 風馬",
+		"time": "1:07.3",
+		"margin": "１ 1/4",
+		"h_weight": 474,
+		"h_weight_zougen": -2,
+		"f_time": "33.9",
+		"trainer": "梅田 智之",
+		"pop": "7",
+		"corner": [
+			2,
+			2
+		],
+		"title": "葵ステークス"
+	},
+	{
+		"rank": 17,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "ペアポルックス",
+		"age": "牡3",
+		"weight": "54.0",
+		"jockey": "松若 風馬",
+		"time": "1:09.7",
+		"margin": "クビ",
+		"h_weight": 468,
+		"h_weight_zougen": -6,
+		"f_time": "37.2",
+		"trainer": "梅田 智之",
+		"pop": "4",
+		"corner": [
+			2,
+			2
+		],
+		"title": "テレビ西日本賞北九州記念"
+	}
+]

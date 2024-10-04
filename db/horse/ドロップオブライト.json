@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ドロップオブライト",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "小沢 大仁",
+		"time": "1:20.8",
+		"margin": "１／２",
+		"h_weight": 444,
+		"h_weight_zougen": 6,
+		"f_time": "34.4",
+		"trainer": "松永 昌博",
+		"pop": "10",
+		"corner": [
+			7,
+			7
+		],
+		"title": "京都牝馬ステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ドロップオブライト",
+		"age": "牝5",
+		"weight": "54.0",
+		"jockey": "幸 英明",
+		"time": "1:07.5",
+		"margin": "",
+		"h_weight": 440,
+		"h_weight_zougen": 4,
+		"f_time": "33.6",
+		"trainer": "福永 祐一",
+		"pop": "6",
+		"corner": [
+			3,
+			3
+		],
+		"title": "CBC賞"
+	}
+]

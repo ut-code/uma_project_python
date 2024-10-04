@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "クロスマジェスティ",
+		"age": "牝4",
+		"weight": "51.0",
+		"jockey": "柴田 善臣",
+		"time": "1:48.2",
+		"margin": "２",
+		"h_weight": 478,
+		"h_weight_zougen": 10,
+		"f_time": "35.0",
+		"trainer": "水野 貴広",
+		"pop": "12",
+		"corner": [
+			14,
+			13,
+			13,
+			13
+		],
+		"title": "ローレル競馬場賞中山牝馬ステークス"
+	}
+]

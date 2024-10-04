@@ -1,0 +1,90 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "レミージュ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "荻野 極",
+		"time": "2:25.3",
+		"margin": "１／２",
+		"h_weight": 434,
+		"h_weight_zougen": 6,
+		"f_time": "36.2",
+		"trainer": "松永 幹夫",
+		"pop": "18",
+		"corner": [
+			6,
+			6,
+			6,
+			6
+		],
+		"title": "オークス"
+	},
+	{
+		"rank": 5,
+		"waku": "枠4青",
+		"umaban": 4,
+		"horse": "レミージュ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "荻野 極",
+		"time": "2:00.8",
+		"margin": "１ 1/2",
+		"h_weight": 436,
+		"h_weight_zougen": 2,
+		"f_time": "35.4",
+		"trainer": "松永 幹夫",
+		"pop": "3",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "きさらぎ賞"
+	},
+	{
+		"rank": 16,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "レミージュ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "荻野 極",
+		"time": "1:35.2",
+		"margin": "１",
+		"h_weight": 428,
+		"h_weight_zougen": -8,
+		"f_time": "34.1",
+		"trainer": "松永 幹夫",
+		"pop": "13",
+		"corner": [
+			14,
+			15
+		],
+		"title": "チューリップ賞"
+	},
+	{
+		"rank": 11,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "レミージュ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "和田 竜二",
+		"time": "1:44.2",
+		"margin": "クビ",
+		"h_weight": 446,
+		"h_weight_zougen": 12,
+		"f_time": "34.4",
+		"trainer": "松永 幹夫",
+		"pop": "15",
+		"corner": [
+			7,
+			7
+		],
+		"title": "関西テレビ放送賞ローズステークス"
+	}
+]

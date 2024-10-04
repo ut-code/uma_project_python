@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "イレジン",
+		"age": "せん6",
+		"weight": "58.0",
+		"jockey": "M.ヴェロン",
+		"time": "2:23.5",
+		"margin": "１ 1/2",
+		"h_weight": 462,
+		"h_weight_zougen": null,
+		"f_time": "34.2",
+		"trainer": "J.ゴーヴァン",
+		"pop": "10",
+		"corner": [
+			8,
+			8,
+			10,
+			10
+		],
+		"title": "ジャパンカップ"
+	}
+]

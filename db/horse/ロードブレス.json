@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ロードブレス",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "川須 栄彦",
+		"time": "1:51.9",
+		"margin": "２",
+		"h_weight": 510,
+		"h_weight_zougen": 14,
+		"f_time": "39.3",
+		"trainer": "奥村 豊",
+		"pop": "8",
+		"corner": [
+			8,
+			9,
+			10,
+			7
+		],
+		"title": "アンタレスステークス"
+	},
+	{
+		"rank": 11,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "ロードブレス",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "横山 武史",
+		"time": "1:44.5",
+		"margin": "クビ",
+		"h_weight": 516,
+		"h_weight_zougen": 6,
+		"f_time": "36.3",
+		"trainer": "奥村 豊",
+		"pop": "11",
+		"corner": [
+			12,
+			14,
+			14,
+			14
+		],
+		"title": "エルムステークス"
+	},
+	{
+		"rank": 13,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ロードブレス",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "川須 栄彦",
+		"time": "2:07.6",
+		"margin": "６",
+		"h_weight": 500,
+		"h_weight_zougen": -16,
+		"f_time": "39.6",
+		"trainer": "奥村 豊",
+		"pop": "13",
+		"corner": [
+			9,
+			8,
+			9,
+			13
+		],
+		"title": "シリウスステークス"
+	}
+]

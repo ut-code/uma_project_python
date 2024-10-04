@@ -1,0 +1,23 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "アイスリアン",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "亀田 温心",
+		"time": "1:10.6",
+		"margin": "クビ",
+		"h_weight": 448,
+		"h_weight_zougen": -8,
+		"f_time": "35.7",
+		"trainer": "高柳 大輔",
+		"pop": "11",
+		"corner": [
+			10,
+			10
+		],
+		"title": "カペラステークス"
+	}
+]

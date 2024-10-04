@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "ペイシャフラワー",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "永島 まなみ",
+		"time": "1:48.3",
+		"margin": "クビ",
+		"h_weight": 460,
+		"h_weight_zougen": -8,
+		"f_time": "34.5",
+		"trainer": "高橋 康之",
+		"pop": "15",
+		"corner": [
+			14,
+			15,
+			12,
+			12
+		],
+		"title": "福島牝馬ステークス"
+	}
+]

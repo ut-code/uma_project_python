@@ -1,0 +1,65 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "リバーラ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "石橋 脩",
+		"time": "1:21.3",
+		"margin": "アタマ",
+		"h_weight": 434,
+		"h_weight_zougen": 4,
+		"f_time": "36.3",
+		"trainer": "高柳 瑞樹",
+		"pop": "3",
+		"corner": [
+			2,
+			2
+		],
+		"title": "報知杯フィリーズレビュー"
+	},
+	{
+		"rank": 8,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "リバーラ",
+		"age": "牝3",
+		"weight": "52.0",
+		"jockey": "M.デムーロ",
+		"time": "1:08.8",
+		"margin": "３／４",
+		"h_weight": 438,
+		"h_weight_zougen": 4,
+		"f_time": "35.8",
+		"trainer": "高柳 瑞樹",
+		"pop": "8",
+		"corner": [
+			1,
+			1
+		],
+		"title": "函館スプリントステークス"
+	},
+	{
+		"rank": 17,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "リバーラ",
+		"age": "牝4",
+		"weight": "54.0",
+		"jockey": "田口 貫太",
+		"time": "1:09.6",
+		"margin": "１ 1/4",
+		"h_weight": 432,
+		"h_weight_zougen": -4,
+		"f_time": "35.7",
+		"trainer": "高柳 瑞樹",
+		"pop": "17",
+		"corner": [
+			4,
+			3
+		],
+		"title": "シルクロードステークス"
+	}
+]

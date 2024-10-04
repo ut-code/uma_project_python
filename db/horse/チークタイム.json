@@ -1,0 +1,23 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "チークタイム",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "和田 竜二",
+		"time": "1:12.7",
+		"margin": "１",
+		"h_weight": 444,
+		"h_weight_zougen": -4,
+		"f_time": "36.9",
+		"trainer": "鈴木 孝志",
+		"pop": "12",
+		"corner": [
+			12,
+			12
+		],
+		"title": "函館2歳ステークス"
+	}
+]

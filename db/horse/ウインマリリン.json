@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ウインマリリン",
+		"age": "牝6",
+		"weight": "56.0",
+		"jockey": "L.モリス",
+		"time": "2:31.6",
+		"margin": "３／４",
+		"h_weight": 476,
+		"h_weight_zougen": null,
+		"f_time": "35.2",
+		"trainer": "手塚 貴久",
+		"pop": "14",
+		"corner": [
+			6,
+			6,
+			5,
+			6
+		],
+		"title": "有馬記念"
+	},
+	{
+		"rank": 9,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ウインマリリン",
+		"age": "牝6",
+		"weight": "56.0",
+		"jockey": "松岡 正海",
+		"time": "2:04.0",
+		"margin": "２",
+		"h_weight": 494,
+		"h_weight_zougen": null,
+		"f_time": "38.7",
+		"trainer": "手塚 貴久",
+		"pop": "6",
+		"corner": [
+			3,
+			3,
+			3,
+			3
+		],
+		"title": "札幌記念"
+	},
+	{
+		"rank": 9,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "ウインマリリン",
+		"age": "牝6",
+		"weight": "57.0",
+		"jockey": "松岡 正海",
+		"time": "2:12.8",
+		"margin": "１／２",
+		"h_weight": 484,
+		"h_weight_zougen": -10,
+		"f_time": "35.8",
+		"trainer": "手塚 貴久",
+		"pop": "9",
+		"corner": [
+			4,
+			4,
+			5,
+			6
+		],
+		"title": "産経賞オールカマー"
+	}
+]

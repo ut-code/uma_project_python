@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠8桃",
+		"umaban": 10,
+		"horse": "スティンガーグラス",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:50.2",
+		"margin": "１／２",
+		"h_weight": 470,
+		"h_weight_zougen": 6,
+		"f_time": "33.4",
+		"trainer": "木村 哲也",
+		"pop": "8",
+		"corner": [
+			8,
+			8,
+			8,
+			8
+		],
+		"title": "フジテレビ賞スプリングステークス"
+	},
+	{
+		"rank": 5,
+		"waku": "枠7橙",
+		"umaban": 12,
+		"horse": "スティンガーグラス",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "武 豊",
+		"time": "2:12.7",
+		"margin": "２",
+		"h_weight": 468,
+		"h_weight_zougen": -2,
+		"f_time": "34.6",
+		"trainer": "木村 哲也",
+		"pop": "5",
+		"corner": [
+			13,
+			13,
+			9,
+			9
+		],
+		"title": "朝日杯セントライト記念"
+	}
+]

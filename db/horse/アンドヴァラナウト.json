@@ -1,0 +1,110 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "アンドヴァラナウト",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "吉田 隼人",
+		"time": "1:33.0",
+		"margin": "クビ",
+		"h_weight": 446,
+		"h_weight_zougen": -8,
+		"f_time": "33.5",
+		"trainer": "池添 学",
+		"pop": "13",
+		"corner": [
+			11,
+			13
+		],
+		"title": "ヴィクトリアマイル"
+	},
+	{
+		"rank": 9,
+		"waku": "枠5黄",
+		"umaban": 8,
+		"horse": "アンドヴァラナウト",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "D.イーガン",
+		"time": "2:04.7",
+		"margin": "１／２",
+		"h_weight": 452,
+		"h_weight_zougen": 2,
+		"f_time": "34.8",
+		"trainer": "池添 学",
+		"pop": "8",
+		"corner": [
+			9,
+			10,
+			13,
+			14
+		],
+		"title": "愛知杯"
+	},
+	{
+		"rank": 5,
+		"waku": "枠7橙",
+		"umaban": 10,
+		"horse": "アンドヴァラナウト",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "吉田 隼人",
+		"time": "1:34.3",
+		"margin": "クビ",
+		"h_weight": 454,
+		"h_weight_zougen": 2,
+		"f_time": "33.6",
+		"trainer": "池添 学",
+		"pop": "7",
+		"corner": [
+			10,
+			11
+		],
+		"title": "サンケイスポーツ杯阪神牝馬ステークス"
+	},
+	{
+		"rank": 6,
+		"waku": "枠6緑",
+		"umaban": 9,
+		"horse": "アンドヴァラナウト",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:46.4",
+		"margin": "ハナ",
+		"h_weight": 452,
+		"h_weight_zougen": 6,
+		"f_time": "33.3",
+		"trainer": "池添 学",
+		"pop": "7",
+		"corner": [
+			4,
+			4,
+			4
+		],
+		"title": "アイルランドトロフィー府中牝馬ステークス"
+	},
+	{
+		"rank": 10,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "アンドヴァラナウト",
+		"age": "牝6",
+		"weight": "55.5",
+		"jockey": "武 豊",
+		"time": "1:34.8",
+		"margin": "クビ",
+		"h_weight": 464,
+		"h_weight_zougen": 12,
+		"f_time": "35.7",
+		"trainer": "池添 学",
+		"pop": "9",
+		"corner": [
+			16,
+			17
+		],
+		"title": "スポーツニッポン賞京都金杯"
+	}
+]

@@ -1,0 +1,69 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "セットアップ",
+		"age": "牡2",
+		"weight": "56.0",
+		"jockey": "横山 武史",
+		"time": "1:34.3",
+		"margin": "１／２",
+		"h_weight": 488,
+		"h_weight_zougen": 14,
+		"f_time": "35.7",
+		"trainer": "鹿戸 雄一",
+		"pop": "6",
+		"corner": [
+			2,
+			2
+		],
+		"title": "朝日杯フューチュリティステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠4青",
+		"umaban": 4,
+		"horse": "セットアップ",
+		"age": "牡2",
+		"weight": "55.0",
+		"jockey": "横山 武史",
+		"time": "1:50.5",
+		"margin": "",
+		"h_weight": 474,
+		"h_weight_zougen": 2,
+		"f_time": "36.5",
+		"trainer": "鹿戸 雄一",
+		"pop": "3",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "札幌2歳ステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "セットアップ",
+		"age": "牡3",
+		"weight": "58.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:47.2",
+		"margin": "３",
+		"h_weight": 484,
+		"h_weight_zougen": null,
+		"f_time": "36.8",
+		"trainer": "鹿戸 雄一",
+		"pop": "8",
+		"corner": [
+			2,
+			2,
+			2,
+			5
+		],
+		"title": "ラジオNIKKEI賞"
+	}
+]

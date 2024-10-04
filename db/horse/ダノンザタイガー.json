@@ -1,0 +1,24 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ダノンザタイガー",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "川田 将雅",
+		"time": "1:47.2",
+		"margin": "クビ",
+		"h_weight": 502,
+		"h_weight_zougen": 2,
+		"f_time": "33.6",
+		"trainer": "国枝 栄",
+		"pop": "1",
+		"corner": [
+			5,
+			6,
+			6
+		],
+		"title": "共同通信杯"
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "レッドルゼル",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "川田 将雅",
+		"time": "1:35.8",
+		"margin": "１ 1/2",
+		"h_weight": 488,
+		"h_weight_zougen": 0,
+		"f_time": "35.7",
+		"trainer": "安田 隆行",
+		"pop": "3",
+		"corner": [
+			14,
+			14
+		],
+		"title": "フェブラリーステークス"
+	},
+	{
+		"rank": 6,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "レッドルゼル",
+		"age": "牡8",
+		"weight": "58.0",
+		"jockey": "北村 友一",
+		"time": "1:36.5",
+		"margin": "３",
+		"h_weight": 490,
+		"h_weight_zougen": 0,
+		"f_time": "36.9",
+		"trainer": "安田 隆行",
+		"pop": "6",
+		"corner": [
+			16,
+			15
+		],
+		"title": "フェブラリーステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "レッドルゼル",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "横山 典弘",
+		"time": "1:35.8",
+		"margin": "１ 3/4",
+		"h_weight": 490,
+		"h_weight_zougen": null,
+		"f_time": "36.1",
+		"trainer": "安田 隆行",
+		"pop": "5",
+		"corner": [
+			11,
+			11
+		],
+		"title": "東京中日スポーツ杯武蔵野ステークス"
+	}
+]

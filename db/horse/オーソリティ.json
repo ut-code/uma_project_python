@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠4青",
+		"umaban": 5,
+		"horse": "オーソリティ",
+		"age": "牡6",
+		"weight": "58.0",
+		"jockey": "C.ルメール",
+		"time": "1:45.0",
+		"margin": "３",
+		"h_weight": 528,
+		"h_weight_zougen": null,
+		"f_time": "38.2",
+		"trainer": "木村 哲也",
+		"pop": "3",
+		"corner": [
+			5,
+			6,
+			4,
+			5
+		],
+		"title": "エルムステークス"
+	}
+]

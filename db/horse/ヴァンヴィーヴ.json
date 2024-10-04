@@ -1,0 +1,23 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ヴァンヴィーヴ",
+		"age": "牡2",
+		"weight": "55.0",
+		"jockey": "M.デムーロ",
+		"time": "1:34.6",
+		"margin": "アタマ",
+		"h_weight": 490,
+		"h_weight_zougen": 2,
+		"f_time": "33.7",
+		"trainer": "牧浦 充徳",
+		"pop": "6",
+		"corner": [
+			8,
+			8
+		],
+		"title": "新潟2歳ステークス"
+	}
+]

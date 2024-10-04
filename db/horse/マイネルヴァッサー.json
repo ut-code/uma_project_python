@@ -1,0 +1,117 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠7橙",
+		"umaban": 10,
+		"horse": "マイネルヴァッサー",
+		"age": "牡10",
+		"weight": "63.0",
+		"jockey": "小野寺 祐太",
+		"time": "4:45.9",
+		"margin": "３ 1/2",
+		"h_weight": 422,
+		"h_weight_zougen": -4,
+		"f_time": "13.9",
+		"trainer": "土田 稔",
+		"pop": "10",
+		"corner": [
+			6,
+			6,
+			6,
+			7
+		],
+		"title": "中山大障害"
+	},
+	{
+		"rank": 10,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "マイネルヴァッサー",
+		"age": "牡10",
+		"weight": "60.0",
+		"jockey": "小野寺 祐太",
+		"time": "3:28.8",
+		"margin": "１ 1/2",
+		"h_weight": 434,
+		"h_weight_zougen": 4,
+		"f_time": "13.4",
+		"trainer": "土田 稔",
+		"pop": "11",
+		"corner": [
+			7,
+			7,
+			8,
+			7
+		],
+		"title": "東京ジャンプステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠4青",
+		"umaban": 4,
+		"horse": "マイネルヴァッサー",
+		"age": "牡10",
+		"weight": "60.0",
+		"jockey": "小野寺 祐太",
+		"time": "3:47.5",
+		"margin": "１",
+		"h_weight": 430,
+		"h_weight_zougen": 2,
+		"f_time": "13.4",
+		"trainer": "土田 稔",
+		"pop": "5",
+		"corner": [
+			6,
+			7,
+			5,
+			4
+		],
+		"title": "小倉サマージャンプ"
+	},
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 6,
+		"horse": "マイネルヴァッサー",
+		"age": "牡10",
+		"weight": "60.0",
+		"jockey": "小野寺 祐太",
+		"time": "3:39.9",
+		"margin": "クビ",
+		"h_weight": 426,
+		"h_weight_zougen": -4,
+		"f_time": "13.9",
+		"trainer": "土田 稔",
+		"pop": "6",
+		"corner": [
+			8,
+			5,
+			5,
+			5
+		],
+		"title": "京都ジャンプステークス"
+	},
+	{
+		"rank": 13,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "マイネルヴァッサー",
+		"age": "牡11",
+		"weight": "60.0",
+		"jockey": "草野 太郎",
+		"time": "3:36.6",
+		"margin": "４",
+		"h_weight": 432,
+		"h_weight_zougen": 2,
+		"f_time": "13.3",
+		"trainer": "土田 稔",
+		"pop": "13",
+		"corner": [
+			13,
+			13,
+			13,
+			13
+		],
+		"title": "新潟ジャンプステークス"
+	}
+]

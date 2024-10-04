@@ -1,0 +1,180 @@
+[
+	{
+		"rank": 15,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "カラテ",
+		"age": "牡8",
+		"weight": "58.0",
+		"jockey": "菅原 明良",
+		"time": "1:38.3",
+		"margin": "２",
+		"h_weight": 534,
+		"h_weight_zougen": -6,
+		"f_time": "39.2",
+		"trainer": "辻野 泰之",
+		"pop": "16",
+		"corner": [
+			11,
+			12
+		],
+		"title": "フェブラリーステークス"
+	},
+	{
+		"rank": 16,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "カラテ",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "菅原 明良",
+		"time": "2:12.6",
+		"margin": "ハナ",
+		"h_weight": 538,
+		"h_weight_zougen": 0,
+		"f_time": "36.5",
+		"trainer": "辻野 泰之",
+		"pop": "15",
+		"corner": [
+			4,
+			3,
+			4,
+			6
+		],
+		"title": "宝塚記念"
+	},
+	{
+		"rank": 13,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "カラテ",
+		"age": "牡8",
+		"weight": "58.0",
+		"jockey": "岩田 望来",
+		"time": "2:15.8",
+		"margin": "１ 1/2",
+		"h_weight": 530,
+		"h_weight_zougen": -4,
+		"f_time": "37.8",
+		"trainer": "音無 秀孝",
+		"pop": "11",
+		"corner": [
+			2,
+			3,
+			5,
+			7
+		],
+		"title": "宝塚記念"
+	},
+	{
+		"rank": 1,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "カラテ",
+		"age": "牡7",
+		"weight": "59.0",
+		"jockey": "菅原 明良",
+		"time": "2:03.8",
+		"margin": "",
+		"h_weight": 534,
+		"h_weight_zougen": -2,
+		"f_time": "36.0",
+		"trainer": "辻野 泰之",
+		"pop": "5",
+		"corner": [
+			5,
+			5
+		],
+		"title": "新潟大賞典"
+	},
+	{
+		"rank": 9,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "カラテ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "菅原 明良",
+		"time": "1:59.6",
+		"margin": "１／２",
+		"h_weight": 538,
+		"h_weight_zougen": 4,
+		"f_time": "35.8",
+		"trainer": "辻野 泰之",
+		"pop": "4",
+		"corner": [
+			5,
+			4,
+			4,
+			5
+		],
+		"title": "鳴尾記念"
+	},
+	{
+		"rank": 10,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "カラテ",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "菅原 明良",
+		"time": "2:18.2",
+		"margin": "７",
+		"h_weight": 540,
+		"h_weight_zougen": 2,
+		"f_time": "38.8",
+		"trainer": "辻野 泰之",
+		"pop": "6",
+		"corner": [
+			4,
+			4,
+			6,
+			8
+		],
+		"title": "アメリカジョッキークラブカップ"
+	},
+	{
+		"rank": 14,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "カラテ",
+		"age": "牡8",
+		"weight": "59.5",
+		"jockey": "国分 優作",
+		"time": "2:01.7",
+		"margin": "３／４",
+		"h_weight": 530,
+		"h_weight_zougen": -4,
+		"f_time": "35.0",
+		"trainer": "辻野 泰之",
+		"pop": "10",
+		"corner": [
+			7,
+			7
+		],
+		"title": "新潟大賞典"
+	},
+	{
+		"rank": 6,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "カラテ",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "高杉 吏麒",
+		"time": "1:57.7",
+		"margin": "３／４",
+		"h_weight": 534,
+		"h_weight_zougen": 4,
+		"f_time": "34.3",
+		"trainer": "音無 秀孝",
+		"pop": "8",
+		"corner": [
+			8,
+			7,
+			5,
+			6
+		],
+		"title": "鳴尾記念"
+	}
+]

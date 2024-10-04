@@ -1,0 +1,88 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ピースワンパラディ",
+		"age": "牡7",
+		"weight": "57.5",
+		"jockey": "松山 弘平",
+		"time": "1:33.0",
+		"margin": "１／２",
+		"h_weight": 476,
+		"h_weight_zougen": 0,
+		"f_time": "34.7",
+		"trainer": "大竹 正博",
+		"pop": "3",
+		"corner": [
+			5,
+			8,
+			7
+		],
+		"title": "スポーツニッポン賞京都金杯"
+	},
+	{
+		"rank": 13,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "ピースワンパラディ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "菅原 明良",
+		"time": "1:32.9",
+		"margin": "２",
+		"h_weight": 480,
+		"h_weight_zougen": 4,
+		"f_time": "33.9",
+		"trainer": "大竹 正博",
+		"pop": "12",
+		"corner": [
+			16,
+			16
+		],
+		"title": "東京新聞杯"
+	},
+	{
+		"rank": 8,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ピースワンパラディ",
+		"age": "牡7",
+		"weight": "57.5",
+		"jockey": "丹内 祐次",
+		"time": "2:06.3",
+		"margin": "クビ",
+		"h_weight": 480,
+		"h_weight_zougen": 0,
+		"f_time": "38.0",
+		"trainer": "大竹 正博",
+		"pop": "10",
+		"corner": [
+			10,
+			9
+		],
+		"title": "新潟大賞典"
+	},
+	{
+		"rank": 16,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "ピースワンパラディ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "大野 拓弥",
+		"time": "1:47.4",
+		"margin": "４",
+		"h_weight": 474,
+		"h_weight_zougen": -6,
+		"f_time": "36.2",
+		"trainer": "大竹 正博",
+		"pop": "13",
+		"corner": [
+			13,
+			11,
+			11
+		],
+		"title": "エプソムカップ"
+	}
+]

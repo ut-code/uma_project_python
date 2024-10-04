@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "スズハローム",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:20.1",
+		"margin": "２",
+		"h_weight": 452,
+		"h_weight_zougen": 2,
+		"f_time": "33.3",
+		"trainer": "牧田 和弥",
+		"pop": "8",
+		"corner": [
+			7,
+			7
+		],
+		"title": "京王杯スプリングカップ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "スズハローム",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:07.5",
+		"margin": "クビ",
+		"h_weight": 450,
+		"h_weight_zougen": -2,
+		"f_time": "33.4",
+		"trainer": "牧田 和弥",
+		"pop": "3",
+		"corner": [
+			7,
+			6
+		],
+		"title": "CBC賞"
+	}
+]

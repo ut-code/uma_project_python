@@ -1,0 +1,69 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "リレーションシップ",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "岩田 康誠",
+		"time": "1:20.4",
+		"margin": "１",
+		"h_weight": 510,
+		"h_weight_zougen": 2,
+		"f_time": "34.1",
+		"trainer": "須貝 尚介",
+		"pop": "9",
+		"corner": [
+			9,
+			9
+		],
+		"title": "阪急杯"
+	},
+	{
+		"rank": 13,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "リレーションシップ",
+		"age": "牡7",
+		"weight": "54.0",
+		"jockey": "高田 潤",
+		"time": "2:26.2",
+		"margin": "５",
+		"h_weight": 518,
+		"h_weight_zougen": 14,
+		"f_time": "37.7",
+		"trainer": "斉藤 崇史",
+		"pop": "14",
+		"corner": [
+			13,
+			13,
+			13,
+			14
+		],
+		"title": "日経新春杯"
+	},
+	{
+		"rank": 4,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "リレーションシップ",
+		"age": "牡7",
+		"weight": "60.0",
+		"jockey": "高田 潤",
+		"time": "3:32.8",
+		"margin": "１ 3/4",
+		"h_weight": 520,
+		"h_weight_zougen": 2,
+		"f_time": "13.1",
+		"trainer": "斉藤 崇史",
+		"pop": "10",
+		"corner": [
+			11,
+			12,
+			10,
+			8
+		],
+		"title": "新潟ジャンプステークス"
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "アラレタバシル",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "野中 悠太郎",
+		"time": "2:00.2",
+		"margin": "１ 3/4",
+		"h_weight": 440,
+		"h_weight_zougen": -4,
+		"f_time": "38.6",
+		"trainer": "根本 康広",
+		"pop": "6",
+		"corner": [
+			13,
+			13,
+			12,
+			13
+		],
+		"title": "ユニコーンステークス"
+	},
+	{
+		"rank": 10,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "アラレタバシル",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "野中 悠太郎",
+		"time": "1:53.6",
+		"margin": "２",
+		"h_weight": 438,
+		"h_weight_zougen": -2,
+		"f_time": "38.4",
+		"trainer": "根本 康広",
+		"pop": "9",
+		"corner": [
+			13,
+			13,
+			14,
+			13
+		],
+		"title": "レパードステークス"
+	}
+]

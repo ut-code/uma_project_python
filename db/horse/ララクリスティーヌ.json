@@ -1,0 +1,107 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "ララクリスティーヌ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "菅原 明良",
+		"time": "1:33.0",
+		"margin": "アタマ",
+		"h_weight": 450,
+		"h_weight_zougen": 0,
+		"f_time": "33.9",
+		"trainer": "斉藤 崇史",
+		"pop": "6",
+		"corner": [
+			5,
+			8
+		],
+		"title": "ヴィクトリアマイル"
+	},
+	{
+		"rank": 1,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "ララクリスティーヌ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "菅原 明良",
+		"time": "1:20.4",
+		"margin": "",
+		"h_weight": 450,
+		"h_weight_zougen": 0,
+		"f_time": "33.5",
+		"trainer": "斉藤 崇史",
+		"pop": "2",
+		"corner": [
+			7,
+			7
+		],
+		"title": "京都牝馬ステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "ララクリスティーヌ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "菅原 明良",
+		"time": "1:32.8",
+		"margin": "１／２",
+		"h_weight": 456,
+		"h_weight_zougen": 6,
+		"f_time": "33.6",
+		"trainer": "斉藤 崇史",
+		"pop": "1",
+		"corner": [
+			6,
+			6
+		],
+		"title": "関屋記念"
+	},
+	{
+		"rank": 2,
+		"waku": "枠7橙",
+		"umaban": 15,
+		"horse": "ララクリスティーヌ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "菅原 明良",
+		"time": "1:20.0",
+		"margin": "クビ",
+		"h_weight": 456,
+		"h_weight_zougen": 0,
+		"f_time": "34.2",
+		"trainer": "斉藤 崇史",
+		"pop": "6",
+		"corner": [
+			4,
+			4
+		],
+		"title": "MBS賞スワンステークス"
+	},
+	{
+		"rank": 7,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ララクリスティーヌ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "菅原 明良",
+		"time": "1:19.5",
+		"margin": "ハナ",
+		"h_weight": 452,
+		"h_weight_zougen": -4,
+		"f_time": "34.3",
+		"trainer": "斉藤 崇史",
+		"pop": "5",
+		"corner": [
+			9,
+			9
+		],
+		"title": "阪神カップ"
+	}
+]

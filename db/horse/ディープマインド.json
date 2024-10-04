@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠8桃",
+		"umaban": 11,
+		"horse": "ディープマインド",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "団野 大成",
+		"time": "2:15.7",
+		"margin": "クビ",
+		"h_weight": 520,
+		"h_weight_zougen": -6,
+		"f_time": "34.5",
+		"trainer": "本田 優",
+		"pop": "11",
+		"corner": [
+			9,
+			10,
+			10,
+			10
+		],
+		"title": "京都新聞杯"
+	}
+]

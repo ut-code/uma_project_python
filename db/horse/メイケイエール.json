@@ -1,0 +1,107 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "メイケイエール",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "池添 謙一",
+		"time": "1:08.4",
+		"margin": "ハナ",
+		"h_weight": 486,
+		"h_weight_zougen": 6,
+		"f_time": "34.8",
+		"trainer": "武 英智",
+		"pop": "5",
+		"corner": [
+			5,
+			4
+		],
+		"title": "スプリンターズステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "メイケイエール",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "池添 謙一",
+		"time": "1:12.6",
+		"margin": "ハナ",
+		"h_weight": 486,
+		"h_weight_zougen": 9,
+		"f_time": "36.6",
+		"trainer": "武 英智",
+		"pop": "1",
+		"corner": [
+			5,
+			5
+		],
+		"title": "高松宮記念"
+	},
+	{
+		"rank": 9,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "メイケイエール",
+		"age": "牝6",
+		"weight": "56.0",
+		"jockey": "池添 謙一",
+		"time": "1:10.0",
+		"margin": "１／２",
+		"h_weight": 486,
+		"h_weight_zougen": -8,
+		"f_time": "34.7",
+		"trainer": "武 英智",
+		"pop": "10",
+		"corner": [
+			6,
+			5
+		],
+		"title": "高松宮記念"
+	},
+	{
+		"rank": 15,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "メイケイエール",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "池添 謙一",
+		"time": "1:32.7",
+		"margin": "１／２",
+		"h_weight": 480,
+		"h_weight_zougen": -6,
+		"f_time": "34.4",
+		"trainer": "武 英智",
+		"pop": "12",
+		"corner": [
+			9,
+			9
+		],
+		"title": "農林水産省賞典 安田記念"
+	},
+	{
+		"rank": 10,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "メイケイエール",
+		"age": "牝6",
+		"weight": "56.0",
+		"jockey": "池添 謙一",
+		"time": "1:20.9",
+		"margin": "アタマ",
+		"h_weight": 494,
+		"h_weight_zougen": null,
+		"f_time": "34.6",
+		"trainer": "武 英智",
+		"pop": "3",
+		"corner": [
+			7,
+			7
+		],
+		"title": "京都牝馬ステークス"
+	}
+]

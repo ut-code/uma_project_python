@@ -1,0 +1,94 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "ローゼライト",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "和田 竜二",
+		"time": "2:13.3",
+		"margin": "１／２",
+		"h_weight": 456,
+		"h_weight_zougen": 0,
+		"f_time": "35.7",
+		"trainer": "清水 久詞",
+		"pop": "15",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "エリザベス女王杯"
+	},
+	{
+		"rank": 13,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ローゼライト",
+		"age": "牝5",
+		"weight": "52.0",
+		"jockey": "斎藤 新",
+		"time": "2:02.4",
+		"margin": "クビ",
+		"h_weight": 440,
+		"h_weight_zougen": -12,
+		"f_time": "36.9",
+		"trainer": "清水 久詞",
+		"pop": "15",
+		"corner": [
+			5,
+			7,
+			7,
+			8
+		],
+		"title": "農林水産省賞典 函館記念"
+	},
+	{
+		"rank": 10,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "ローゼライト",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:47.4",
+		"margin": "１／２",
+		"h_weight": 438,
+		"h_weight_zougen": -2,
+		"f_time": "35.6",
+		"trainer": "清水 久詞",
+		"pop": "14",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "北海道新聞杯クイーンステークス"
+	},
+	{
+		"rank": 7,
+		"waku": "枠5黄",
+		"umaban": 8,
+		"horse": "ローゼライト",
+		"age": "牝6",
+		"weight": "53.0",
+		"jockey": "幸 英明",
+		"time": "1:58.6",
+		"margin": "クビ",
+		"h_weight": 460,
+		"h_weight_zougen": 4,
+		"f_time": "36.1",
+		"trainer": "清水 久詞",
+		"pop": "7",
+		"corner": [
+			4,
+			4,
+			4,
+			6
+		],
+		"title": "愛知杯"
+	}
+]

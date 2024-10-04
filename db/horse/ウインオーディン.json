@@ -1,0 +1,93 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "ウインオーディン",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "三浦 皇成",
+		"time": "3:05.0",
+		"margin": "２",
+		"h_weight": 474,
+		"h_weight_zougen": -8,
+		"f_time": "35.6",
+		"trainer": "鹿戸 雄一",
+		"pop": "13",
+		"corner": [
+			15,
+			15,
+			17,
+			15
+		],
+		"title": "菊花賞"
+	},
+	{
+		"rank": 8,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "ウインオーディン",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "三浦 皇成",
+		"time": "2:01.9",
+		"margin": "２ 1/2",
+		"h_weight": 482,
+		"h_weight_zougen": 8,
+		"f_time": "37.1",
+		"trainer": "鹿戸 雄一",
+		"pop": "15",
+		"corner": [
+			13,
+			13,
+			13,
+			10
+		],
+		"title": "皐月賞"
+	},
+	{
+		"rank": 5,
+		"waku": "枠8桃",
+		"umaban": 11,
+		"horse": "ウインオーディン",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "横山 和生",
+		"time": "1:47.5",
+		"margin": "１ 1/2",
+		"h_weight": 474,
+		"h_weight_zougen": 8,
+		"f_time": "33.6",
+		"trainer": "鹿戸 雄一",
+		"pop": "10",
+		"corner": [
+			12,
+			9,
+			8
+		],
+		"title": "共同通信杯"
+	},
+	{
+		"rank": 6,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ウインオーディン",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "三浦 皇成",
+		"time": "2:12.3",
+		"margin": "１ 1/4",
+		"h_weight": 482,
+		"h_weight_zougen": 4,
+		"f_time": "34.3",
+		"trainer": "鹿戸 雄一",
+		"pop": "10",
+		"corner": [
+			12,
+			12,
+			11,
+			12
+		],
+		"title": "朝日杯セントライト記念"
+	}
+]

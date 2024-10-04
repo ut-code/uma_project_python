@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "ケイアイパープル",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "藤岡 康太",
+		"time": "1:50.3",
+		"margin": "クビ",
+		"h_weight": 506,
+		"h_weight_zougen": 1,
+		"f_time": "38.0",
+		"trainer": "村山 明",
+		"pop": "5",
+		"corner": [
+			8,
+			6,
+			6,
+			5
+		],
+		"title": "アンタレスステークス"
+	},
+	{
+		"rank": 7,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "ケイアイパープル",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "亀田 温心",
+		"time": "1:52.6",
+		"margin": "クビ",
+		"h_weight": 510,
+		"h_weight_zougen": 21,
+		"f_time": "37.9",
+		"trainer": "村山 明",
+		"pop": "9",
+		"corner": [
+			6,
+			6,
+			6,
+			8
+		],
+		"title": "アンタレスステークス"
+	}
+]

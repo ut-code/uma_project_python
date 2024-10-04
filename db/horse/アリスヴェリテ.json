@@ -1,0 +1,88 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "アリスヴェリテ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "坂井 瑠星",
+		"time": "1:34.3",
+		"margin": "アタマ",
+		"h_weight": 442,
+		"h_weight_zougen": 0,
+		"f_time": "34.1",
+		"trainer": "中竹 和也",
+		"pop": "10",
+		"corner": [
+			4,
+			5
+		],
+		"title": "チューリップ賞"
+	},
+	{
+		"rank": 13,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "アリスヴェリテ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "藤岡 康太",
+		"time": "1:44.5",
+		"margin": "１ 3/4",
+		"h_weight": 450,
+		"h_weight_zougen": 4,
+		"f_time": "34.2",
+		"trainer": "中竹 和也",
+		"pop": "13",
+		"corner": [
+			13,
+			13
+		],
+		"title": "関西テレビ放送賞ローズステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "アリスヴェリテ",
+		"age": "牝4",
+		"weight": "50.0",
+		"jockey": "永島 まなみ",
+		"time": "1:57.2",
+		"margin": "",
+		"h_weight": 468,
+		"h_weight_zougen": 2,
+		"f_time": "36.1",
+		"trainer": "中竹 和也",
+		"pop": "4",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "マーメイドステークス"
+	},
+	{
+		"rank": 10,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "アリスヴェリテ",
+		"age": "牝4",
+		"weight": "53.0",
+		"jockey": "柴田 裕一郎",
+		"time": "1:59.4",
+		"margin": "３",
+		"h_weight": 482,
+		"h_weight_zougen": 14,
+		"f_time": "36.4",
+		"trainer": "中竹 和也",
+		"pop": "5",
+		"corner": [
+			1,
+			1
+		],
+		"title": "農林水産省賞典 新潟記念"
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "ゴールデンスナップ",
+		"age": "牝4",
+		"weight": "54.0",
+		"jockey": "浜中 俊",
+		"time": "3:08.0",
+		"margin": "１ 1/4",
+		"h_weight": 452,
+		"h_weight_zougen": -4,
+		"f_time": "35.3",
+		"trainer": "田中 克典",
+		"pop": "8",
+		"corner": [
+			12,
+			11,
+			11,
+			11
+		],
+		"title": "阪神大賞典"
+	}
+]

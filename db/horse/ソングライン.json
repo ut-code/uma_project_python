@@ -1,0 +1,66 @@
+[
+	{
+		"rank": 1,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "ソングライン",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:32.2",
+		"margin": "",
+		"h_weight": 488,
+		"h_weight_zougen": null,
+		"f_time": "33.2",
+		"trainer": "林 徹",
+		"pop": "4",
+		"corner": [
+			8,
+			6
+		],
+		"title": "ヴィクトリアマイル"
+	},
+	{
+		"rank": 1,
+		"waku": "枠8桃",
+		"umaban": 18,
+		"horse": "ソングライン",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:31.4",
+		"margin": "",
+		"h_weight": 480,
+		"h_weight_zougen": -8,
+		"f_time": "33.1",
+		"trainer": "林 徹",
+		"pop": "4",
+		"corner": [
+			11,
+			9
+		],
+		"title": "農林水産省賞典 安田記念"
+	},
+	{
+		"rank": 2,
+		"waku": "枠7橙",
+		"umaban": 10,
+		"horse": "ソングライン",
+		"age": "牝5",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:45.3",
+		"margin": "ハナ",
+		"h_weight": 490,
+		"h_weight_zougen": 10,
+		"f_time": "33.5",
+		"trainer": "林 徹",
+		"pop": "1",
+		"corner": [
+			4,
+			7,
+			6
+		],
+		"title": "毎日王冠"
+	}
+]

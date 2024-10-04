@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "スティックバイミー",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "菅原 明良",
+		"time": "1:50.0",
+		"margin": "７",
+		"h_weight": 446,
+		"h_weight_zougen": -12,
+		"f_time": "37.6",
+		"trainer": "伊藤 大士",
+		"pop": "12",
+		"corner": [
+			3,
+			3,
+			3,
+			6
+		],
+		"title": "フラワーカップ"
+	}
+]

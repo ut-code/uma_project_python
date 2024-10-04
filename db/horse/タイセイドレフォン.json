@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "タイセイドレフォン",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "団野 大成",
+		"time": "2:00.4",
+		"margin": "クビ",
+		"h_weight": 498,
+		"h_weight_zougen": -2,
+		"f_time": "39.6",
+		"trainer": "西村 真幸",
+		"pop": "6",
+		"corner": [
+			3,
+			3,
+			4,
+			4
+		],
+		"title": "平安ステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "タイセイドレフォン",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "団野 大成",
+		"time": "1:52.5",
+		"margin": "１／２",
+		"h_weight": 504,
+		"h_weight_zougen": 0,
+		"f_time": "38.3",
+		"trainer": "西村 真幸",
+		"pop": "4",
+		"corner": [
+			5,
+			5,
+			4,
+			8
+		],
+		"title": "みやこステークス"
+	},
+	{
+		"rank": 10,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "タイセイドレフォン",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "幸 英明",
+		"time": "1:50.0",
+		"margin": "クビ",
+		"h_weight": 504,
+		"h_weight_zougen": 0,
+		"f_time": "36.2",
+		"trainer": "西村 真幸",
+		"pop": "7",
+		"corner": [
+			4,
+			5,
+			7,
+			7
+		],
+		"title": "東海テレビ杯東海ステークス"
+	}
+]

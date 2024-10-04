@@ -1,0 +1,86 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "ロジリオン",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:32.9",
+		"margin": "クビ",
+		"h_weight": 482,
+		"h_weight_zougen": -6,
+		"f_time": "34.0",
+		"trainer": "古賀 慎明",
+		"pop": "10",
+		"corner": [
+			8,
+			6
+		],
+		"title": "NHKマイルカップ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ロジリオン",
+		"age": "牡2",
+		"weight": "56.0",
+		"jockey": "北村 宏司",
+		"time": "1:20.7",
+		"margin": "クビ",
+		"h_weight": 474,
+		"h_weight_zougen": -2,
+		"f_time": "33.0",
+		"trainer": "古賀 慎明",
+		"pop": "8",
+		"corner": [
+			8,
+			8
+		],
+		"title": "京王杯2歳ステークス"
+	},
+	{
+		"rank": 5,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ロジリオン",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "三浦 皇成",
+		"time": "1:20.8",
+		"margin": "アタマ",
+		"h_weight": 488,
+		"h_weight_zougen": 0,
+		"f_time": "34.6",
+		"trainer": "古賀 慎明",
+		"pop": "2",
+		"corner": [
+			10,
+			7
+		],
+		"title": "中日スポーツ賞ファルコンステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "ロジリオン",
+		"age": "牡3",
+		"weight": "54.0",
+		"jockey": "永野 猛蔵",
+		"time": "1:33.3",
+		"margin": "クビ",
+		"h_weight": 474,
+		"h_weight_zougen": -4,
+		"f_time": "33.1",
+		"trainer": "古賀 慎明",
+		"pop": "5",
+		"corner": [
+			7,
+			7
+		],
+		"title": "関屋記念"
+	}
+]

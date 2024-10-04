@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠5黄",
+		"umaban": 8,
+		"horse": "ベンダバリラビア",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "石橋 脩",
+		"time": "1:53.1",
+		"margin": "３",
+		"h_weight": 520,
+		"h_weight_zougen": -2,
+		"f_time": "38.6",
+		"trainer": "寺島 良",
+		"pop": "15",
+		"corner": [
+			14,
+			14,
+			12,
+			11
+		],
+		"title": "レパードステークス"
+	}
+]

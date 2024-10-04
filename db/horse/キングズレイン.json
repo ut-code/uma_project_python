@@ -1,0 +1,69 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠4青",
+		"umaban": 5,
+		"horse": "キングズレイン",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "岩田 康誠",
+		"time": "1:47.7",
+		"margin": "１／２",
+		"h_weight": 480,
+		"h_weight_zougen": -4,
+		"f_time": "35.2",
+		"trainer": "手塚 貴久",
+		"pop": "1",
+		"corner": [
+			12,
+			12
+		],
+		"title": "毎日杯"
+	},
+	{
+		"rank": 5,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "キングズレイン",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "C.ルメール",
+		"time": "2:12.1",
+		"margin": "１／２",
+		"h_weight": 486,
+		"h_weight_zougen": 6,
+		"f_time": "34.1",
+		"trainer": "手塚 貴久",
+		"pop": "4",
+		"corner": [
+			15,
+			15,
+			11,
+			7
+		],
+		"title": "朝日杯セントライト記念"
+	},
+	{
+		"rank": 5,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "キングズレイン",
+		"age": "牡3",
+		"weight": "55.0",
+		"jockey": "W.ビュイック",
+		"time": "3:46.3",
+		"margin": "１ 1/4",
+		"h_weight": 486,
+		"h_weight_zougen": 0,
+		"f_time": "34.5",
+		"trainer": "手塚 貴久",
+		"pop": "1",
+		"corner": [
+			6,
+			6,
+			7,
+			7
+		],
+		"title": "スポーツニッポン賞ステイヤーズステークス"
+	}
+]

@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "デルマルーヴル",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "松岡 正海",
+		"time": "1:53.7",
+		"margin": "１／２",
+		"h_weight": 510,
+		"h_weight_zougen": 6,
+		"f_time": "37.7",
+		"trainer": "戸田 博文",
+		"pop": "14",
+		"corner": [
+			11,
+			11,
+			12,
+			13
+		],
+		"title": "東海テレビ杯東海ステークス"
+	},
+	{
+		"rank": 15,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "デルマルーヴル",
+		"age": "牡7",
+		"weight": "56.0",
+		"jockey": "松岡 正海",
+		"time": "1:53.8",
+		"margin": "クビ",
+		"h_weight": 502,
+		"h_weight_zougen": 3,
+		"f_time": "39.2",
+		"trainer": "戸田 博文",
+		"pop": "13",
+		"corner": [
+			9,
+			9,
+			9,
+			12
+		],
+		"title": "マーチステークス"
+	},
+	{
+		"rank": 11,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "デルマルーヴル",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "松岡 正海",
+		"time": "2:02.7",
+		"margin": "クビ",
+		"h_weight": 498,
+		"h_weight_zougen": -4,
+		"f_time": "40.4",
+		"trainer": "戸田 博文",
+		"pop": "16",
+		"corner": [
+			13,
+			13,
+			15,
+			15
+		],
+		"title": "平安ステークス"
+	}
+]

@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "キリンジ",
+		"age": "牡3",
+		"weight": "54.0",
+		"jockey": "藤岡 佑介",
+		"time": "2:06.6",
+		"margin": "ハナ",
+		"h_weight": 492,
+		"h_weight_zougen": 3,
+		"f_time": "38.9",
+		"trainer": "佐々木 晶三",
+		"pop": "4",
+		"corner": [
+			4,
+			3,
+			6,
+			11
+		],
+		"title": "シリウスステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "キリンジ",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "和田 竜二",
+		"time": "1:49.9",
+		"margin": "１",
+		"h_weight": 494,
+		"h_weight_zougen": 2,
+		"f_time": "35.9",
+		"trainer": "佐々木 晶三",
+		"pop": "13",
+		"corner": [
+			8,
+			8,
+			11,
+			13
+		],
+		"title": "東海テレビ杯東海ステークス"
+	},
+	{
+		"rank": 11,
+		"waku": "枠7橙",
+		"umaban": 11,
+		"horse": "キリンジ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "和田 竜二",
+		"time": "1:52.0",
+		"margin": "アタマ",
+		"h_weight": 490,
+		"h_weight_zougen": -1,
+		"f_time": "37.8",
+		"trainer": "佐々木 晶三",
+		"pop": "8",
+		"corner": [
+			5,
+			5,
+			5,
+			5
+		],
+		"title": "マーチステークス"
+	}
+]

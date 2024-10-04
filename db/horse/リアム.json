@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠6緑",
+		"umaban": 6,
+		"horse": "リアム",
+		"age": "牡6",
+		"weight": "60.0",
+		"jockey": "蓑島 靖典",
+		"time": "4:34.8",
+		"margin": "３／４",
+		"h_weight": 534,
+		"h_weight_zougen": -2,
+		"f_time": "14.0",
+		"trainer": "萩原 清",
+		"pop": "8",
+		"corner": [
+			7,
+			7,
+			7,
+			6
+		],
+		"title": "京都ハイジャンプ"
+	}
+]

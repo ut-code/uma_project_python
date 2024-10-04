@@ -1,0 +1,24 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "スズカダブル",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:34.0",
+		"margin": "クビ",
+		"h_weight": 494,
+		"h_weight_zougen": 2,
+		"f_time": "35.1",
+		"trainer": "西村 真幸",
+		"pop": "5",
+		"corner": [
+			3,
+			3,
+			4
+		],
+		"title": "日刊スポーツ賞シンザン記念"
+	}
+]

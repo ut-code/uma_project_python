@@ -1,0 +1,46 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "アスクワイルドモア",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "田中 勝春",
+		"time": "3:31.7",
+		"margin": "１／２",
+		"h_weight": 464,
+		"h_weight_zougen": -20,
+		"f_time": "37.8",
+		"trainer": "藤原 英昭",
+		"pop": "9",
+		"corner": [
+			9,
+			10,
+			11,
+			13
+		],
+		"title": "ダイヤモンドステークス"
+	},
+	{
+		"rank": 11,
+		"waku": "枠5黄",
+		"umaban": 6,
+		"horse": "アスクワイルドモア",
+		"age": "牡5",
+		"weight": "56.0",
+		"jockey": "小沢 大仁",
+		"time": "2:00.0",
+		"margin": "３ 1/2",
+		"h_weight": 488,
+		"h_weight_zougen": 6,
+		"f_time": "35.7",
+		"trainer": "藤原 英昭",
+		"pop": "11",
+		"corner": [
+			4,
+			4
+		],
+		"title": "農林水産省賞典 新潟記念"
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠4青",
+		"umaban": 4,
+		"horse": "ポルタフォリオ",
+		"age": "牡5",
+		"weight": "60.0",
+		"jockey": "北沢 伸也",
+		"time": "4:34.1",
+		"margin": "２",
+		"h_weight": 514,
+		"h_weight_zougen": -4,
+		"f_time": "13.9",
+		"trainer": "角田 晃一",
+		"pop": "6",
+		"corner": [
+			5,
+			5,
+			2,
+			2
+		],
+		"title": "京都ハイジャンプ"
+	},
+	{
+		"rank": 7,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "ポルタフォリオ",
+		"age": "牡5",
+		"weight": "60.0",
+		"jockey": "黒岩 悠",
+		"time": "3:39.8",
+		"margin": "１／２",
+		"h_weight": 510,
+		"h_weight_zougen": 0,
+		"f_time": "13.9",
+		"trainer": "角田 晃一",
+		"pop": "7",
+		"corner": [
+			4,
+			3,
+			3,
+			2
+		],
+		"title": "京都ジャンプステークス"
+	}
+]

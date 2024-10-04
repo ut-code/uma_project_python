@@ -1,0 +1,66 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "シャイニーロック",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "酒井 学",
+		"time": "1:31.6",
+		"margin": "アタマ",
+		"h_weight": 516,
+		"h_weight_zougen": 6,
+		"f_time": "34.2",
+		"trainer": "佐々木 晶三",
+		"pop": "11",
+		"corner": [
+			1,
+			1
+		],
+		"title": "読売マイラーズカップ"
+	},
+	{
+		"rank": 10,
+		"waku": "枠6緑",
+		"umaban": 6,
+		"horse": "シャイニーロック",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "酒井 学",
+		"time": "1:32.8",
+		"margin": "１ 1/2",
+		"h_weight": 508,
+		"h_weight_zougen": 2,
+		"f_time": "34.6",
+		"trainer": "佐々木 晶三",
+		"pop": "10",
+		"corner": [
+			8,
+			6,
+			6
+		],
+		"title": "京成杯オータムハンデキャップ"
+	},
+	{
+		"rank": 17,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "シャイニーロック",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "酒井 学",
+		"time": "1:35.5",
+		"margin": "クビ",
+		"h_weight": 510,
+		"h_weight_zougen": 2,
+		"f_time": "36.6",
+		"trainer": "佐々木 晶三",
+		"pop": "15",
+		"corner": [
+			13,
+			15
+		],
+		"title": "スポーツニッポン賞京都金杯"
+	}
+]

@@ -1,0 +1,43 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠7橙",
+		"umaban": 10,
+		"horse": "ハギノメーテル",
+		"age": "牝4",
+		"weight": "50.0",
+		"jockey": "今村 聖奈",
+		"time": "2:02.5",
+		"margin": "５",
+		"h_weight": 480,
+		"h_weight_zougen": 16,
+		"f_time": "40.4",
+		"trainer": "寺島 良",
+		"pop": "12",
+		"corner": [
+			2,
+			2,
+			3,
+			2
+		],
+		"title": "マーメイドステークス"
+	},
+	{
+		"rank": 13,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "ハギノメーテル",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "藤懸 貴志",
+		"time": "0:56.3",
+		"margin": "クビ",
+		"h_weight": 476,
+		"h_weight_zougen": -8,
+		"f_time": "32.9",
+		"trainer": "寺島 良",
+		"pop": "18",
+		"corner": [],
+		"title": "アイビスサマーダッシュ"
+	}
+]

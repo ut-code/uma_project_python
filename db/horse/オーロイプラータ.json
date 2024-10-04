@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "オーロイプラータ",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "A.ルメートル",
+		"time": "1:49.7",
+		"margin": "ハナ",
+		"h_weight": 544,
+		"h_weight_zougen": 0,
+		"f_time": "35.3",
+		"trainer": "宮本 博",
+		"pop": "6",
+		"corner": [
+			14,
+			14,
+			15,
+			15
+		],
+		"title": "東海テレビ杯東海ステークス"
+	},
+	{
+		"rank": 11,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "オーロイプラータ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:58.6",
+		"margin": "１ 1/4",
+		"h_weight": 542,
+		"h_weight_zougen": -6,
+		"f_time": "36.8",
+		"trainer": "宮本 博",
+		"pop": "6",
+		"corner": [
+			16,
+			16,
+			16,
+			15
+		],
+		"title": "平安ステークス"
+	}
+]

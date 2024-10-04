@@ -1,0 +1,94 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "スタッドリー",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "T.マーカンド",
+		"time": "2:23.3",
+		"margin": "クビ",
+		"h_weight": 518,
+		"h_weight_zougen": 6,
+		"f_time": "34.2",
+		"trainer": "奥村 豊",
+		"pop": "13",
+		"corner": [
+			8,
+			8,
+			8,
+			9
+		],
+		"title": "ジャパンカップ"
+	},
+	{
+		"rank": 6,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "スタッドリー",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "坂井 瑠星",
+		"time": "2:14.0",
+		"margin": "ハナ",
+		"h_weight": 522,
+		"h_weight_zougen": 2,
+		"f_time": "35.0",
+		"trainer": "奥村 豊",
+		"pop": "7",
+		"corner": [
+			8,
+			8,
+			8,
+			8
+		],
+		"title": "アメリカジョッキークラブカップ"
+	},
+	{
+		"rank": 10,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "スタッドリー",
+		"age": "牡5",
+		"weight": "56.0",
+		"jockey": "J.モレイラ",
+		"time": "3:31.2",
+		"margin": "２ 1/2",
+		"h_weight": 520,
+		"h_weight_zougen": -2,
+		"f_time": "38.3",
+		"trainer": "奥村 豊",
+		"pop": "3",
+		"corner": [
+			9,
+			5,
+			1,
+			1
+		],
+		"title": "ダイヤモンドステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "スタッドリー",
+		"age": "牡5",
+		"weight": "56.0",
+		"jockey": "坂井 瑠星",
+		"time": "1:59.2",
+		"margin": "１",
+		"h_weight": 518,
+		"h_weight_zougen": 0,
+		"f_time": "36.1",
+		"trainer": "奥村 豊",
+		"pop": "10",
+		"corner": [
+			6,
+			6,
+			6,
+			5
+		],
+		"title": "農林水産省賞典 小倉記念"
+	}
+]

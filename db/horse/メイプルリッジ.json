@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "メイプルリッジ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "西村 淳也",
+		"time": "1:57.7",
+		"margin": "３／４",
+		"h_weight": 486,
+		"h_weight_zougen": -2,
+		"f_time": "36.8",
+		"trainer": "堀 宣行",
+		"pop": "7",
+		"corner": [
+			10,
+			10,
+			7,
+			6
+		],
+		"title": "平安ステークス"
+	}
+]

@@ -1,0 +1,94 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "エイシンクリック",
+		"age": "牡9",
+		"weight": "61.0",
+		"jockey": "北沢 伸也",
+		"time": "3:27.8",
+		"margin": "クビ",
+		"h_weight": 482,
+		"h_weight_zougen": 2,
+		"f_time": "13.4",
+		"trainer": "坂口 智康",
+		"pop": "7",
+		"corner": [
+			10,
+			11,
+			9,
+			9
+		],
+		"title": "東京ジャンプステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 14,
+		"horse": "エイシンクリック",
+		"age": "牡9",
+		"weight": "61.0",
+		"jockey": "小野寺 祐太",
+		"time": "3:27.7",
+		"margin": "６",
+		"h_weight": 476,
+		"h_weight_zougen": -6,
+		"f_time": "13.2",
+		"trainer": "坂口 智康",
+		"pop": "8",
+		"corner": [
+			8,
+			8,
+			5,
+			4
+		],
+		"title": "阪神ジャンプステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "エイシンクリック",
+		"age": "牡9",
+		"weight": "61.0",
+		"jockey": "西谷 誠",
+		"time": "3:38.9",
+		"margin": "１／２",
+		"h_weight": 476,
+		"h_weight_zougen": 0,
+		"f_time": "13.8",
+		"trainer": "坂口 智康",
+		"pop": "5",
+		"corner": [
+			10,
+			5,
+			1,
+			1
+		],
+		"title": "京都ジャンプステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "エイシンクリック",
+		"age": "牡10",
+		"weight": "61.0",
+		"jockey": "黒岩 悠",
+		"time": "4:29.4",
+		"margin": "大差",
+		"h_weight": 480,
+		"h_weight_zougen": 4,
+		"f_time": "13.8",
+		"trainer": "坂口 智康",
+		"pop": "7",
+		"corner": [
+			10,
+			10,
+			10,
+			10
+		],
+		"title": "阪神スプリングジャンプ"
+	}
+]

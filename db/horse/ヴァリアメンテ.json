@@ -1,0 +1,47 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ヴァリアメンテ",
+		"age": "牡5",
+		"weight": "55.0",
+		"jockey": "西村 淳也",
+		"time": "1:33.9",
+		"margin": "ハナ",
+		"h_weight": 472,
+		"h_weight_zougen": -4,
+		"f_time": "35.9",
+		"trainer": "中内田 充正",
+		"pop": "5",
+		"corner": [
+			7,
+			6,
+			4
+		],
+		"title": "中京記念"
+	},
+	{
+		"rank": 2,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "ヴァリアメンテ",
+		"age": "牡6",
+		"weight": "60.0",
+		"jockey": "西谷 誠",
+		"time": "4:31.9",
+		"margin": "５",
+		"h_weight": 482,
+		"h_weight_zougen": 4,
+		"f_time": "13.8",
+		"trainer": "中内田 充正",
+		"pop": "5",
+		"corner": [
+			3,
+			3,
+			4,
+			4
+		],
+		"title": "京都ハイジャンプ"
+	}
+]

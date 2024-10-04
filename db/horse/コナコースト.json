@@ -1,0 +1,133 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "コナコースト",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "D.レーン",
+		"time": "2:25.0",
+		"margin": "３ 1/2",
+		"h_weight": 458,
+		"h_weight_zougen": 4,
+		"f_time": "35.1",
+		"trainer": "清水 久詞",
+		"pop": "3",
+		"corner": [
+			13,
+			13,
+			13,
+			13
+		],
+		"title": "オークス"
+	},
+	{
+		"rank": 2,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "コナコースト",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:32.3",
+		"margin": "３／４",
+		"h_weight": 454,
+		"h_weight_zougen": -4,
+		"f_time": "34.5",
+		"trainer": "清水 久詞",
+		"pop": "6",
+		"corner": [
+			2,
+			2
+		],
+		"title": "桜花賞"
+	},
+	{
+		"rank": 8,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "コナコースト",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "鮫島 克駿",
+		"time": "2:02.1",
+		"margin": "１ 1/2",
+		"h_weight": 468,
+		"h_weight_zougen": 10,
+		"f_time": "35.0",
+		"trainer": "清水 久詞",
+		"pop": "4",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "秋華賞"
+	},
+	{
+		"rank": 2,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "コナコースト",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:34.0",
+		"margin": "ハナ",
+		"h_weight": 458,
+		"h_weight_zougen": -4,
+		"f_time": "33.7",
+		"trainer": "清水 久詞",
+		"pop": "6",
+		"corner": [
+			6,
+			6
+		],
+		"title": "チューリップ賞"
+	},
+	{
+		"rank": 10,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "コナコースト",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:33.3",
+		"margin": "クビ",
+		"h_weight": 458,
+		"h_weight_zougen": -10,
+		"f_time": "34.2",
+		"trainer": "清水 久詞",
+		"pop": "5",
+		"corner": [
+			6,
+			8,
+			10
+		],
+		"title": "ターコイズステークス"
+	},
+	{
+		"rank": 16,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "コナコースト",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:35.0",
+		"margin": "２ 1/2",
+		"h_weight": 468,
+		"h_weight_zougen": 10,
+		"f_time": "36.5",
+		"trainer": "清水 久詞",
+		"pop": "9",
+		"corner": [
+			4,
+			5
+		],
+		"title": "東京新聞杯"
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠7橙",
+		"umaban": 12,
+		"horse": "テイエムクロムシャ",
+		"age": "牡7",
+		"weight": "60.0",
+		"jockey": "黒岩 悠",
+		"time": "3:33.3",
+		"margin": "２",
+		"h_weight": 494,
+		"h_weight_zougen": 10,
+		"f_time": "13.6",
+		"trainer": "鈴木 孝志",
+		"pop": "11",
+		"corner": [
+			13,
+			13,
+			12,
+			13
+		],
+		"title": "阪神ジャンプステークス"
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "エターナルタイム",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "C.ルメール",
+		"time": "1:32.2",
+		"margin": "クビ",
+		"h_weight": 480,
+		"h_weight_zougen": -4,
+		"f_time": "35.0",
+		"trainer": "中川 公成",
+		"pop": "2",
+		"corner": [
+			4,
+			4
+		],
+		"title": "富士ステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "エターナルタイム",
+		"age": "牝5",
+		"weight": "54.0",
+		"jockey": "C.ルメール",
+		"time": "1:08.3",
+		"margin": "１／２",
+		"h_weight": 490,
+		"h_weight_zougen": 10,
+		"f_time": "34.2",
+		"trainer": "中川 公成",
+		"pop": "3",
+		"corner": [
+			6,
+			6
+		],
+		"title": "シルクロードステークス"
+	}
+]

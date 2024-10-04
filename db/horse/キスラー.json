@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "キスラー",
+		"age": "牡7",
+		"weight": "54.0",
+		"jockey": "内田 博幸",
+		"time": "3:31.6",
+		"margin": "１ 1/4",
+		"h_weight": 480,
+		"h_weight_zougen": -6,
+		"f_time": "37.8",
+		"trainer": "池江 泰寿",
+		"pop": "16",
+		"corner": [
+			11,
+			12,
+			11,
+			11
+		],
+		"title": "ダイヤモンドステークス"
+	}
+]

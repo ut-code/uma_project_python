@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠4青",
+		"umaban": 5,
+		"horse": "ヴァレッタカズマ",
+		"age": "牡5",
+		"weight": "60.0",
+		"jockey": "小野寺 祐太",
+		"time": "3:31.4",
+		"margin": "５",
+		"h_weight": 506,
+		"h_weight_zougen": 0,
+		"f_time": "13.6",
+		"trainer": "藤野 健太",
+		"pop": "9",
+		"corner": [
+			11,
+			10,
+			8,
+			8
+		],
+		"title": "東京ジャンプステークス"
+	}
+]

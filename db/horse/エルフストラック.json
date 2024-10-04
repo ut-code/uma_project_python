@@ -1,0 +1,47 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "エルフストラック",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "石川 裕紀人",
+		"time": "1:48.2",
+		"margin": "ハナ",
+		"h_weight": 474,
+		"h_weight_zougen": -4,
+		"f_time": "36.2",
+		"trainer": "中村 直也",
+		"pop": "9",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "フラワーカップ"
+	},
+	{
+		"rank": 6,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "エルフストラック",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "横山 和生",
+		"time": "1:59.3",
+		"margin": "ハナ",
+		"h_weight": 474,
+		"h_weight_zougen": 0,
+		"f_time": "34.8",
+		"trainer": "中村 直也",
+		"pop": "7",
+		"corner": [
+			13,
+			4,
+			4
+		],
+		"title": "サンケイスポーツ賞フローラステークス"
+	}
+]

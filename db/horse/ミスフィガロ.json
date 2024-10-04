@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "ミスフィガロ",
+		"age": "牝6",
+		"weight": "52.0",
+		"jockey": "藤岡 康太",
+		"time": "1:58.9",
+		"margin": "ハナ",
+		"h_weight": 424,
+		"h_weight_zougen": -14,
+		"f_time": "36.1",
+		"trainer": "友道 康夫",
+		"pop": "11",
+		"corner": [
+			11,
+			10,
+			11,
+			11
+		],
+		"title": "愛知杯"
+	}
+]

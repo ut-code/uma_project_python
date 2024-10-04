@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠5黄",
+		"umaban": 5,
+		"horse": "ベストインクラス",
+		"age": "牡5",
+		"weight": "60.0",
+		"jockey": "上野 翔",
+		"time": "3:30.5",
+		"margin": "２ 1/2",
+		"h_weight": 496,
+		"h_weight_zougen": 4,
+		"f_time": "13.0",
+		"trainer": "伊藤 伸一",
+		"pop": "8",
+		"corner": [
+			7,
+			6,
+			6,
+			8
+		],
+		"title": "新潟ジャンプステークス"
+	}
+]

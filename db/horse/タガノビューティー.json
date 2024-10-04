@@ -1,0 +1,107 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "タガノビューティー",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "石橋 脩",
+		"time": "1:35.9",
+		"margin": "ハナ",
+		"h_weight": 520,
+		"h_weight_zougen": 0,
+		"f_time": "37.0",
+		"trainer": "西園 正都",
+		"pop": "7",
+		"corner": [
+			11,
+			9
+		],
+		"title": "フェブラリーステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "タガノビューティー",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "石橋 脩",
+		"time": "1:22.8",
+		"margin": "クビ",
+		"h_weight": 518,
+		"h_weight_zougen": -2,
+		"f_time": "35.3",
+		"trainer": "西園 正都",
+		"pop": "6",
+		"corner": [
+			10,
+			10
+		],
+		"title": "根岸ステークス"
+	},
+	{
+		"rank": 14,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "タガノビューティー",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "石橋 脩",
+		"time": "1:26.8",
+		"margin": "６",
+		"h_weight": 518,
+		"h_weight_zougen": -2,
+		"f_time": "39.7",
+		"trainer": "西園 正都",
+		"pop": "3",
+		"corner": [
+			13,
+			13
+		],
+		"title": "プロキオンステークス"
+	},
+	{
+		"rank": 2,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "タガノビューティー",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "石橋 脩",
+		"time": "1:35.5",
+		"margin": "１ 3/4",
+		"h_weight": 518,
+		"h_weight_zougen": -1,
+		"f_time": "35.6",
+		"trainer": "西園 正都",
+		"pop": "6",
+		"corner": [
+			14,
+			14
+		],
+		"title": "東京中日スポーツ杯武蔵野ステークス"
+	},
+	{
+		"rank": 13,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "タガノビューティー",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "石橋 脩",
+		"time": "1:25.6",
+		"margin": "アタマ",
+		"h_weight": 520,
+		"h_weight_zougen": 2,
+		"f_time": "35.4",
+		"trainer": "西園 正都",
+		"pop": "3",
+		"corner": [
+			14,
+			15
+		],
+		"title": "根岸ステークス"
+	}
+]

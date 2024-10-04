@@ -1,0 +1,113 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ドゥーラ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "斎藤 新",
+		"time": "2:24.1",
+		"margin": "クビ",
+		"h_weight": 472,
+		"h_weight_zougen": 0,
+		"f_time": "34.1",
+		"trainer": "高橋 康之",
+		"pop": "15",
+		"corner": [
+			14,
+			13,
+			14,
+			14
+		],
+		"title": "オークス"
+	},
+	{
+		"rank": 14,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ドゥーラ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:33.2",
+		"margin": "アタマ",
+		"h_weight": 472,
+		"h_weight_zougen": -4,
+		"f_time": "34.2",
+		"trainer": "高橋 康之",
+		"pop": "8",
+		"corner": [
+			16,
+			12
+		],
+		"title": "桜花賞"
+	},
+	{
+		"rank": 4,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "ドゥーラ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "斎藤 新",
+		"time": "2:01.6",
+		"margin": "ハナ",
+		"h_weight": 478,
+		"h_weight_zougen": 20,
+		"f_time": "34.1",
+		"trainer": "高橋 康之",
+		"pop": "5",
+		"corner": [
+			8,
+			9,
+			7,
+			7
+		],
+		"title": "秋華賞"
+	},
+	{
+		"rank": 15,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "ドゥーラ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:35.0",
+		"margin": "クビ",
+		"h_weight": 476,
+		"h_weight_zougen": 6,
+		"f_time": "34.2",
+		"trainer": "高橋 康之",
+		"pop": "1",
+		"corner": [
+			11,
+			11
+		],
+		"title": "チューリップ賞"
+	},
+	{
+		"rank": 1,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "ドゥーラ",
+		"age": "牝3",
+		"weight": "51.0",
+		"jockey": "斎藤 新",
+		"time": "1:46.7",
+		"margin": "",
+		"h_weight": 458,
+		"h_weight_zougen": -14,
+		"f_time": "34.5",
+		"trainer": "高橋 康之",
+		"pop": "1",
+		"corner": [
+			7,
+			9,
+			9,
+			2
+		],
+		"title": "北海道新聞杯クイーンステークス"
+	}
+]

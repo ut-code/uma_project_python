@@ -1,0 +1,46 @@
+[
+	{
+		"rank": 1,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "レッドラディエンス",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:57.9",
+		"margin": "",
+		"h_weight": 488,
+		"h_weight_zougen": -8,
+		"f_time": "34.9",
+		"trainer": "友道 康夫",
+		"pop": "2",
+		"corner": [
+			8,
+			8,
+			8,
+			8
+		],
+		"title": "七夕賞"
+	},
+	{
+		"rank": 5,
+		"waku": "枠8桃",
+		"umaban": 12,
+		"horse": "レッドラディエンス",
+		"age": "牡5",
+		"weight": "58.5",
+		"jockey": "戸崎 圭太",
+		"time": "1:58.3",
+		"margin": "１／２",
+		"h_weight": 498,
+		"h_weight_zougen": 10,
+		"f_time": "33.4",
+		"trainer": "友道 康夫",
+		"pop": "2",
+		"corner": [
+			9,
+			8
+		],
+		"title": "農林水産省賞典 新潟記念"
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "エポックヴィーナス",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "和田 竜二",
+		"time": "1:33.6",
+		"margin": "ハナ",
+		"h_weight": 436,
+		"h_weight_zougen": -2,
+		"f_time": "35.1",
+		"trainer": "新谷 功一",
+		"pop": "14",
+		"corner": [
+			8,
+			7
+		],
+		"title": "チューリップ賞"
+	},
+	{
+		"rank": 8,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "エポックヴィーナス",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "酒井 学",
+		"time": "1:07.7",
+		"margin": "クビ",
+		"h_weight": 436,
+		"h_weight_zougen": -4,
+		"f_time": "33.6",
+		"trainer": "新谷 功一",
+		"pop": "16",
+		"corner": [
+			11,
+			14
+		],
+		"title": "葵ステークス"
+	}
+]

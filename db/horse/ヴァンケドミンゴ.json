@@ -1,0 +1,69 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "ヴァンケドミンゴ",
+		"age": "牡7",
+		"weight": "56.0",
+		"jockey": "藤岡 康太",
+		"time": "1:59.8",
+		"margin": "クビ",
+		"h_weight": 468,
+		"h_weight_zougen": 0,
+		"f_time": "36.5",
+		"trainer": "藤岡 健一",
+		"pop": "16",
+		"corner": [
+			11,
+			11,
+			10,
+			11
+		],
+		"title": "農林水産省賞典 小倉記念"
+	},
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "ヴァンケドミンゴ",
+		"age": "牡7",
+		"weight": "55.0",
+		"jockey": "角田 大和",
+		"time": "2:01.7",
+		"margin": "１／２",
+		"h_weight": 472,
+		"h_weight_zougen": -4,
+		"f_time": "36.7",
+		"trainer": "藤岡 健一",
+		"pop": "15",
+		"corner": [
+			10,
+			10,
+			11,
+			15
+		],
+		"title": "福島記念"
+	},
+	{
+		"rank": 15,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ヴァンケドミンゴ",
+		"age": "牡8",
+		"weight": "54.0",
+		"jockey": "角田 大和",
+		"time": "2:01.8",
+		"margin": "１／２",
+		"h_weight": 480,
+		"h_weight_zougen": 2,
+		"f_time": "35.0",
+		"trainer": "藤岡 健一",
+		"pop": "16",
+		"corner": [
+			12,
+			12
+		],
+		"title": "新潟大賞典"
+	}
+]

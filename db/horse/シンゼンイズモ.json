@@ -1,0 +1,24 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠6緑",
+		"umaban": 6,
+		"horse": "シンゼンイズモ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "浜中 俊",
+		"time": "1:34.8",
+		"margin": "３ 1/2",
+		"h_weight": 500,
+		"h_weight_zougen": 6,
+		"f_time": "35.4",
+		"trainer": "荒川 義之",
+		"pop": "7",
+		"corner": [
+			7,
+			6,
+			6
+		],
+		"title": "日刊スポーツ賞シンザン記念"
+	}
+]

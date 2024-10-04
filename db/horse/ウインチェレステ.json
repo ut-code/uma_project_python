@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠4青",
+		"umaban": 4,
+		"horse": "ウインチェレステ",
+		"age": "牡6",
+		"weight": "60.0",
+		"jockey": "金子 光希",
+		"time": "3:32.9",
+		"margin": "クビ",
+		"h_weight": 516,
+		"h_weight_zougen": -4,
+		"f_time": "13.1",
+		"trainer": "畠山 吉宏",
+		"pop": "9",
+		"corner": [
+			8,
+			5,
+			3,
+			3
+		],
+		"title": "新潟ジャンプステークス"
+	}
+]

@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 1,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "サクセッション",
+		"age": "せん6",
+		"weight": "60.0",
+		"jockey": "蓑島 靖典",
+		"time": "3:28.3",
+		"margin": "レコード",
+		"h_weight": 526,
+		"h_weight_zougen": 0,
+		"f_time": "12.8",
+		"trainer": "国枝 栄",
+		"pop": "3",
+		"corner": [
+			8,
+			8,
+			3,
+			2
+		],
+		"title": "新潟ジャンプステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠7橙",
+		"umaban": 8,
+		"horse": "サクセッション",
+		"age": "せん7",
+		"weight": "60.0",
+		"jockey": "伴 啓太",
+		"time": "4:35.7",
+		"margin": "１０",
+		"h_weight": 518,
+		"h_weight_zougen": -6,
+		"f_time": "14.0",
+		"trainer": "国枝 栄",
+		"pop": "3",
+		"corner": [
+			7,
+			5,
+			9,
+			8
+		],
+		"title": "京都ハイジャンプ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠7橙",
+		"umaban": 11,
+		"horse": "サクセッション",
+		"age": "せん7",
+		"weight": "60.0",
+		"jockey": "石神 深一",
+		"time": "3:32.4",
+		"margin": "１／２",
+		"h_weight": 528,
+		"h_weight_zougen": 10,
+		"f_time": "13.1",
+		"trainer": "国枝 栄",
+		"pop": "1",
+		"corner": [
+			11,
+			11,
+			8,
+			7
+		],
+		"title": "新潟ジャンプステークス"
+	}
+]

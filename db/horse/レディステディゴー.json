@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 7,
+		"horse": "レディステディゴー",
+		"age": "牡6",
+		"weight": "60.0",
+		"jockey": "中村 将之",
+		"time": "3:40.5",
+		"margin": "３",
+		"h_weight": 508,
+		"h_weight_zougen": -6,
+		"f_time": "13.2",
+		"trainer": "中村 直也",
+		"pop": "7",
+		"corner": [
+			7,
+			7,
+			8,
+			9
+		],
+		"title": "阪神ジャンプステークス"
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠7橙",
+		"umaban": 12,
+		"horse": "グローリーアテイン",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "2:03.1",
+		"margin": "７",
+		"h_weight": 490,
+		"h_weight_zougen": 2,
+		"f_time": "36.1",
+		"trainer": "金成 貴史",
+		"pop": "6",
+		"corner": [
+			11,
+			11,
+			11,
+			12
+		],
+		"title": "京成杯"
+	},
+	{
+		"rank": 14,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "グローリーアテイン",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "松山 弘平",
+		"time": "1:35.6",
+		"margin": "１",
+		"h_weight": 488,
+		"h_weight_zougen": -4,
+		"f_time": "33.6",
+		"trainer": "金成 貴史",
+		"pop": "13",
+		"corner": [
+			10,
+			10
+		],
+		"title": "アーリントンカップ"
+	}
+]

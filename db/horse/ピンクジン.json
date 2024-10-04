@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ピンクジン",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "黛 弘人",
+		"time": "1:47.3",
+		"margin": "１ 1/4",
+		"h_weight": 436,
+		"h_weight_zougen": -6,
+		"f_time": "34.6",
+		"trainer": "南田 美知雄",
+		"pop": "16",
+		"corner": [
+			7,
+			9,
+			8,
+			7
+		],
+		"title": "福島牝馬ステークス"
+	}
+]

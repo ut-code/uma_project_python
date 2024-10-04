@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠5黄",
+		"umaban": 8,
+		"horse": "ジネストラ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "三浦 皇成",
+		"time": "1:48.1",
+		"margin": "１ 1/4",
+		"h_weight": 450,
+		"h_weight_zougen": -10,
+		"f_time": "34.5",
+		"trainer": "鹿戸 雄一",
+		"pop": "5",
+		"corner": [
+			8,
+			10,
+			10,
+			9
+		],
+		"title": "福島牝馬ステークス"
+	},
+	{
+		"rank": 13,
+		"waku": "枠7橙",
+		"umaban": 11,
+		"horse": "ジネストラ",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "三浦 皇成",
+		"time": "1:47.8",
+		"margin": "３／４",
+		"h_weight": 460,
+		"h_weight_zougen": 10,
+		"f_time": "36.0",
+		"trainer": "鹿戸 雄一",
+		"pop": "4",
+		"corner": [
+			4,
+			4,
+			2,
+			2
+		],
+		"title": "北海道新聞杯クイーンステークス"
+	}
+]

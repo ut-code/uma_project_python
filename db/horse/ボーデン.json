@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠6緑",
+		"umaban": 9,
+		"horse": "ボーデン",
+		"age": "せん6",
+		"weight": "54.0",
+		"jockey": "団野 大成",
+		"time": "1:48.2",
+		"margin": "４",
+		"h_weight": 482,
+		"h_weight_zougen": -8,
+		"f_time": "37.0",
+		"trainer": "上原 佑紀",
+		"pop": "8",
+		"corner": [
+			11,
+			11,
+			12,
+			12
+		],
+		"title": "中京記念"
+	}
+]

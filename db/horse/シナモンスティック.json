@@ -1,0 +1,86 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "シナモンスティック",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "松岡 正海",
+		"time": "1:10.1",
+		"margin": "１",
+		"h_weight": 474,
+		"h_weight_zougen": 12,
+		"f_time": "35.8",
+		"trainer": "宗像 義忠",
+		"pop": "8",
+		"corner": [
+			1,
+			1
+		],
+		"title": "キーンランドカップ"
+	},
+	{
+		"rank": 16,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "シナモンスティック",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "松岡 正海",
+		"time": "1:09.4",
+		"margin": "１",
+		"h_weight": 476,
+		"h_weight_zougen": -6,
+		"f_time": "35.9",
+		"trainer": "宗像 義忠",
+		"pop": "13",
+		"corner": [
+			3,
+			3
+		],
+		"title": "夕刊フジ賞オーシャンステークス"
+	},
+	{
+		"rank": 11,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "シナモンスティック",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "丹内 祐次",
+		"time": "1:09.1",
+		"margin": "１",
+		"h_weight": 470,
+		"h_weight_zougen": -2,
+		"f_time": "34.9",
+		"trainer": "宗像 義忠",
+		"pop": "10",
+		"corner": [
+			8,
+			9
+		],
+		"title": "函館スプリントステークス"
+	},
+	{
+		"rank": 16,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "シナモンスティック",
+		"age": "牝5",
+		"weight": "55.0",
+		"jockey": "丹内 祐次",
+		"time": "1:10.0",
+		"margin": "４",
+		"h_weight": 484,
+		"h_weight_zougen": 6,
+		"f_time": "35.7",
+		"trainer": "宗像 義忠",
+		"pop": "12",
+		"corner": [
+			8,
+			8
+		],
+		"title": "キーンランドカップ"
+	}
+]

@@ -1,0 +1,232 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "テイエムスパーダ",
+		"age": "牝4",
+		"weight": "56.0",
+		"jockey": "富田 暁",
+		"time": "1:09.2",
+		"margin": "ハナ",
+		"h_weight": 496,
+		"h_weight_zougen": -2,
+		"f_time": "35.8",
+		"trainer": "木原 一良",
+		"pop": "10",
+		"corner": [
+			2,
+			3
+		],
+		"title": "スプリンターズステークス"
+	},
+	{
+		"rank": 18,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "テイエムスパーダ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "富田 暁",
+		"time": "1:11.6",
+		"margin": "１ 1/2",
+		"h_weight": 504,
+		"h_weight_zougen": 2,
+		"f_time": "36.1",
+		"trainer": "木原 一良",
+		"pop": "15",
+		"corner": [
+			6,
+			7
+		],
+		"title": "高松宮記念"
+	},
+	{
+		"rank": 14,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "テイエムスパーダ",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "今村 聖奈",
+		"time": "1:09.0",
+		"margin": "クビ",
+		"h_weight": 494,
+		"h_weight_zougen": 4,
+		"f_time": "33.7",
+		"trainer": "五十嵐 忠男",
+		"pop": "9",
+		"corner": [
+			15,
+			15
+		],
+		"title": "シルクロードステークス"
+	},
+	{
+		"rank": 16,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "テイエムスパーダ",
+		"age": "牝4",
+		"weight": "54.0",
+		"jockey": "今村 聖奈",
+		"time": "1:53.8",
+		"margin": "４",
+		"h_weight": 494,
+		"h_weight_zougen": 0,
+		"f_time": "39.8",
+		"trainer": "五十嵐 忠男",
+		"pop": "13",
+		"corner": [
+			2,
+			2,
+			6,
+			13
+		],
+		"title": "小倉大賞典"
+	},
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 5,
+		"horse": "テイエムスパーダ",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "国分 恭介",
+		"time": "1:07.9",
+		"margin": "クビ",
+		"h_weight": 494,
+		"h_weight_zougen": 0,
+		"f_time": "34.0",
+		"trainer": "木原 一良",
+		"pop": "9",
+		"corner": [
+			2,
+			2
+		],
+		"title": "CBC賞"
+	},
+	{
+		"rank": 13,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "テイエムスパーダ",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "今村 聖奈",
+		"time": "1:08.2",
+		"margin": "１／２",
+		"h_weight": 494,
+		"h_weight_zougen": 0,
+		"f_time": "35.1",
+		"trainer": "木原 一良",
+		"pop": "15",
+		"corner": [
+			2,
+			2
+		],
+		"title": "テレビ西日本賞北九州記念"
+	},
+	{
+		"rank": 1,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "テイエムスパーダ",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "富田 暁",
+		"time": "1:07.2",
+		"margin": "",
+		"h_weight": 498,
+		"h_weight_zougen": 4,
+		"f_time": "33.7",
+		"trainer": "木原 一良",
+		"pop": "14",
+		"corner": [
+			1,
+			1
+		],
+		"title": "産経賞セントウルステークス"
+	},
+	{
+		"rank": 14,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "テイエムスパーダ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "富田 暁",
+		"time": "1:09.1",
+		"margin": "クビ",
+		"h_weight": 502,
+		"h_weight_zougen": 6,
+		"f_time": "35.7",
+		"trainer": "木原 一良",
+		"pop": "10",
+		"corner": [
+			1,
+			1
+		],
+		"title": "シルクロードステークス"
+	},
+	{
+		"rank": 18,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "テイエムスパーダ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "酒井 学",
+		"time": "1:09.9",
+		"margin": "３／４",
+		"h_weight": 490,
+		"h_weight_zougen": -14,
+		"f_time": "37.3",
+		"trainer": "木原 一良",
+		"pop": "12",
+		"corner": [
+			3,
+			4
+		],
+		"title": "テレビ西日本賞北九州記念"
+	},
+	{
+		"rank": 3,
+		"waku": "枠8桃",
+		"umaban": 17,
+		"horse": "テイエムスパーダ",
+		"age": "牝5",
+		"weight": "57.0",
+		"jockey": "酒井 学",
+		"time": "0:55.4",
+		"margin": "クビ",
+		"h_weight": 490,
+		"h_weight_zougen": 0,
+		"f_time": "33.5",
+		"trainer": "木原 一良",
+		"pop": "8",
+		"corner": [],
+		"title": "アイビスサマーダッシュ"
+	},
+	{
+		"rank": 16,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "テイエムスパーダ",
+		"age": "牝5",
+		"weight": "56.0",
+		"jockey": "酒井 学",
+		"time": "1:08.8",
+		"margin": "１ 1/2",
+		"h_weight": 494,
+		"h_weight_zougen": 4,
+		"f_time": "33.6",
+		"trainer": "木原 一良",
+		"pop": "13",
+		"corner": [
+			15,
+			15
+		],
+		"title": "産経賞セントウルステークス"
+	}
+]

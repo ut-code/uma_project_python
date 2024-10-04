@@ -1,0 +1,140 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "トライフォーリアル",
+		"age": "せん6",
+		"weight": "60.0",
+		"jockey": "五十嵐 雄祐",
+		"time": "4:33.7",
+		"margin": "クビ",
+		"h_weight": 486,
+		"h_weight_zougen": -2,
+		"f_time": "13.9",
+		"trainer": "萩原 清",
+		"pop": "4",
+		"corner": [
+			4,
+			4,
+			4,
+			2
+		],
+		"title": "京都ハイジャンプ"
+	},
+	{
+		"rank": 3,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "トライフォーリアル",
+		"age": "せん6",
+		"weight": "60.0",
+		"jockey": "五十嵐 雄祐",
+		"time": "3:27.0",
+		"margin": "２",
+		"h_weight": 494,
+		"h_weight_zougen": 8,
+		"f_time": "13.3",
+		"trainer": "萩原 清",
+		"pop": "3",
+		"corner": [
+			3,
+			3,
+			3,
+			4
+		],
+		"title": "東京ジャンプステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "トライフォーリアル",
+		"age": "せん6",
+		"weight": "60.0",
+		"jockey": "蓑島 靖典",
+		"time": "3:36.7",
+		"margin": "７",
+		"h_weight": 490,
+		"h_weight_zougen": -4,
+		"f_time": "13.9",
+		"trainer": "萩原 清",
+		"pop": "9",
+		"corner": [
+			6,
+			6,
+			8,
+			9
+		],
+		"title": "東京ハイジャンプ"
+	},
+	{
+		"rank": 5,
+		"waku": "枠5黄",
+		"umaban": 5,
+		"horse": "トライフォーリアル",
+		"age": "せん7",
+		"weight": "60.0",
+		"jockey": "中村 将之",
+		"time": "4:26.8",
+		"margin": "２ 1/2",
+		"h_weight": 490,
+		"h_weight_zougen": 0,
+		"f_time": "13.7",
+		"trainer": "萩原 清",
+		"pop": "10",
+		"corner": [
+			6,
+			6,
+			7,
+			7
+		],
+		"title": "阪神スプリングジャンプ"
+	},
+	{
+		"rank": 6,
+		"waku": "枠4青",
+		"umaban": 4,
+		"horse": "トライフォーリアル",
+		"age": "せん7",
+		"weight": "60.0",
+		"jockey": "五十嵐 雄祐",
+		"time": "4:33.6",
+		"margin": "２ 1/2",
+		"h_weight": 492,
+		"h_weight_zougen": 2,
+		"f_time": "13.9",
+		"trainer": "萩原 清",
+		"pop": "1",
+		"corner": [
+			7,
+			8,
+			7,
+			7
+		],
+		"title": "京都ハイジャンプ"
+	},
+	{
+		"rank": 6,
+		"waku": "枠8桃",
+		"umaban": 13,
+		"horse": "トライフォーリアル",
+		"age": "せん7",
+		"weight": "60.0",
+		"jockey": "五十嵐 雄祐",
+		"time": "3:32.9",
+		"margin": "３／４",
+		"h_weight": 486,
+		"h_weight_zougen": -6,
+		"f_time": "13.1",
+		"trainer": "萩原 清",
+		"pop": "7",
+		"corner": [
+			5,
+			6,
+			9,
+			10
+		],
+		"title": "新潟ジャンプステークス"
+	}
+]

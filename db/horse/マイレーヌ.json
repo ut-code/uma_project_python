@@ -1,0 +1,24 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "マイレーヌ",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "横山 琉人",
+		"time": "1:35.0",
+		"margin": "ハナ",
+		"h_weight": 494,
+		"h_weight_zougen": 2,
+		"f_time": "36.8",
+		"trainer": "斎藤 誠",
+		"pop": "12",
+		"corner": [
+			2,
+			1,
+			1
+		],
+		"title": "フェアリーステークス"
+	}
+]

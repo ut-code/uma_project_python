@@ -1,0 +1,140 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "エピファニー",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "杉原 誠人",
+		"time": "1:58.9",
+		"margin": "クビ",
+		"h_weight": 498,
+		"h_weight_zougen": -6,
+		"f_time": "34.6",
+		"trainer": "宮田 敬介",
+		"pop": "13",
+		"corner": [
+			14,
+			15,
+			11,
+			12
+		],
+		"title": "大阪杯"
+	},
+	{
+		"rank": 11,
+		"waku": "枠7橙",
+		"umaban": 11,
+		"horse": "エピファニー",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "戸崎 圭太",
+		"time": "2:15.4",
+		"margin": "３ 1/2",
+		"h_weight": 514,
+		"h_weight_zougen": 0,
+		"f_time": "36.7",
+		"trainer": "宮田 敬介",
+		"pop": "2",
+		"corner": [
+			3,
+			3,
+			4,
+			6
+		],
+		"title": "アメリカジョッキークラブカップ"
+	},
+	{
+		"rank": 4,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "エピファニー",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "C.ルメール",
+		"time": "1:59.0",
+		"margin": "アタマ",
+		"h_weight": 512,
+		"h_weight_zougen": 12,
+		"f_time": "34.7",
+		"trainer": "宮田 敬介",
+		"pop": "4",
+		"corner": [
+			8,
+			10,
+			10,
+			5
+		],
+		"title": "チャレンジカップ"
+	},
+	{
+		"rank": 11,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "エピファニー",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "R.ピーヒュレク",
+		"time": "1:59.5",
+		"margin": "クビ",
+		"h_weight": 506,
+		"h_weight_zougen": -6,
+		"f_time": "35.1",
+		"trainer": "宮田 敬介",
+		"pop": "1",
+		"corner": [
+			6,
+			4,
+			4,
+			4
+		],
+		"title": "日刊スポーツ賞中山金杯"
+	},
+	{
+		"rank": 1,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "エピファニー",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "杉原 誠人",
+		"time": "1:45.1",
+		"margin": "",
+		"h_weight": 504,
+		"h_weight_zougen": -2,
+		"f_time": "34.6",
+		"trainer": "宮田 敬介",
+		"pop": "3",
+		"corner": [
+			7,
+			7,
+			6,
+			4
+		],
+		"title": "小倉大賞典"
+	},
+	{
+		"rank": 2,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "エピファニー",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "杉原 誠人",
+		"time": "1:47.2",
+		"margin": "クビ",
+		"h_weight": 502,
+		"h_weight_zougen": 4,
+		"f_time": "36.2",
+		"trainer": "宮田 敬介",
+		"pop": "2",
+		"corner": [
+			9,
+			9,
+			10,
+			9
+		],
+		"title": "中京記念"
+	}
+]

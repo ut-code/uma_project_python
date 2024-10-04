@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠5黄",
+		"umaban": 6,
+		"horse": "パトリック",
+		"age": "牡8",
+		"weight": "60.0",
+		"jockey": "森 一馬",
+		"time": "3:32.5",
+		"margin": "１／２",
+		"h_weight": 482,
+		"h_weight_zougen": 0,
+		"f_time": "13.1",
+		"trainer": "岡田 稲男",
+		"pop": "4",
+		"corner": [
+			5,
+			6,
+			6,
+			5
+		],
+		"title": "新潟ジャンプステークス"
+	}
+]

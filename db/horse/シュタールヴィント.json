@@ -1,0 +1,24 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠7橙",
+		"umaban": 10,
+		"horse": "シュタールヴィント",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:48.9",
+		"margin": "２",
+		"h_weight": 440,
+		"h_weight_zougen": -6,
+		"f_time": "35.2",
+		"trainer": "矢作 芳人",
+		"pop": "7",
+		"corner": [
+			8,
+			6,
+			6
+		],
+		"title": "共同通信杯"
+	}
+]

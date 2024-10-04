@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠5黄",
+		"umaban": 5,
+		"horse": "ラジェドール",
+		"age": "せん6",
+		"weight": "60.0",
+		"jockey": "大江原 圭",
+		"time": "4:36.3",
+		"margin": "３ 1/2",
+		"h_weight": 496,
+		"h_weight_zougen": -2,
+		"f_time": "14.1",
+		"trainer": "小笠 倫弘",
+		"pop": "9",
+		"corner": [
+			5,
+			5,
+			7,
+			9
+		],
+		"title": "京都ハイジャンプ"
+	}
+]

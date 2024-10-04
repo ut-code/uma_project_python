@@ -1,0 +1,45 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "ルージュスエルテ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "横山 和生",
+		"time": "1:33.4",
+		"margin": "１ 1/4",
+		"h_weight": 470,
+		"h_weight_zougen": 2,
+		"f_time": "33.5",
+		"trainer": "国枝 栄",
+		"pop": "4",
+		"corner": [
+			13,
+			12
+		],
+		"title": "デイリー杯クイーンカップ"
+	},
+	{
+		"rank": 11,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "ルージュスエルテ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "横山 和生",
+		"time": "1:35.2",
+		"margin": "クビ",
+		"h_weight": 468,
+		"h_weight_zougen": -2,
+		"f_time": "35.5",
+		"trainer": "国枝 栄",
+		"pop": "4",
+		"corner": [
+			7,
+			10,
+			12
+		],
+		"title": "ニュージーランドトロフィー"
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ワイドエンペラー",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "高杉 吏麒",
+		"time": "1:58.8",
+		"margin": "クビ",
+		"h_weight": 504,
+		"h_weight_zougen": 4,
+		"f_time": "34.7",
+		"trainer": "藤岡 健一",
+		"pop": "12",
+		"corner": [
+			13,
+			12,
+			13,
+			13
+		],
+		"title": "金鯱賞"
+	}
+]

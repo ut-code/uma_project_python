@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 1,
+		"waku": "枠6緑",
+		"umaban": 10,
+		"horse": "プロミストウォリア",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "B.ムルザバエフ",
+		"time": "1:51.2",
+		"margin": "",
+		"h_weight": 516,
+		"h_weight_zougen": -4,
+		"f_time": "36.4",
+		"trainer": "野中 賢二",
+		"pop": "2",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "東海テレビ杯東海ステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠7橙",
+		"umaban": 12,
+		"horse": "プロミストウォリア",
+		"age": "牡6",
+		"weight": "59.0",
+		"jockey": "鮫島 克駿",
+		"time": "1:49.5",
+		"margin": "",
+		"h_weight": 520,
+		"h_weight_zougen": 4,
+		"f_time": "38.0",
+		"trainer": "野中 賢二",
+		"pop": "1",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "アンタレスステークス"
+	},
+	{
+		"rank": 7,
+		"waku": "枠8桃",
+		"umaban": 14,
+		"horse": "プロミストウォリア",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "西村 淳也",
+		"time": "1:45.1",
+		"margin": "１ 1/2",
+		"h_weight": 526,
+		"h_weight_zougen": -4,
+		"f_time": "37.7",
+		"trainer": "野中 賢二",
+		"pop": "4",
+		"corner": [
+			5,
+			6,
+			4,
+			4
+		],
+		"title": "エルムステークス"
+	}
+]

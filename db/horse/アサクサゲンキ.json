@@ -1,0 +1,94 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 10,
+		"horse": "アサクサゲンキ",
+		"age": "せん8",
+		"weight": "60.0",
+		"jockey": "石神 深一",
+		"time": "3:30.1",
+		"margin": "５",
+		"h_weight": 468,
+		"h_weight_zougen": 2,
+		"f_time": "12.9",
+		"trainer": "音無 秀孝",
+		"pop": "5",
+		"corner": [
+			6,
+			6,
+			3,
+			4
+		],
+		"title": "新潟ジャンプステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 10,
+		"horse": "アサクサゲンキ",
+		"age": "せん8",
+		"weight": "60.0",
+		"jockey": "小牧 加矢太",
+		"time": "3:47.5",
+		"margin": "クビ",
+		"h_weight": 460,
+		"h_weight_zougen": -8,
+		"f_time": "13.4",
+		"trainer": "音無 秀孝",
+		"pop": "2",
+		"corner": [
+			4,
+			3,
+			3,
+			2
+		],
+		"title": "小倉サマージャンプ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "アサクサゲンキ",
+		"age": "せん8",
+		"weight": "60.0",
+		"jockey": "小牧 加矢太",
+		"time": "3:38.8",
+		"margin": "１／２",
+		"h_weight": 478,
+		"h_weight_zougen": 18,
+		"f_time": "13.8",
+		"trainer": "音無 秀孝",
+		"pop": "3",
+		"corner": [
+			4,
+			5,
+			3,
+			2
+		],
+		"title": "京都ジャンプステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "アサクサゲンキ",
+		"age": "せん9",
+		"weight": "60.0",
+		"jockey": "小牧 加矢太",
+		"time": "4:32.7",
+		"margin": "５",
+		"h_weight": 478,
+		"h_weight_zougen": 12,
+		"f_time": "13.9",
+		"trainer": "音無 秀孝",
+		"pop": "2",
+		"corner": [
+			2,
+			2,
+			3,
+			3
+		],
+		"title": "京都ハイジャンプ"
+	}
+]

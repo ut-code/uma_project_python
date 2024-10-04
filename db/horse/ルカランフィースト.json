@@ -1,0 +1,94 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "ルカランフィースト",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "松山 弘平",
+		"time": "1:57.9",
+		"margin": "３／４",
+		"h_weight": 468,
+		"h_weight_zougen": 6,
+		"f_time": "34.6",
+		"trainer": "鹿戸 雄一",
+		"pop": "14",
+		"corner": [
+			11,
+			11,
+			11,
+			10
+		],
+		"title": "皐月賞"
+	},
+	{
+		"rank": 13,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ルカランフィースト",
+		"age": "牡2",
+		"weight": "56.0",
+		"jockey": "松山 弘平",
+		"time": "2:01.3",
+		"margin": "２",
+		"h_weight": 464,
+		"h_weight_zougen": 2,
+		"f_time": "36.2",
+		"trainer": "鹿戸 雄一",
+		"pop": "7",
+		"corner": [
+			8,
+			9,
+			14,
+			14
+		],
+		"title": "ラジオNIKKEI杯京都2歳ステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ルカランフィースト",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "横山 武史",
+		"time": "1:50.1",
+		"margin": "１",
+		"h_weight": 462,
+		"h_weight_zougen": 2,
+		"f_time": "33.9",
+		"trainer": "鹿戸 雄一",
+		"pop": "4",
+		"corner": [
+			4,
+			4,
+			4,
+			4
+		],
+		"title": "フジテレビ賞スプリングステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "ルカランフィースト",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "横山 武史",
+		"time": "2:13.8",
+		"margin": "１ 1/2",
+		"h_weight": 470,
+		"h_weight_zougen": 2,
+		"f_time": "35.6",
+		"trainer": "鹿戸 雄一",
+		"pop": "7",
+		"corner": [
+			6,
+			8,
+			10,
+			11
+		],
+		"title": "朝日杯セントライト記念"
+	}
+]

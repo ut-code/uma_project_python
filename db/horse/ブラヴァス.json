@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "ブラヴァス",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "今村 聖奈",
+		"time": "2:07.1",
+		"margin": "１／２",
+		"h_weight": 510,
+		"h_weight_zougen": 2,
+		"f_time": "38.1",
+		"trainer": "友道 康夫",
+		"pop": "16",
+		"corner": [
+			15,
+			15
+		],
+		"title": "新潟大賞典"
+	},
+	{
+		"rank": 12,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "ブラヴァス",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "内田 博幸",
+		"time": "2:00.1",
+		"margin": "３",
+		"h_weight": 496,
+		"h_weight_zougen": -14,
+		"f_time": "35.2",
+		"trainer": "友道 康夫",
+		"pop": "12",
+		"corner": [
+			2,
+			2
+		],
+		"title": "農林水産省賞典 新潟記念"
+	}
+]

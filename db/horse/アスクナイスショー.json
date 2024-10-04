@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "アスクナイスショー",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "大野 拓弥",
+		"time": "2:00.9",
+		"margin": "３／４",
+		"h_weight": 478,
+		"h_weight_zougen": 2,
+		"f_time": "35.2",
+		"trainer": "中舘 英二",
+		"pop": "11",
+		"corner": [
+			1,
+			1,
+			1,
+			1
+		],
+		"title": "京成杯"
+	}
+]

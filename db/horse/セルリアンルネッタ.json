@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠6緑",
+		"umaban": 9,
+		"horse": "セルリアンルネッタ",
+		"age": "牡4",
+		"weight": "60.0",
+		"jockey": "金子 光希",
+		"time": "3:29.8",
+		"margin": "４",
+		"h_weight": 468,
+		"h_weight_zougen": 10,
+		"f_time": "13.4",
+		"trainer": "高橋 康之",
+		"pop": "12",
+		"corner": [
+			10,
+			10,
+			8,
+			8
+		],
+		"title": "阪神ジャンプステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠7橙",
+		"umaban": 10,
+		"horse": "セルリアンルネッタ",
+		"age": "牡4",
+		"weight": "60.0",
+		"jockey": "金子 光希",
+		"time": "3:39.9",
+		"margin": "クビ",
+		"h_weight": 474,
+		"h_weight_zougen": 6,
+		"f_time": "13.9",
+		"trainer": "高橋 康之",
+		"pop": "12",
+		"corner": [
+			8,
+			9,
+			7,
+			7
+		],
+		"title": "京都ジャンプステークス"
+	}
+]

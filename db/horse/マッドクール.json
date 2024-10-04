@@ -1,0 +1,86 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "マッドクール",
+		"age": "牡4",
+		"weight": "58.0",
+		"jockey": "坂井 瑠星",
+		"time": "1:08.0",
+		"margin": "ハナ",
+		"h_weight": 532,
+		"h_weight_zougen": -2,
+		"f_time": "34.4",
+		"trainer": "池添 学",
+		"pop": "6",
+		"corner": [
+			5,
+			4
+		],
+		"title": "スプリンターズステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "マッドクール",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "坂井 瑠星",
+		"time": "1:08.9",
+		"margin": "",
+		"h_weight": 540,
+		"h_weight_zougen": 18,
+		"f_time": "33.7",
+		"trainer": "池添 学",
+		"pop": "6",
+		"corner": [
+			3,
+			3
+		],
+		"title": "高松宮記念"
+	},
+	{
+		"rank": 3,
+		"waku": "枠5黄",
+		"umaban": 8,
+		"horse": "マッドクール",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "藤岡 康太",
+		"time": "1:07.4",
+		"margin": "クビ",
+		"h_weight": 536,
+		"h_weight_zougen": 6,
+		"f_time": "33.6",
+		"trainer": "池添 学",
+		"pop": "1",
+		"corner": [
+			1,
+			1
+		],
+		"title": "シルクロードステークス"
+	},
+	{
+		"rank": 9,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "マッドクール",
+		"age": "牡4",
+		"weight": "58.5",
+		"jockey": "坂井 瑠星",
+		"time": "1:08.2",
+		"margin": "１ 3/4",
+		"h_weight": 534,
+		"h_weight_zougen": 6,
+		"f_time": "34.1",
+		"trainer": "池添 学",
+		"pop": "1",
+		"corner": [
+			3,
+			3
+		],
+		"title": "CBC賞"
+	}
+]

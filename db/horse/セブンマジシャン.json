@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠7橙",
+		"umaban": 7,
+		"horse": "セブンマジシャン",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "C.ルメール",
+		"time": "2:02.8",
+		"margin": "１ 1/4",
+		"h_weight": 480,
+		"h_weight_zougen": -4,
+		"f_time": "34.9",
+		"trainer": "高野 友和",
+		"pop": "1",
+		"corner": [
+			5,
+			7,
+			7,
+			7
+		],
+		"title": "京成杯"
+	},
+	{
+		"rank": 6,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "セブンマジシャン",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:49.8",
+		"margin": "１ 1/4",
+		"h_weight": 486,
+		"h_weight_zougen": 6,
+		"f_time": "36.2",
+		"trainer": "高野 友和",
+		"pop": "1",
+		"corner": [
+			12,
+			13,
+			11,
+			10
+		],
+		"title": "フジテレビ賞スプリングステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "セブンマジシャン",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "西村 淳也",
+		"time": "2:12.0",
+		"margin": "１",
+		"h_weight": 492,
+		"h_weight_zougen": 4,
+		"f_time": "34.3",
+		"trainer": "高野 友和",
+		"pop": "7",
+		"corner": [
+			8,
+			8,
+			9,
+			9
+		],
+		"title": "朝日杯セントライト記念"
+	}
+]

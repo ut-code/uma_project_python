@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "サスツルギ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "北村 宏司",
+		"time": "2:24.2",
+		"margin": "３／４",
+		"h_weight": 486,
+		"h_weight_zougen": 6,
+		"f_time": "33.7",
+		"trainer": "木村 哲也",
+		"pop": "9",
+		"corner": [
+			13,
+			12,
+			9,
+			9
+		],
+		"title": "神戸新聞杯"
+	}
+]

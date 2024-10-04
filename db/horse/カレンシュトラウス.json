@@ -1,0 +1,47 @@
+[
+	{
+		"rank": 15,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "カレンシュトラウス",
+		"age": "牡7",
+		"weight": "56.0",
+		"jockey": "藤懸 貴志",
+		"time": "1:59.8",
+		"margin": "クビ",
+		"h_weight": 520,
+		"h_weight_zougen": -2,
+		"f_time": "33.6",
+		"trainer": "平田 修",
+		"pop": "16",
+		"corner": [
+			17,
+			17,
+			17,
+			16
+		],
+		"title": "日刊スポーツ賞中山金杯"
+	},
+	{
+		"rank": 12,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "カレンシュトラウス",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "北村 宏司",
+		"time": "1:45.6",
+		"margin": "クビ",
+		"h_weight": 522,
+		"h_weight_zougen": 4,
+		"f_time": "34.2",
+		"trainer": "平田 修",
+		"pop": "16",
+		"corner": [
+			12,
+			10,
+			11
+		],
+		"title": "エプソムカップ"
+	}
+]

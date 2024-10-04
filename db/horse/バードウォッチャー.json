@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "バードウォッチャー",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "C.ルメール",
+		"time": "2:01.0",
+		"margin": "クビ",
+		"h_weight": 486,
+		"h_weight_zougen": 10,
+		"f_time": "34.5",
+		"trainer": "国枝 栄",
+		"pop": "3",
+		"corner": [
+			9,
+			8,
+			5,
+			6
+		],
+		"title": "京成杯"
+	}
+]

@@ -1,0 +1,87 @@
+[
+	{
+		"rank": 16,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "デュガ",
+		"age": "牡4",
+		"weight": "55.0",
+		"jockey": "菅原 明良",
+		"time": "1:08.4",
+		"margin": "クビ",
+		"h_weight": 508,
+		"h_weight_zougen": 6,
+		"f_time": "34.1",
+		"trainer": "森 秀行",
+		"pop": "3",
+		"corner": [
+			15,
+			14
+		],
+		"title": "テレビ西日本賞北九州記念"
+	},
+	{
+		"rank": 11,
+		"waku": "枠8桃",
+		"umaban": 12,
+		"horse": "デュガ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "川田 将雅",
+		"time": "1:46.7",
+		"margin": "２ 1/2",
+		"h_weight": 506,
+		"h_weight_zougen": -2,
+		"f_time": "35.0",
+		"trainer": "森 秀行",
+		"pop": "11",
+		"corner": [
+			9,
+			6,
+			6
+		],
+		"title": "毎日王冠"
+	},
+	{
+		"rank": 10,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "デュガ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "松若 風馬",
+		"time": "1:20.7",
+		"margin": "クビ",
+		"h_weight": 512,
+		"h_weight_zougen": 6,
+		"f_time": "34.7",
+		"trainer": "森 秀行",
+		"pop": "17",
+		"corner": [
+			6,
+			8
+		],
+		"title": "MBS賞スワンステークス"
+	},
+	{
+		"rank": 11,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "デュガ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "松若 風馬",
+		"time": "1:22.7",
+		"margin": "クビ",
+		"h_weight": 510,
+		"h_weight_zougen": -4,
+		"f_time": "36.3",
+		"trainer": "森 秀行",
+		"pop": "16",
+		"corner": [
+			17,
+			16
+		],
+		"title": "阪急杯"
+	}
+]

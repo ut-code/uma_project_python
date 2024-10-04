@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "カサデガ",
+		"age": "牡5",
+		"weight": "60.0",
+		"jockey": "小牧 加矢太",
+		"time": "3:34.7",
+		"margin": "９",
+		"h_weight": 462,
+		"h_weight_zougen": 2,
+		"f_time": "13.2",
+		"trainer": "寺島 良",
+		"pop": "9",
+		"corner": [
+			11,
+			11,
+			10,
+			10
+		],
+		"title": "新潟ジャンプステークス"
+	}
+]

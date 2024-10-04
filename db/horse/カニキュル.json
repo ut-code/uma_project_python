@@ -1,0 +1,70 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠5黄",
+		"umaban": 6,
+		"horse": "カニキュル",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:48.3",
+		"margin": "クビ",
+		"h_weight": 500,
+		"h_weight_zougen": 4,
+		"f_time": "35.6",
+		"trainer": "菊沢 隆徳",
+		"pop": "3",
+		"corner": [
+			9,
+			9,
+			9,
+			9
+		],
+		"title": "フラワーカップ"
+	},
+	{
+		"rank": 3,
+		"waku": "枠8桃",
+		"umaban": 13,
+		"horse": "カニキュル",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "北村 宏司",
+		"time": "1:59.3",
+		"margin": "１ 1/4",
+		"h_weight": 494,
+		"h_weight_zougen": -6,
+		"f_time": "34.0",
+		"trainer": "菊沢 隆徳",
+		"pop": "4",
+		"corner": [
+			12,
+			13,
+			11
+		],
+		"title": "サンケイスポーツ賞フローラステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "カニキュル",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "戸崎 圭太",
+		"time": "2:00.7",
+		"margin": "１ 1/2",
+		"h_weight": 494,
+		"h_weight_zougen": -4,
+		"f_time": "34.1",
+		"trainer": "菊沢 隆徳",
+		"pop": "5",
+		"corner": [
+			9,
+			8,
+			8,
+			8
+		],
+		"title": "関西テレビ放送賞ローズステークス"
+	}
+]

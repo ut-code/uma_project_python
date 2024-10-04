@@ -1,0 +1,24 @@
+[
+	{
+		"rank": 15,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ベジャール",
+		"age": "牡4",
+		"weight": "55.0",
+		"jockey": "菅原 明良",
+		"time": "1:34.5",
+		"margin": "１ 3/4",
+		"h_weight": 558,
+		"h_weight_zougen": -2,
+		"f_time": "35.7",
+		"trainer": "田中 博康",
+		"pop": "10",
+		"corner": [
+			15,
+			15,
+			14
+		],
+		"title": "中京記念"
+	}
+]

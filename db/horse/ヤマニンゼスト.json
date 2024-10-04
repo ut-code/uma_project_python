@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ヤマニンゼスト",
+		"age": "牡4",
+		"weight": "55.0",
+		"jockey": "武 豊",
+		"time": "2:14.4",
+		"margin": "１／２",
+		"h_weight": 506,
+		"h_weight_zougen": 6,
+		"f_time": "35.0",
+		"trainer": "千田 輝彦",
+		"pop": "5",
+		"corner": [
+			7,
+			8,
+			8,
+			6
+		],
+		"title": "日経新春杯"
+	}
+]

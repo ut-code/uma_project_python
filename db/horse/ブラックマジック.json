@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "ブラックマジック",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "三浦 皇成",
+		"time": "2:14.8",
+		"margin": "３／４",
+		"h_weight": 460,
+		"h_weight_zougen": 6,
+		"f_time": "35.9",
+		"trainer": "戸田 博文",
+		"pop": "11",
+		"corner": [
+			8,
+			8,
+			8,
+			8
+		],
+		"title": "アメリカジョッキークラブカップ"
+	}
+]

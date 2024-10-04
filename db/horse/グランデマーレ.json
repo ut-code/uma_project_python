@@ -1,0 +1,66 @@
+[
+	{
+		"rank": 15,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "グランデマーレ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "田辺 裕信",
+		"time": "1:35.1",
+		"margin": "３ 1/2",
+		"h_weight": 502,
+		"h_weight_zougen": 6,
+		"f_time": "35.8",
+		"trainer": "藤岡 健一",
+		"pop": "14",
+		"corner": [
+			4,
+			8,
+			10
+		],
+		"title": "ダービー卿チャレンジトロフィー"
+	},
+	{
+		"rank": 9,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "グランデマーレ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "津村 明秀",
+		"time": "1:20.4",
+		"margin": "１",
+		"h_weight": 502,
+		"h_weight_zougen": 0,
+		"f_time": "33.4",
+		"trainer": "藤岡 健一",
+		"pop": "11",
+		"corner": [
+			9,
+			9
+		],
+		"title": "京王杯スプリングカップ"
+	},
+	{
+		"rank": 17,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "グランデマーレ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "田辺 裕信",
+		"time": "1:34.5",
+		"margin": "１／２",
+		"h_weight": 504,
+		"h_weight_zougen": 0,
+		"f_time": "34.0",
+		"trainer": "藤岡 健一",
+		"pop": "17",
+		"corner": [
+			12,
+			12
+		],
+		"title": "関屋記念"
+	}
+]

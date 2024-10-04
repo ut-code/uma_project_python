@@ -1,0 +1,47 @@
+[
+	{
+		"rank": 13,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ソロフレーズ",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "武士沢 友治",
+		"time": "1:49.1",
+		"margin": "４",
+		"h_weight": 474,
+		"h_weight_zougen": -13,
+		"f_time": "36.3",
+		"trainer": "佐藤 吉勝",
+		"pop": "13",
+		"corner": [
+			12,
+			12,
+			12,
+			12
+		],
+		"title": "中山記念"
+	},
+	{
+		"rank": 15,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ソロフレーズ",
+		"age": "牡8",
+		"weight": "53.0",
+		"jockey": "武士沢 友治",
+		"time": "1:34.8",
+		"margin": "２",
+		"h_weight": 476,
+		"h_weight_zougen": 4,
+		"f_time": "34.7",
+		"trainer": "佐藤 吉勝",
+		"pop": "16",
+		"corner": [
+			9,
+			10,
+			10
+		],
+		"title": "ダービー卿チャレンジトロフィー"
+	}
+]

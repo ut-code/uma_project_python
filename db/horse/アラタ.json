@@ -1,0 +1,163 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "アラタ",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "横山 武史",
+		"time": "2:00.2",
+		"margin": "クビ",
+		"h_weight": 484,
+		"h_weight_zougen": 24,
+		"f_time": "35.2",
+		"trainer": "和田 勇介",
+		"pop": "5",
+		"corner": [
+			7,
+			7,
+			8,
+			8
+		],
+		"title": "日刊スポーツ賞中山金杯"
+	},
+	{
+		"rank": 3,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "アラタ",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "横山 典弘",
+		"time": "2:00.1",
+		"margin": "１ 1/4",
+		"h_weight": 464,
+		"h_weight_zougen": -20,
+		"f_time": "34.6",
+		"trainer": "和田 勇介",
+		"pop": "6",
+		"corner": [
+			3,
+			3,
+			4,
+			4
+		],
+		"title": "金鯱賞"
+	},
+	{
+		"rank": 9,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "アラタ",
+		"age": "牡6",
+		"weight": "58.0",
+		"jockey": "横山 武史",
+		"time": "2:02.0",
+		"margin": "アタマ",
+		"h_weight": 470,
+		"h_weight_zougen": 0,
+		"f_time": "36.2",
+		"trainer": "和田 勇介",
+		"pop": "3",
+		"corner": [
+			11,
+			11,
+			11,
+			11
+		],
+		"title": "農林水産省賞典 函館記念"
+	},
+	{
+		"rank": 13,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "アラタ",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "田辺 裕信",
+		"time": "2:13.1",
+		"margin": "ハナ",
+		"h_weight": 470,
+		"h_weight_zougen": 0,
+		"f_time": "35.6",
+		"trainer": "和田 勇介",
+		"pop": "11",
+		"corner": [
+			10,
+			11,
+			11,
+			9
+		],
+		"title": "産経賞オールカマー"
+	},
+	{
+		"rank": 13,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "アラタ",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "横山 和生",
+		"time": "1:59.6",
+		"margin": "アタマ",
+		"h_weight": 480,
+		"h_weight_zougen": 10,
+		"f_time": "33.9",
+		"trainer": "和田 勇介",
+		"pop": "7",
+		"corner": [
+			14,
+			16,
+			15,
+			14
+		],
+		"title": "日刊スポーツ賞中山金杯"
+	},
+	{
+		"rank": 5,
+		"waku": "枠7橙",
+		"umaban": 10,
+		"horse": "アラタ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "横山 典弘",
+		"time": "1:58.7",
+		"margin": "アタマ",
+		"h_weight": 474,
+		"h_weight_zougen": -6,
+		"f_time": "35.0",
+		"trainer": "和田 勇介",
+		"pop": "9",
+		"corner": [
+			10,
+			11,
+			11,
+			10
+		],
+		"title": "金鯱賞"
+	},
+	{
+		"rank": 7,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "アラタ",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "横山 典弘",
+		"time": "1:58.6",
+		"margin": "クビ",
+		"h_weight": 470,
+		"h_weight_zougen": -4,
+		"f_time": "35.1",
+		"trainer": "和田 勇介",
+		"pop": "6",
+		"corner": [
+			10,
+			11,
+			11,
+			9
+		],
+		"title": "七夕賞"
+	}
+]

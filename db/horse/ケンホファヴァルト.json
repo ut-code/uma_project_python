@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ケンホファヴァルト",
+		"age": "牡10",
+		"weight": "60.0",
+		"jockey": "熊沢 重文",
+		"time": "4:25.3",
+		"margin": "８",
+		"h_weight": 488,
+		"h_weight_zougen": 2,
+		"f_time": "13.6",
+		"trainer": "森 秀行",
+		"pop": "5",
+		"corner": [
+			5,
+			5,
+			5,
+			7
+		],
+		"title": "阪神スプリングジャンプ"
+	}
+]

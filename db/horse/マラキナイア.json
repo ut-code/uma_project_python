@@ -1,0 +1,67 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "マラキナイア",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "池添 謙一",
+		"time": "2:01.8",
+		"margin": "１／２",
+		"h_weight": 442,
+		"h_weight_zougen": 0,
+		"f_time": "34.2",
+		"trainer": "吉岡 辰弥",
+		"pop": "11",
+		"corner": [
+			8,
+			7,
+			7,
+			9
+		],
+		"title": "秋華賞"
+	},
+	{
+		"rank": 9,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "マラキナイア",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "松山 弘平",
+		"time": "1:34.3",
+		"margin": "ハナ",
+		"h_weight": 432,
+		"h_weight_zougen": 4,
+		"f_time": "33.3",
+		"trainer": "吉岡 辰弥",
+		"pop": "12",
+		"corner": [
+			16,
+			15
+		],
+		"title": "チューリップ賞"
+	},
+	{
+		"rank": 3,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "マラキナイア",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "川田 将雅",
+		"time": "1:43.5",
+		"margin": "１ 3/4",
+		"h_weight": 442,
+		"h_weight_zougen": 14,
+		"f_time": "33.4",
+		"trainer": "吉岡 辰弥",
+		"pop": "5",
+		"corner": [
+			12,
+			11
+		],
+		"title": "関西テレビ放送賞ローズステークス"
+	}
+]

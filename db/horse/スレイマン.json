@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "スレイマン",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "斎藤 新",
+		"time": "1:51.2",
+		"margin": "クビ",
+		"h_weight": 550,
+		"h_weight_zougen": 2,
+		"f_time": "37.5",
+		"trainer": "池添 学",
+		"pop": "3",
+		"corner": [
+			2,
+			2,
+			2,
+			2
+		],
+		"title": "アンタレスステークス"
+	},
+	{
+		"rank": 10,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "スレイマン",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "斎藤 新",
+		"time": "1:58.4",
+		"margin": "１",
+		"h_weight": 546,
+		"h_weight_zougen": -4,
+		"f_time": "37.7",
+		"trainer": "池添 学",
+		"pop": "1",
+		"corner": [
+			3,
+			3,
+			3,
+			3
+		],
+		"title": "平安ステークス"
+	},
+	{
+		"rank": 2,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "スレイマン",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "西村 淳也",
+		"time": "1:43.2",
+		"margin": "３",
+		"h_weight": 546,
+		"h_weight_zougen": 0,
+		"f_time": "37.8",
+		"trainer": "池添 学",
+		"pop": "3",
+		"corner": [
+			5,
+			5,
+			4,
+			3
+		],
+		"title": "プロキオンステークス"
+	}
+]

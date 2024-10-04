@@ -1,0 +1,46 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "エアファンディタ",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "1:46.2",
+		"margin": "クビ",
+		"h_weight": 458,
+		"h_weight_zougen": -2,
+		"f_time": "34.8",
+		"trainer": "池添 学",
+		"pop": "6",
+		"corner": [
+			15,
+			16,
+			15
+		],
+		"title": "エプソムカップ"
+	},
+	{
+		"rank": 14,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "エアファンディタ",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "三浦 皇成",
+		"time": "1:32.4",
+		"margin": "３／４",
+		"h_weight": 470,
+		"h_weight_zougen": 10,
+		"f_time": "33.3",
+		"trainer": "池添 学",
+		"pop": "13",
+		"corner": [
+			16,
+			16,
+			16
+		],
+		"title": "京成杯オータムハンデキャップ"
+	}
+]

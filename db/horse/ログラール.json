@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠7橙",
+		"umaban": 8,
+		"horse": "ログラール",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "北村 友一",
+		"time": "1:50.3",
+		"margin": "ハナ",
+		"h_weight": 480,
+		"h_weight_zougen": 10,
+		"f_time": "33.7",
+		"trainer": "松永 幹夫",
+		"pop": "10",
+		"corner": [
+			6,
+			6,
+			6,
+			6
+		],
+		"title": "フジテレビ賞スプリングステークス"
+	},
+	{
+		"rank": 6,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "ログラール",
+		"age": "牡3",
+		"weight": "54.0",
+		"jockey": "北村 友一",
+		"time": "1:46.0",
+		"margin": "３／４",
+		"h_weight": 470,
+		"h_weight_zougen": -4,
+		"f_time": "34.9",
+		"trainer": "松永 幹夫",
+		"pop": "11",
+		"corner": [
+			10,
+			10,
+			11,
+			11
+		],
+		"title": "ラジオNIKKEI賞"
+	},
+	{
+		"rank": 10,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "ログラール",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "北村 友一",
+		"time": "2:13.3",
+		"margin": "３／４",
+		"h_weight": 474,
+		"h_weight_zougen": 4,
+		"f_time": "34.8",
+		"trainer": "松永 幹夫",
+		"pop": "11",
+		"corner": [
+			11,
+			10,
+			13,
+			13
+		],
+		"title": "朝日杯セントライト記念"
+	}
+]

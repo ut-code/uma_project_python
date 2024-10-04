@@ -1,0 +1,88 @@
+[
+	{
+		"rank": 16,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "ワールドウインズ",
+		"age": "せん6",
+		"weight": "56.0",
+		"jockey": "幸 英明",
+		"time": "1:34.6",
+		"margin": "クビ",
+		"h_weight": 458,
+		"h_weight_zougen": -4,
+		"f_time": "36.1",
+		"trainer": "笹田 和秀",
+		"pop": "16",
+		"corner": [
+			11,
+			10,
+			11
+		],
+		"title": "中京記念"
+	},
+	{
+		"rank": 12,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "ワールドウインズ",
+		"age": "せん7",
+		"weight": "57.0",
+		"jockey": "角田 大河",
+		"time": "1:22.8",
+		"margin": "１／２",
+		"h_weight": 460,
+		"h_weight_zougen": 4,
+		"f_time": "36.5",
+		"trainer": "笹田 和秀",
+		"pop": "14",
+		"corner": [
+			15,
+			16
+		],
+		"title": "阪急杯"
+	},
+	{
+		"rank": 16,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "ワールドウインズ",
+		"age": "せん7",
+		"weight": "57.0",
+		"jockey": "内田 博幸",
+		"time": "1:46.0",
+		"margin": "１／２",
+		"h_weight": 458,
+		"h_weight_zougen": 2,
+		"f_time": "34.1",
+		"trainer": "笹田 和秀",
+		"pop": "18",
+		"corner": [
+			15,
+			17,
+			18
+		],
+		"title": "エプソムカップ"
+	},
+	{
+		"rank": 18,
+		"waku": "枠8桃",
+		"umaban": 17,
+		"horse": "ワールドウインズ",
+		"age": "せん7",
+		"weight": "57.0",
+		"jockey": "松岡 正海",
+		"time": "1:35.0",
+		"margin": "２ 1/2",
+		"h_weight": 452,
+		"h_weight_zougen": -6,
+		"f_time": "35.1",
+		"trainer": "笹田 和秀",
+		"pop": "18",
+		"corner": [
+			4,
+			4
+		],
+		"title": "関屋記念"
+	}
+]

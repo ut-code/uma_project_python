@@ -1,0 +1,68 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ベラジオボンド",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "岩田 望来",
+		"time": "1:48.8",
+		"margin": "３／４",
+		"h_weight": 476,
+		"h_weight_zougen": -6,
+		"f_time": "32.9",
+		"trainer": "上村 洋行",
+		"pop": "5",
+		"corner": [
+			3,
+			6,
+			7
+		],
+		"title": "共同通信杯"
+	},
+	{
+		"rank": 3,
+		"waku": "枠3赤",
+		"umaban": 3,
+		"horse": "ベラジオボンド",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "岩田 望来",
+		"time": "1:47.1",
+		"margin": "クビ",
+		"h_weight": 478,
+		"h_weight_zougen": 2,
+		"f_time": "35.1",
+		"trainer": "上村 洋行",
+		"pop": "4",
+		"corner": [
+			4,
+			4
+		],
+		"title": "毎日杯"
+	},
+	{
+		"rank": 14,
+		"waku": "枠5黄",
+		"umaban": 8,
+		"horse": "ベラジオボンド",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "岩田 望来",
+		"time": "2:13.9",
+		"margin": "２ 1/2",
+		"h_weight": 474,
+		"h_weight_zougen": -4,
+		"f_time": "36.2",
+		"trainer": "上村 洋行",
+		"pop": "3",
+		"corner": [
+			3,
+			5,
+			4,
+			8
+		],
+		"title": "京都新聞杯"
+	}
+]

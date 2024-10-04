@@ -1,0 +1,41 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "デュアリスト",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "三浦 皇成",
+		"time": "1:10.5",
+		"margin": "クビ",
+		"h_weight": 502,
+		"h_weight_zougen": -4,
+		"f_time": "36.6",
+		"trainer": "安田 隆行",
+		"pop": "5",
+		"corner": [
+			3,
+			3
+		],
+		"title": "カペラステークス"
+	},
+	{
+		"rank": 14,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "デュアリスト",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "小沢 大仁",
+		"time": "0:56.3",
+		"margin": "クビ",
+		"h_weight": 514,
+		"h_weight_zougen": 2,
+		"f_time": "33.7",
+		"trainer": "福永 祐一",
+		"pop": "10",
+		"corner": [],
+		"title": "アイビスサマーダッシュ"
+	}
+]

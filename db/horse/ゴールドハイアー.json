@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠6緑",
+		"umaban": 10,
+		"horse": "ゴールドハイアー",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "和田 竜二",
+		"time": "1:50.9",
+		"margin": "ハナ",
+		"h_weight": 494,
+		"h_weight_zougen": 2,
+		"f_time": "38.3",
+		"trainer": "大久保 龍志",
+		"pop": "9",
+		"corner": [
+			10,
+			9,
+			8,
+			7
+		],
+		"title": "アンタレスステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠5黄",
+		"umaban": 7,
+		"horse": "ゴールドハイアー",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "津村 明秀",
+		"time": "1:51.9",
+		"margin": "ハナ",
+		"h_weight": 500,
+		"h_weight_zougen": -2,
+		"f_time": "37.4",
+		"trainer": "大久保 龍志",
+		"pop": "6",
+		"corner": [
+			7,
+			7,
+			7,
+			10
+		],
+		"title": "マーチステークス"
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 9,
+		"horse": "シルトプレ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "石川 倭",
+		"time": "1:43.4",
+		"margin": "１／２",
+		"h_weight": 460,
+		"h_weight_zougen": -2,
+		"f_time": "36.1",
+		"trainer": "米川 昇",
+		"pop": "13",
+		"corner": [
+			12,
+			12,
+			11,
+			12
+		],
+		"title": "エルムステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠5黄",
+		"umaban": 8,
+		"horse": "シルトプレ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "石川 倭",
+		"time": "1:44.7",
+		"margin": "２ 1/2",
+		"h_weight": 472,
+		"h_weight_zougen": -10,
+		"f_time": "36.4",
+		"trainer": "米川 昇",
+		"pop": "12",
+		"corner": [
+			14,
+			14,
+			11,
+			10
+		],
+		"title": "エルムステークス"
+	}
+]

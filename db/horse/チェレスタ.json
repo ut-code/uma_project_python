@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "チェレスタ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "西村 淳也",
+		"time": "2:00.1",
+		"margin": "１ 1/2",
+		"h_weight": 486,
+		"h_weight_zougen": -2,
+		"f_time": "34.3",
+		"trainer": "松下 武士",
+		"pop": "7",
+		"corner": [
+			3,
+			3,
+			3,
+			2
+		],
+		"title": "関西テレビ放送賞ローズステークス"
+	}
+]

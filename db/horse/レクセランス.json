@@ -1,0 +1,47 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "レクセランス",
+		"age": "牡6",
+		"weight": "56.0",
+		"jockey": "T.バシュロ",
+		"time": "3:29.8",
+		"margin": "１／２",
+		"h_weight": 486,
+		"h_weight_zougen": -2,
+		"f_time": "36.5",
+		"trainer": "池添 学",
+		"pop": "5",
+		"corner": [
+			4,
+			4,
+			5,
+			5
+		],
+		"title": "ダイヤモンドステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "レクセランス",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "木幡 巧也",
+		"time": "1:45.8",
+		"margin": "クビ",
+		"h_weight": 484,
+		"h_weight_zougen": -2,
+		"f_time": "34.4",
+		"trainer": "池添 学",
+		"pop": "16",
+		"corner": [
+			10,
+			14,
+			15
+		],
+		"title": "エプソムカップ"
+	}
+]

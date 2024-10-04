@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 18,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "バーデンヴァイラー",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "坂井 瑠星",
+		"time": "2:32.5",
+		"margin": "アタマ",
+		"h_weight": 512,
+		"h_weight_zougen": -1,
+		"f_time": "35.9",
+		"trainer": "斉藤 崇史",
+		"pop": "13",
+		"corner": [
+			3,
+			2,
+			4,
+			4
+		],
+		"title": "目黒記念"
+	}
+]

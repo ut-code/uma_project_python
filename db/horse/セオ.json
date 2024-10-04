@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 16,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "セオ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "松若 風馬",
+		"time": "1:48.9",
+		"margin": "ハナ",
+		"h_weight": 456,
+		"h_weight_zougen": -10,
+		"f_time": "36.9",
+		"trainer": "上村 洋行",
+		"pop": "12",
+		"corner": [
+			3,
+			3,
+			3,
+			3
+		],
+		"title": "ラジオNIKKEI賞"
+	},
+	{
+		"rank": 13,
+		"waku": "枠7橙",
+		"umaban": 12,
+		"horse": "セオ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "岩田 康誠",
+		"time": "1:49.4",
+		"margin": "１／２",
+		"h_weight": 476,
+		"h_weight_zougen": -8,
+		"f_time": "39.3",
+		"trainer": "上村 洋行",
+		"pop": "4",
+		"corner": [
+			4,
+			4,
+			2,
+			1
+		],
+		"title": "中京記念"
+	}
+]

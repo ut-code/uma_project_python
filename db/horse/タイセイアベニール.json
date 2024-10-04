@@ -1,0 +1,44 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "タイセイアベニール",
+		"age": "牡8",
+		"weight": "56.0",
+		"jockey": "和田 竜二",
+		"time": "1:07.7",
+		"margin": "クビ",
+		"h_weight": 496,
+		"h_weight_zougen": -4,
+		"f_time": "33.4",
+		"trainer": "西村 真幸",
+		"pop": "12",
+		"corner": [
+			7,
+			6
+		],
+		"title": "CBC賞"
+	},
+	{
+		"rank": 12,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "タイセイアベニール",
+		"age": "牡8",
+		"weight": "57.0",
+		"jockey": "L.モリス",
+		"time": "1:11.3",
+		"margin": "ハナ",
+		"h_weight": 496,
+		"h_weight_zougen": 12,
+		"f_time": "36.2",
+		"trainer": "西村 真幸",
+		"pop": "16",
+		"corner": [
+			11,
+			11
+		],
+		"title": "キーンランドカップ"
+	}
+]

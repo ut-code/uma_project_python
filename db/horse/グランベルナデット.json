@@ -1,0 +1,92 @@
+[
+	{
+		"rank": 15,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "グランベルナデット",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "松山 弘平",
+		"time": "2:02.4",
+		"margin": "クビ",
+		"h_weight": 500,
+		"h_weight_zougen": 0,
+		"f_time": "34.4",
+		"trainer": "大竹 正博",
+		"pop": "9",
+		"corner": [
+			14,
+			13,
+			15,
+			13
+		],
+		"title": "秋華賞"
+	},
+	{
+		"rank": 5,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "グランベルナデット",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "松山 弘平",
+		"time": "1:33.4",
+		"margin": "１",
+		"h_weight": 508,
+		"h_weight_zougen": 0,
+		"f_time": "34.4",
+		"trainer": "大竹 正博",
+		"pop": "5",
+		"corner": [
+			10,
+			11
+		],
+		"title": "デイリー杯クイーンカップ"
+	},
+	{
+		"rank": 10,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "グランベルナデット",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "松山 弘平",
+		"time": "1:59.2",
+		"margin": "２",
+		"h_weight": 500,
+		"h_weight_zougen": 2,
+		"f_time": "36.8",
+		"trainer": "大竹 正博",
+		"pop": "1",
+		"corner": [
+			4,
+			4,
+			5,
+			5
+		],
+		"title": "紫苑ステークス"
+	},
+	{
+		"rank": 11,
+		"waku": "枠8桃",
+		"umaban": 16,
+		"horse": "グランベルナデット",
+		"age": "牝4",
+		"weight": "55.0",
+		"jockey": "横山 武史",
+		"time": "1:48.3",
+		"margin": "１ 1/4",
+		"h_weight": 504,
+		"h_weight_zougen": -8,
+		"f_time": "34.9",
+		"trainer": "大竹 正博",
+		"pop": "2",
+		"corner": [
+			7,
+			7,
+			11,
+			11
+		],
+		"title": "福島牝馬ステークス"
+	}
+]

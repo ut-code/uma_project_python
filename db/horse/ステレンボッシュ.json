@@ -1,0 +1,67 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "ステレンボッシュ",
+		"age": "牝2",
+		"weight": "55.0",
+		"jockey": "C.ルメール",
+		"time": "1:32.6",
+		"margin": "クビ",
+		"h_weight": 466,
+		"h_weight_zougen": -6,
+		"f_time": "33.5",
+		"trainer": "国枝 栄",
+		"pop": "5",
+		"corner": [
+			11,
+			10
+		],
+		"title": "阪神ジュベナイルフィリーズ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "ステレンボッシュ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "戸崎 圭太",
+		"time": "2:24.1",
+		"margin": "１／２",
+		"h_weight": 458,
+		"h_weight_zougen": -4,
+		"f_time": "34.0",
+		"trainer": "国枝 栄",
+		"pop": "1",
+		"corner": [
+			9,
+			9,
+			9,
+			12
+		],
+		"title": "オークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ステレンボッシュ",
+		"age": "牝3",
+		"weight": "55.0",
+		"jockey": "J.モレイラ",
+		"time": "1:32.2",
+		"margin": "",
+		"h_weight": 462,
+		"h_weight_zougen": -4,
+		"f_time": "33.4",
+		"trainer": "国枝 栄",
+		"pop": "2",
+		"corner": [
+			11,
+			8
+		],
+		"title": "桜花賞"
+	}
+]

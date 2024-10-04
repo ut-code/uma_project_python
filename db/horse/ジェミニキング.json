@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 1,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "ジェミニキング",
+		"age": "せん7",
+		"weight": "60.0",
+		"jockey": "小野寺 祐太",
+		"time": "4:21.6",
+		"margin": "",
+		"h_weight": 478,
+		"h_weight_zougen": 2,
+		"f_time": "13.4",
+		"trainer": "服部 利之",
+		"pop": "10",
+		"corner": [
+			7,
+			8,
+			7,
+			5
+		],
+		"title": "阪神スプリングジャンプ"
+	},
+	{
+		"rank": 8,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ジェミニキング",
+		"age": "せん8",
+		"weight": "61.0",
+		"jockey": "小野寺 祐太",
+		"time": "4:27.1",
+		"margin": "１ 1/4",
+		"h_weight": 492,
+		"h_weight_zougen": 0,
+		"f_time": "13.7",
+		"trainer": "庄野 靖志",
+		"pop": "4",
+		"corner": [
+			5,
+			5,
+			8,
+			9
+		],
+		"title": "阪神スプリングジャンプ"
+	}
+]

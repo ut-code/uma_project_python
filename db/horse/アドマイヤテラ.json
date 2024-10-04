@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 4,
+		"waku": "枠8桃",
+		"umaban": 14,
+		"horse": "アドマイヤテラ",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "M.デムーロ",
+		"time": "2:11.7",
+		"margin": "１ 1/2",
+		"h_weight": 490,
+		"h_weight_zougen": -2,
+		"f_time": "34.3",
+		"trainer": "友道 康夫",
+		"pop": "6",
+		"corner": [
+			10,
+			11,
+			8,
+			2
+		],
+		"title": "京都新聞杯"
+	}
+]

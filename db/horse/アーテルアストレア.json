@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠5黄",
+		"umaban": 8,
+		"horse": "アーテルアストレア",
+		"age": "牝4",
+		"weight": "56.0",
+		"jockey": "横山 武史",
+		"time": "1:51.6",
+		"margin": "１／２",
+		"h_weight": 462,
+		"h_weight_zougen": 4,
+		"f_time": "37.3",
+		"trainer": "橋口 慎介",
+		"pop": "13",
+		"corner": [
+			13,
+			13,
+			15,
+			13
+		],
+		"title": "チャンピオンズカップ"
+	}
+]

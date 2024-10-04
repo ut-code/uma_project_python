@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "ホッコーハナミチ",
+		"age": "せん5",
+		"weight": "60.0",
+		"jockey": "黒岩 悠",
+		"time": "4:34.7",
+		"margin": "１",
+		"h_weight": 470,
+		"h_weight_zougen": 8,
+		"f_time": "14.0",
+		"trainer": "長谷川 浩大",
+		"pop": "9",
+		"corner": [
+			10,
+			10,
+			8,
+			7
+		],
+		"title": "京都ハイジャンプ"
+	}
+]

@@ -1,0 +1,130 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "エアロロノア",
+		"age": "せん7",
+		"weight": "58.0",
+		"jockey": "幸 英明",
+		"time": "1:33.2",
+		"margin": "１ 1/4",
+		"h_weight": 484,
+		"h_weight_zougen": -4,
+		"f_time": "33.5",
+		"trainer": "笹田 和秀",
+		"pop": "16",
+		"corner": [
+			15,
+			15
+		],
+		"title": "安田記念"
+	},
+	{
+		"rank": 2,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "エアロロノア",
+		"age": "牡6",
+		"weight": "58.0",
+		"jockey": "福永 祐一",
+		"time": "1:32.8",
+		"margin": "１／２",
+		"h_weight": 502,
+		"h_weight_zougen": 2,
+		"f_time": "34.7",
+		"trainer": "笹田 和秀",
+		"pop": "4",
+		"corner": [
+			8,
+			6,
+			5
+		],
+		"title": "スポーツニッポン賞京都金杯"
+	},
+	{
+		"rank": 5,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "エアロロノア",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "武 豊",
+		"time": "1:32.0",
+		"margin": "クビ",
+		"h_weight": 496,
+		"h_weight_zougen": -6,
+		"f_time": "33.6",
+		"trainer": "笹田 和秀",
+		"pop": "7",
+		"corner": [
+			12,
+			10
+		],
+		"title": "東京新聞杯"
+	},
+	{
+		"rank": 8,
+		"waku": "枠8桃",
+		"umaban": 14,
+		"horse": "エアロロノア",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "武 豊",
+		"time": "1:32.0",
+		"margin": "３／４",
+		"h_weight": 498,
+		"h_weight_zougen": 2,
+		"f_time": "33.7",
+		"trainer": "笹田 和秀",
+		"pop": "5",
+		"corner": [
+			8,
+			7
+		],
+		"title": "読売マイラーズカップ"
+	},
+	{
+		"rank": 5,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "エアロロノア",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "田辺 裕信",
+		"time": "1:45.8",
+		"margin": "クビ",
+		"h_weight": 504,
+		"h_weight_zougen": 6,
+		"f_time": "34.4",
+		"trainer": "笹田 和秀",
+		"pop": "5",
+		"corner": [
+			17,
+			17,
+			15
+		],
+		"title": "エプソムカップ"
+	},
+	{
+		"rank": 4,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "エアロロノア",
+		"age": "せん7",
+		"weight": "57.0",
+		"jockey": "幸 英明",
+		"time": "1:33.2",
+		"margin": "１ 1/2",
+		"h_weight": 488,
+		"h_weight_zougen": -16,
+		"f_time": "35.1",
+		"trainer": "笹田 和秀",
+		"pop": "11",
+		"corner": [
+			14,
+			9
+		],
+		"title": "読売マイラーズカップ"
+	}
+]

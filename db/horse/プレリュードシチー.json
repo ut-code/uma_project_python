@@ -1,0 +1,48 @@
+[
+	{
+		"rank": 2,
+		"waku": "枠6緑",
+		"umaban": 10,
+		"horse": "プレリュードシチー",
+		"age": "牡2",
+		"weight": "56.0",
+		"jockey": "幸 英明",
+		"time": "1:59.9",
+		"margin": "１／２",
+		"h_weight": 464,
+		"h_weight_zougen": 4,
+		"f_time": "35.5",
+		"trainer": "高橋 義忠",
+		"pop": "10",
+		"corner": [
+			6,
+			6,
+			7,
+			4
+		],
+		"title": "ラジオNIKKEI杯京都2歳ステークス"
+	},
+	{
+		"rank": 15,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "プレリュードシチー",
+		"age": "牡3",
+		"weight": "57.0",
+		"jockey": "幸 英明",
+		"time": "2:15.7",
+		"margin": "大差",
+		"h_weight": 468,
+		"h_weight_zougen": 4,
+		"f_time": "38.3",
+		"trainer": "高橋 義忠",
+		"pop": "10",
+		"corner": [
+			2,
+			2,
+			2,
+			5
+		],
+		"title": "京都新聞杯"
+	}
+]

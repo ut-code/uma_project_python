@@ -1,0 +1,24 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "スピードオブライト",
+		"age": "牝3",
+		"weight": "54.0",
+		"jockey": "石川 裕紀人",
+		"time": "1:34.6",
+		"margin": "１ 3/4",
+		"h_weight": 402,
+		"h_weight_zougen": -12,
+		"f_time": "36.2",
+		"trainer": "相沢 郁",
+		"pop": "6",
+		"corner": [
+			1,
+			2,
+			2
+		],
+		"title": "フェアリーステークス"
+	}
+]

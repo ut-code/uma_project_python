@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 6,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "サンティーニ",
+		"age": "せん8",
+		"weight": "60.0",
+		"jockey": "五十嵐 雄祐",
+		"time": "3:31.2",
+		"margin": "４",
+		"h_weight": 496,
+		"h_weight_zougen": -4,
+		"f_time": "13.0",
+		"trainer": "尾関 知人",
+		"pop": "10",
+		"corner": [
+			10,
+			10,
+			9,
+			9
+		],
+		"title": "新潟ジャンプステークス"
+	}
+]

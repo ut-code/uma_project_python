@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 5,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "マオノアラシ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "菱田 裕二",
+		"time": "1:51.9",
+		"margin": "１／２",
+		"h_weight": 496,
+		"h_weight_zougen": 4,
+		"f_time": "38.0",
+		"trainer": "加藤 士津八",
+		"pop": "13",
+		"corner": [
+			6,
+			5,
+			6,
+			4
+		],
+		"title": "レパードステークス"
+	}
+]

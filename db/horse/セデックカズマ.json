@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 8,
+		"waku": "枠8桃",
+		"umaban": 11,
+		"horse": "セデックカズマ",
+		"age": "牡7",
+		"weight": "60.0",
+		"jockey": "平沢 健治",
+		"time": "4:34.9",
+		"margin": "クビ",
+		"h_weight": 518,
+		"h_weight_zougen": 6,
+		"f_time": "14.0",
+		"trainer": "高柳 大輔",
+		"pop": "7",
+		"corner": [
+			9,
+			9,
+			9,
+			8
+		],
+		"title": "京都ハイジャンプ"
+	}
+]

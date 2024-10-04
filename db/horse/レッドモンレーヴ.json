@@ -1,0 +1,173 @@
+[
+	{
+		"rank": 9,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "レッドモンレーヴ",
+		"age": "牡4",
+		"weight": "58.0",
+		"jockey": "横山 和生",
+		"time": "1:33.0",
+		"margin": "クビ",
+		"h_weight": 498,
+		"h_weight_zougen": -8,
+		"f_time": "34.0",
+		"trainer": "蛯名 正義",
+		"pop": "8",
+		"corner": [
+			9,
+			11
+		],
+		"title": "マイルチャンピオンシップ"
+	},
+	{
+		"rank": 6,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "レッドモンレーヴ",
+		"age": "牡4",
+		"weight": "58.0",
+		"jockey": "横山 和生",
+		"time": "1:32.0",
+		"margin": "１ 3/4",
+		"h_weight": 506,
+		"h_weight_zougen": 2,
+		"f_time": "33.5",
+		"trainer": "蛯名 正義",
+		"pop": "10",
+		"corner": [
+			12,
+			12
+		],
+		"title": "農林水産省賞典 安田記念"
+	},
+	{
+		"rank": 11,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "レッドモンレーヴ",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "横山 和生",
+		"time": "1:33.2",
+		"margin": "ハナ",
+		"h_weight": 512,
+		"h_weight_zougen": 0,
+		"f_time": "33.2",
+		"trainer": "蛯名 正義",
+		"pop": "10",
+		"corner": [
+			18,
+			17
+		],
+		"title": "安田記念"
+	},
+	{
+		"rank": 7,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "レッドモンレーヴ",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "川田 将雅",
+		"time": "1:33.6",
+		"margin": "ハナ",
+		"h_weight": 510,
+		"h_weight_zougen": 0,
+		"f_time": "33.0",
+		"trainer": "蛯名 正義",
+		"pop": "1",
+		"corner": [
+			15,
+			14,
+			14
+		],
+		"title": "ダービー卿チャレンジトロフィー"
+	},
+	{
+		"rank": 1,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "レッドモンレーヴ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "横山 和生",
+		"time": "1:20.3",
+		"margin": "",
+		"h_weight": 504,
+		"h_weight_zougen": -6,
+		"f_time": "32.6",
+		"trainer": "蛯名 正義",
+		"pop": "2",
+		"corner": [
+			12,
+			10
+		],
+		"title": "京王杯スプリングカップ"
+	},
+	{
+		"rank": 2,
+		"waku": "枠7橙",
+		"umaban": 9,
+		"horse": "レッドモンレーヴ",
+		"age": "牡4",
+		"weight": "58.0",
+		"jockey": "横山 和生",
+		"time": "1:31.6",
+		"margin": "１ 1/4",
+		"h_weight": 506,
+		"h_weight_zougen": 0,
+		"f_time": "33.7",
+		"trainer": "蛯名 正義",
+		"pop": "4",
+		"corner": [
+			10,
+			10
+		],
+		"title": "富士ステークス"
+	},
+	{
+		"rank": 15,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "レッドモンレーヴ",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "横山 和生",
+		"time": "1:50.9",
+		"margin": "４",
+		"h_weight": 512,
+		"h_weight_zougen": 14,
+		"f_time": "37.2",
+		"trainer": "蛯名 正義",
+		"pop": "8",
+		"corner": [
+			16,
+			16,
+			16,
+			16
+		],
+		"title": "中山記念"
+	},
+	{
+		"rank": 2,
+		"waku": "枠3赤",
+		"umaban": 4,
+		"horse": "レッドモンレーヴ",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "横山 和生",
+		"time": "1:19.7",
+		"margin": "ハナ",
+		"h_weight": 512,
+		"h_weight_zougen": 0,
+		"f_time": "32.2",
+		"trainer": "蛯名 正義",
+		"pop": "2",
+		"corner": [
+			15,
+			15
+		],
+		"title": "京王杯スプリングカップ"
+	}
+]

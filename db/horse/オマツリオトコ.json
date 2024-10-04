@@ -1,0 +1,66 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "オマツリオトコ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "永野 猛蔵",
+		"time": "1:35.1",
+		"margin": "１ 1/2",
+		"h_weight": 482,
+		"h_weight_zougen": -2,
+		"f_time": "36.5",
+		"trainer": "伊藤 圭三",
+		"pop": "12",
+		"corner": [
+			9,
+			10,
+			12
+		],
+		"title": "ニュージーランドトロフィー"
+	},
+	{
+		"rank": 6,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "オマツリオトコ",
+		"age": "牡3",
+		"weight": "56.0",
+		"jockey": "M.デムーロ",
+		"time": "1:35.7",
+		"margin": "ハナ",
+		"h_weight": 478,
+		"h_weight_zougen": -4,
+		"f_time": "36.0",
+		"trainer": "伊藤 圭三",
+		"pop": "4",
+		"corner": [
+			12,
+			13
+		],
+		"title": "ユニコーンステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "オマツリオトコ",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "石川 裕紀人",
+		"time": "1:25.6",
+		"margin": "ハナ",
+		"h_weight": 494,
+		"h_weight_zougen": 0,
+		"f_time": "36.2",
+		"trainer": "伊藤 圭三",
+		"pop": "13",
+		"corner": [
+			8,
+			10
+		],
+		"title": "根岸ステークス"
+	}
+]

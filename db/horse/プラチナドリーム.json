@@ -1,0 +1,25 @@
+[
+	{
+		"rank": 10,
+		"waku": "枠5黄",
+		"umaban": 5,
+		"horse": "プラチナドリーム",
+		"age": "牡5",
+		"weight": "60.0",
+		"jockey": "黒岩 悠",
+		"time": "3:42.1",
+		"margin": "８",
+		"h_weight": 474,
+		"h_weight_zougen": 4,
+		"f_time": "13.3",
+		"trainer": "平田 修",
+		"pop": "8",
+		"corner": [
+			9,
+			9,
+			10,
+			10
+		],
+		"title": "阪神ジャンプステークス"
+	}
+]

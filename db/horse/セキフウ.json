@@ -1,0 +1,109 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "セキフウ",
+		"age": "牡4",
+		"weight": "58.0",
+		"jockey": "M.デムーロ",
+		"time": "1:37.3",
+		"margin": "クビ",
+		"h_weight": 480,
+		"h_weight_zougen": -2,
+		"f_time": "37.9",
+		"trainer": "武 幸四郎",
+		"pop": "11",
+		"corner": [
+			4,
+			4
+		],
+		"title": "フェブラリーステークス"
+	},
+	{
+		"rank": 3,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "セキフウ",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "武 豊",
+		"time": "1:35.9",
+		"margin": "クビ",
+		"h_weight": 490,
+		"h_weight_zougen": -9,
+		"f_time": "36.4",
+		"trainer": "武 幸四郎",
+		"pop": "13",
+		"corner": [
+			14,
+			14
+		],
+		"title": "フェブラリーステークス"
+	},
+	{
+		"rank": 13,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "セキフウ",
+		"age": "牡4",
+		"weight": "56.0",
+		"jockey": "M.デムーロ",
+		"time": "1:24.8",
+		"margin": "４",
+		"h_weight": 482,
+		"h_weight_zougen": -2,
+		"f_time": "37.2",
+		"trainer": "武 幸四郎",
+		"pop": "7",
+		"corner": [
+			10,
+			11
+		],
+		"title": "根岸ステークス"
+	},
+	{
+		"rank": 1,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "セキフウ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "武 豊",
+		"time": "1:42.8",
+		"margin": "",
+		"h_weight": 488,
+		"h_weight_zougen": -2,
+		"f_time": "35.5",
+		"trainer": "武 幸四郎",
+		"pop": "6",
+		"corner": [
+			14,
+			13,
+			11,
+			9
+		],
+		"title": "エルムステークス"
+	},
+	{
+		"rank": 8,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "セキフウ",
+		"age": "牡4",
+		"weight": "57.0",
+		"jockey": "藤岡 佑介",
+		"time": "1:36.1",
+		"margin": "クビ",
+		"h_weight": 488,
+		"h_weight_zougen": 13,
+		"f_time": "36.1",
+		"trainer": "武 幸四郎",
+		"pop": "8",
+		"corner": [
+			14,
+			14
+		],
+		"title": "東京中日スポーツ杯武蔵野ステークス"
+	}
+]

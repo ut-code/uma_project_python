@@ -1,0 +1,71 @@
+[
+	{
+		"rank": 7,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "ハピ",
+		"age": "牡4",
+		"weight": "58.5",
+		"jockey": "横山 典弘",
+		"time": "1:52.0",
+		"margin": "１／２",
+		"h_weight": 468,
+		"h_weight_zougen": 2,
+		"f_time": "37.8",
+		"trainer": "大久保 龍志",
+		"pop": "2",
+		"corner": [
+			4,
+			4,
+			5,
+			5
+		],
+		"title": "マーチステークス"
+	},
+	{
+		"rank": 2,
+		"waku": "枠3赤",
+		"umaban": 6,
+		"horse": "ハピ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "菱田 裕二",
+		"time": "1:57.4",
+		"margin": "クビ",
+		"h_weight": 486,
+		"h_weight_zougen": 0,
+		"f_time": "36.4",
+		"trainer": "大久保 龍志",
+		"pop": "3",
+		"corner": [
+			8,
+			6,
+			9,
+			7
+		],
+		"title": "平安ステークス"
+	},
+	{
+		"rank": 4,
+		"waku": "枠5黄",
+		"umaban": 9,
+		"horse": "ハピ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "菱田 裕二",
+		"time": "1:43.3",
+		"margin": "クビ",
+		"h_weight": 484,
+		"h_weight_zougen": -2,
+		"f_time": "37.3",
+		"trainer": "大久保 龍志",
+		"pop": "2",
+		"corner": [
+			11,
+			11,
+			11,
+			6
+		],
+		"title": "プロキオンステークス"
+	}
+]

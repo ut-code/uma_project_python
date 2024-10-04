@@ -1,0 +1,115 @@
+[
+	{
+		"rank": 11,
+		"waku": "枠6緑",
+		"umaban": 7,
+		"horse": "グランオフィシエ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "坂井 瑠星",
+		"time": "2:00.7",
+		"margin": "クビ",
+		"h_weight": 468,
+		"h_weight_zougen": 4,
+		"f_time": "35.3",
+		"trainer": "久保田 貴士",
+		"pop": "10",
+		"corner": [
+			5,
+			4,
+			2,
+			2
+		],
+		"title": "金鯱賞"
+	},
+	{
+		"rank": 13,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "グランオフィシエ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "戸崎 圭太",
+		"time": "2:01.1",
+		"margin": "１ 1/4",
+		"h_weight": 462,
+		"h_weight_zougen": -4,
+		"f_time": "35.4",
+		"trainer": "久保田 貴士",
+		"pop": "10",
+		"corner": [
+			11,
+			13,
+			14,
+			13
+		],
+		"title": "七夕賞"
+	},
+	{
+		"rank": 11,
+		"waku": "枠2黒",
+		"umaban": 2,
+		"horse": "グランオフィシエ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "菱田 裕二",
+		"time": "1:59.6",
+		"margin": "３／４",
+		"h_weight": 470,
+		"h_weight_zougen": 8,
+		"f_time": "34.2",
+		"trainer": "久保田 貴士",
+		"pop": "11",
+		"corner": [
+			10,
+			8
+		],
+		"title": "農林水産省賞典 新潟記念"
+	},
+	{
+		"rank": 15,
+		"waku": "枠6緑",
+		"umaban": 11,
+		"horse": "グランオフィシエ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "北村 宏司",
+		"time": "2:31.0",
+		"margin": "クビ",
+		"h_weight": 466,
+		"h_weight_zougen": -4,
+		"f_time": "35.9",
+		"trainer": "久保田 貴士",
+		"pop": "9",
+		"corner": [
+			7,
+			7,
+			5,
+			5
+		],
+		"title": "アルゼンチン共和国杯"
+	},
+	{
+		"rank": 10,
+		"waku": "枠7橙",
+		"umaban": 14,
+		"horse": "グランオフィシエ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "吉田 豊",
+		"time": "3:47.4",
+		"margin": "１／２",
+		"h_weight": 466,
+		"h_weight_zougen": 0,
+		"f_time": "35.6",
+		"trainer": "久保田 貴士",
+		"pop": "13",
+		"corner": [
+			11,
+			9,
+			7,
+			7
+		],
+		"title": "スポーツニッポン賞ステイヤーズステークス"
+	}
+]

@@ -1,0 +1,113 @@
+[
+	{
+		"rank": 14,
+		"waku": "枠5黄",
+		"umaban": 8,
+		"horse": "トーラスジェミニ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "原 優介",
+		"time": "1:49.2",
+		"margin": "１／２",
+		"h_weight": 472,
+		"h_weight_zougen": 10,
+		"f_time": "36.8",
+		"trainer": "小桧山 悟",
+		"pop": "12",
+		"corner": [
+			7,
+			9,
+			8,
+			11
+		],
+		"title": "中山記念"
+	},
+	{
+		"rank": 16,
+		"waku": "枠5黄",
+		"umaban": 10,
+		"horse": "トーラスジェミニ",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "佐藤 翔馬",
+		"time": "1:37.3",
+		"margin": "大差",
+		"h_weight": 468,
+		"h_weight_zougen": -4,
+		"f_time": "36.0",
+		"trainer": "小桧山 悟",
+		"pop": "15",
+		"corner": [
+			16,
+			16,
+			16
+		],
+		"title": "ダービー卿チャレンジトロフィー"
+	},
+	{
+		"rank": 15,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "トーラスジェミニ",
+		"age": "牡7",
+		"weight": "58.0",
+		"jockey": "木幡 育也",
+		"time": "2:08.4",
+		"margin": "８",
+		"h_weight": 472,
+		"h_weight_zougen": 4,
+		"f_time": "39.7",
+		"trainer": "小桧山 悟",
+		"pop": "15",
+		"corner": [
+			13,
+			13
+		],
+		"title": "新潟大賞典"
+	},
+	{
+		"rank": 17,
+		"waku": "枠7橙",
+		"umaban": 13,
+		"horse": "トーラスジェミニ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "木幡 育也",
+		"time": "1:50.1",
+		"margin": "大差",
+		"h_weight": 458,
+		"h_weight_zougen": -14,
+		"f_time": "39.2",
+		"trainer": "小桧山 悟",
+		"pop": "17",
+		"corner": [
+			5,
+			6,
+			8
+		],
+		"title": "エプソムカップ"
+	},
+	{
+		"rank": 16,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "トーラスジェミニ",
+		"age": "牡7",
+		"weight": "57.0",
+		"jockey": "木幡 育也",
+		"time": "2:03.5",
+		"margin": "大差",
+		"h_weight": 464,
+		"h_weight_zougen": 6,
+		"f_time": "38.1",
+		"trainer": "小桧山 悟",
+		"pop": "15",
+		"corner": [
+			5,
+			4,
+			8,
+			15
+		],
+		"title": "七夕賞"
+	}
+]

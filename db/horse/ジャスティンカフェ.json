@@ -1,0 +1,131 @@
+[
+	{
+		"rank": 3,
+		"waku": "枠3赤",
+		"umaban": 5,
+		"horse": "ジャスティンカフェ",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "坂井 瑠星",
+		"time": "1:32.6",
+		"margin": "１／２",
+		"h_weight": 504,
+		"h_weight_zougen": 4,
+		"f_time": "33.6",
+		"trainer": "安田 翔伍",
+		"pop": "7",
+		"corner": [
+			9,
+			11
+		],
+		"title": "マイルチャンピオンシップ"
+	},
+	{
+		"rank": 4,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ジャスティンカフェ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "福永 祐一",
+		"time": "1:31.9",
+		"margin": "クビ",
+		"h_weight": 502,
+		"h_weight_zougen": 4,
+		"f_time": "33.3",
+		"trainer": "安田 翔伍",
+		"pop": "1",
+		"corner": [
+			12,
+			13
+		],
+		"title": "東京新聞杯"
+	},
+	{
+		"rank": 2,
+		"waku": "枠2黒",
+		"umaban": 4,
+		"horse": "ジャスティンカフェ",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "C.ルメール",
+		"time": "1:33.3",
+		"margin": "３／４",
+		"h_weight": 500,
+		"h_weight_zougen": -2,
+		"f_time": "33.4",
+		"trainer": "安田 翔伍",
+		"pop": "2",
+		"corner": [
+			9,
+			8,
+			7
+		],
+		"title": "ダービー卿チャレンジトロフィー"
+	},
+	{
+		"rank": 1,
+		"waku": "枠8桃",
+		"umaban": 15,
+		"horse": "ジャスティンカフェ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "横山 和生",
+		"time": "1:45.5",
+		"margin": "",
+		"h_weight": 504,
+		"h_weight_zougen": 4,
+		"f_time": "34.3",
+		"trainer": "安田 翔伍",
+		"pop": "1",
+		"corner": [
+			15,
+			14,
+			11
+		],
+		"title": "エプソムカップ"
+	},
+	{
+		"rank": 7,
+		"waku": "枠6緑",
+		"umaban": 8,
+		"horse": "ジャスティンカフェ",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "横山 典弘",
+		"time": "1:45.8",
+		"margin": "１／２",
+		"h_weight": 500,
+		"h_weight_zougen": -4,
+		"f_time": "33.2",
+		"trainer": "安田 翔伍",
+		"pop": "3",
+		"corner": [
+			12,
+			12,
+			12
+		],
+		"title": "毎日王冠"
+	},
+	{
+		"rank": 12,
+		"waku": "枠4青",
+		"umaban": 7,
+		"horse": "ジャスティンカフェ",
+		"age": "牡6",
+		"weight": "58.0",
+		"jockey": "坂井 瑠星",
+		"time": "1:33.2",
+		"margin": "２ 1/2",
+		"h_weight": 506,
+		"h_weight_zougen": 2,
+		"f_time": "33.8",
+		"trainer": "安田 翔伍",
+		"pop": "2",
+		"corner": [
+			13,
+			13
+		],
+		"title": "東京新聞杯"
+	}
+]

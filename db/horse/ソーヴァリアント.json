@@ -1,0 +1,178 @@
+[
+	{
+		"rank": 12,
+		"waku": "枠4青",
+		"umaban": 8,
+		"horse": "ソーヴァリアント",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "池添 謙一",
+		"time": "1:33.8",
+		"margin": "ハナ",
+		"h_weight": 498,
+		"h_weight_zougen": -6,
+		"f_time": "35.4",
+		"trainer": "大竹 正博",
+		"pop": "9",
+		"corner": [
+			3,
+			2
+		],
+		"title": "マイルチャンピオンシップ"
+	},
+	{
+		"rank": 9,
+		"waku": "枠4青",
+		"umaban": 6,
+		"horse": "ソーヴァリアント",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "横山 武史",
+		"time": "1:47.9",
+		"margin": "１ 3/4",
+		"h_weight": 518,
+		"h_weight_zougen": 12,
+		"f_time": "35.8",
+		"trainer": "大竹 正博",
+		"pop": "1",
+		"corner": [
+			5,
+			5,
+			4,
+			5
+		],
+		"title": "中山記念"
+	},
+	{
+		"rank": 12,
+		"waku": "枠8桃",
+		"umaban": 14,
+		"horse": "ソーヴァリアント",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "C.ルメール",
+		"time": "1:59.8",
+		"margin": "３／４",
+		"h_weight": 508,
+		"h_weight_zougen": -10,
+		"f_time": "36.1",
+		"trainer": "大竹 正博",
+		"pop": "1",
+		"corner": [
+			2,
+			2,
+			2,
+			3
+		],
+		"title": "鳴尾記念"
+	},
+	{
+		"rank": 3,
+		"waku": "枠1白",
+		"umaban": 1,
+		"horse": "ソーヴァリアント",
+		"age": "牡5",
+		"weight": "58.0",
+		"jockey": "C.ルメール",
+		"time": "2:02.7",
+		"margin": "３",
+		"h_weight": 508,
+		"h_weight_zougen": 0,
+		"f_time": "36.7",
+		"trainer": "大竹 正博",
+		"pop": "4",
+		"corner": [
+			10,
+			8,
+			10,
+			3
+		],
+		"title": "札幌記念"
+	},
+	{
+		"rank": 3,
+		"waku": "枠4青",
+		"umaban": 4,
+		"horse": "ソーヴァリアント",
+		"age": "牡5",
+		"weight": "57.0",
+		"jockey": "池添 謙一",
+		"time": "1:32.0",
+		"margin": "２ 1/2",
+		"h_weight": 504,
+		"h_weight_zougen": -4,
+		"f_time": "34.4",
+		"trainer": "大竹 正博",
+		"pop": "6",
+		"corner": [
+			8,
+			8
+		],
+		"title": "富士ステークス"
+	},
+	{
+		"rank": 12,
+		"waku": "枠1白",
+		"umaban": 2,
+		"horse": "ソーヴァリアント",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "武 豊",
+		"time": "1:49.4",
+		"margin": "アタマ",
+		"h_weight": 520,
+		"h_weight_zougen": 22,
+		"f_time": "37.8",
+		"trainer": "大竹 正博",
+		"pop": "5",
+		"corner": [
+			11,
+			10,
+			9,
+			6
+		],
+		"title": "中山記念"
+	},
+	{
+		"rank": 5,
+		"waku": "枠6緑",
+		"umaban": 12,
+		"horse": "ソーヴァリアント",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "池添 謙一",
+		"time": "1:33.4",
+		"margin": "１ 1/2",
+		"h_weight": 504,
+		"h_weight_zougen": -16,
+		"f_time": "35.3",
+		"trainer": "大竹 正博",
+		"pop": "7",
+		"corner": [
+			10,
+			9
+		],
+		"title": "読売マイラーズカップ"
+	},
+	{
+		"rank": 7,
+		"waku": "枠2黒",
+		"umaban": 3,
+		"horse": "ソーヴァリアント",
+		"age": "牡6",
+		"weight": "57.0",
+		"jockey": "J.モレイラ",
+		"time": "1:20.3",
+		"margin": "クビ",
+		"h_weight": 508,
+		"h_weight_zougen": 4,
+		"f_time": "33.7",
+		"trainer": "大竹 正博",
+		"pop": "5",
+		"corner": [
+			5,
+			5
+		],
+		"title": "京王杯スプリングカップ"
+	}
+]
