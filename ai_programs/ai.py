@@ -34,7 +34,7 @@ class AiClient:
             data["title"] = datas["title"]
             all_data.append(data)
 
-        combined_data = pd.concat([pd.DataFrame(data) for data in all_data], ignore_index=True)
+        combined_data = pd.concat([pd.DataFrame(all_data)], ignore_index=True)
 
         features_scaled, _ = self.preprocess_data(combined_data)
 
@@ -48,7 +48,14 @@ class AiClient:
             rank = int(row["predicted_rank"])
             result[horse] = rank
 
-        return result
+        all_horse_data = []
+        for name in result:
+            all_horse_data.append({
+                "name": name,
+                "rank": result[name]
+            })
+
+        return sorted(all_horse_data, key=lambda x: x["rank"])
     def createModel(self):
         files = os.listdir(os.path.join(self.parent_dir, "db\jra\\"))
         jsons = self.preprocess_jsons(files)
@@ -79,15 +86,13 @@ class AiClient:
         horse_data = {}
 
         horse_infos = data.copy()
-        horse_infos["time"] = horse_infos["time"].apply(self.convert_time_to_seconds)
-        horse_info_list = ["horse", "age", "jockey", "pop", "title", "weight", "h_weight", "f_time"]
+        horse_info_list = ["horse", "age", "jockey", "pop", "title", "weight", "h_weight"]
 
         for column in ["horse", "age", "jockey", "pop", "title"]:
             horse_infos[column] = self.LabelEncode(horse_infos[column])
 
         horse_infos["weight"] = horse_infos["weight"].astype(float)
         horse_infos["h_weight"] = horse_infos["h_weight"].astype(float)
-        horse_infos["f_time"] = horse_infos["f_time"].astype(float)
 
         for column in horse_info_list:
             horse_infos[column].dropna(inplace=True)
