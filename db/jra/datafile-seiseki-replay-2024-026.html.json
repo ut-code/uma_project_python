@@ -1,6 +1,11 @@
 {
 	"title": "阪神スプリングジャンプ",
-	"course": "コース:3,900メートル（芝）",
+	"course": {
+		"distance": 3900,
+		"surface": "芝",
+		"direction": null,
+		"position": null
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/026.html",
 	"horse": [
 		{

@@ -1,6 +1,11 @@
 {
 	"title": "京都ハイジャンプ",
-	"course": "コース:3,930メートル（芝）",
+	"course": {
+		"distance": 3930,
+		"surface": "芝",
+		"direction": null,
+		"position": null
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/049.html",
 	"horse": [
 		{

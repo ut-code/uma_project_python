@@ -1,6 +1,11 @@
 {
 	"title": "フェブラリーステークス",
-	"course": "コース:1,600メートル（ダート・左）",
+	"course": {
+		"distance": 1600,
+		"surface": "ダート",
+		"direction": "左",
+		"position": null
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/g1/feb/result/feb2024.html",
 	"horse": [
 		{

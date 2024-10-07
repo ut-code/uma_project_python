@@ -1,6 +1,11 @@
 {
 	"title": "産経賞セントウルステークス",
-	"course": "コース:1,200メートル（芝・左）",
+	"course": {
+		"distance": 1200,
+		"surface": "芝",
+		"direction": "左",
+		"position": null
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/082.html",
 	"horse": [
 		{

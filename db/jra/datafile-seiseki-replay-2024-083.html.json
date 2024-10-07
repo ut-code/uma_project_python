@@ -1,6 +1,11 @@
 {
 	"title": "阪神ジャンプステークス",
-	"course": "コース:3,330メートル（芝）",
+	"course": {
+		"distance": 3330,
+		"surface": "芝",
+		"direction": null,
+		"position": null
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/083.html",
 	"horse": [
 		{

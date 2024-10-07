@@ -1,6 +1,11 @@
 {
 	"title": "プロキオンステークス",
-	"course": "コース:1,700メートル（ダート・右）",
+	"course": {
+		"distance": 1700,
+		"surface": "ダート",
+		"direction": "右",
+		"position": null
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/061.html",
 	"horse": [
 		{

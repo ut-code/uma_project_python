@@ -1,6 +1,11 @@
 {
 	"title": "小倉サマージャンプ",
-	"course": "コース:3,300メートル（芝）",
+	"course": {
+		"distance": 3300,
+		"surface": "芝",
+		"direction": null,
+		"position": null
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/074.html",
 	"horse": [
 		{

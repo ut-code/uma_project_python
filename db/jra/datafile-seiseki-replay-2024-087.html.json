@@ -1,0 +1,320 @@
+{
+	"title": "神戸新聞杯",
+	"course": {
+		"distance": 2200,
+		"surface": "芝",
+		"direction": "左",
+		"position": null
+	},
+	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/087.html",
+	"horse": [
+		{
+			"rank": 1,
+			"waku": "枠8桃",
+			"umaban": 15,
+			"horse": "メイショウタバル",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "浜中 俊",
+			"time": "2:11.8",
+			"margin": "",
+			"h_weight": 496,
+			"h_weight_zougen": -4,
+			"f_time": "36.0",
+			"trainer": "石橋 守",
+			"pop": "2",
+			"corner": [
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"rank": 2,
+			"waku": "枠1白",
+			"umaban": 1,
+			"horse": "ジューンテイク",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "藤岡 佑介",
+			"time": "2:11.9",
+			"margin": "１／２",
+			"h_weight": 496,
+			"h_weight_zougen": 12,
+			"f_time": "35.4",
+			"trainer": "武 英智",
+			"pop": "3",
+			"corner": [
+				3,
+				3,
+				2,
+				2
+			]
+		},
+		{
+			"rank": 3,
+			"waku": "枠6緑",
+			"umaban": 11,
+			"horse": "ショウナンラプンタ",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "鮫島 克駿",
+			"time": "2:12.2",
+			"margin": "２",
+			"h_weight": 530,
+			"h_weight_zougen": -6,
+			"f_time": "35.2",
+			"trainer": "高野 友和",
+			"pop": "4",
+			"corner": [
+				11,
+				11,
+				9,
+				6
+			]
+		},
+		{
+			"rank": 4,
+			"waku": "枠3赤",
+			"umaban": 5,
+			"horse": "オールセインツ",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "坂井 瑠星",
+			"time": "2:12.5",
+			"margin": "１ 3/4",
+			"h_weight": 486,
+			"h_weight_zougen": -6,
+			"f_time": "35.1",
+			"trainer": "友道 康夫",
+			"pop": "6",
+			"corner": [
+				9,
+				9,
+				9,
+				10
+			]
+		},
+		{
+			"rank": 5,
+			"waku": "枠4青",
+			"umaban": 6,
+			"horse": "メリオーレム",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "川田 将雅",
+			"time": "2:12.6",
+			"margin": "クビ",
+			"h_weight": 486,
+			"h_weight_zougen": 2,
+			"f_time": "35.5",
+			"trainer": "友道 康夫",
+			"pop": "1",
+			"corner": [
+				6,
+				5,
+				7,
+				8
+			]
+		},
+		{
+			"rank": 6,
+			"waku": "枠8桃",
+			"umaban": 14,
+			"horse": "ビザンチンドリーム",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "幸 英明",
+			"time": "2:12.9",
+			"margin": "２",
+			"h_weight": 458,
+			"h_weight_zougen": 0,
+			"f_time": "35.4",
+			"trainer": "坂口 智康",
+			"pop": "9",
+			"corner": [
+				12,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"rank": 7,
+			"waku": "枠2黒",
+			"umaban": 2,
+			"horse": "バッデレイト",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "岩田 望来",
+			"time": "2:13.0",
+			"margin": "３／４",
+			"h_weight": 468,
+			"h_weight_zougen": 2,
+			"f_time": "36.2",
+			"trainer": "上村 洋行",
+			"pop": "7",
+			"corner": [
+				8,
+				8,
+				5,
+				3
+			]
+		},
+		{
+			"rank": 8,
+			"waku": "枠5黄",
+			"umaban": 8,
+			"horse": "ヤマニンステラータ",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "M.デムーロ",
+			"time": "2:13.1",
+			"margin": "クビ",
+			"h_weight": 470,
+			"h_weight_zougen": 4,
+			"f_time": "35.4",
+			"trainer": "松永 幹夫",
+			"pop": "12",
+			"corner": [
+				14,
+				14,
+				14,
+				14
+			]
+		},
+		{
+			"rank": 9,
+			"waku": "枠4青",
+			"umaban": 7,
+			"horse": "ヴィレム",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "松山 弘平",
+			"time": "2:13.3",
+			"margin": "１ 1/2",
+			"h_weight": 506,
+			"h_weight_zougen": -4,
+			"f_time": "36.3",
+			"trainer": "藤原 英昭",
+			"pop": "10",
+			"corner": [
+				5,
+				5,
+				5,
+				6
+			]
+		},
+		{
+			"rank": 10,
+			"waku": "枠6緑",
+			"umaban": 10,
+			"horse": "ミスタージーティー",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "北村 友一",
+			"time": "2:13.4",
+			"margin": "クビ",
+			"h_weight": 472,
+			"h_weight_zougen": 12,
+			"f_time": "36.2",
+			"trainer": "矢作 芳人",
+			"pop": "8",
+			"corner": [
+				6,
+				5,
+				7,
+				8
+			]
+		},
+		{
+			"rank": 11,
+			"waku": "枠7橙",
+			"umaban": 12,
+			"horse": "ウエストナウ",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "西村 淳也",
+			"time": "2:13.4",
+			"margin": "アタマ",
+			"h_weight": 492,
+			"h_weight_zougen": 18,
+			"f_time": "36.0",
+			"trainer": "佐々木 晶三",
+			"pop": "5",
+			"corner": [
+				9,
+				9,
+				9,
+				10
+			]
+		},
+		{
+			"rank": 12,
+			"waku": "枠5黄",
+			"umaban": 9,
+			"horse": "トラストボス",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "富田 暁",
+			"time": "2:13.5",
+			"margin": "３／４",
+			"h_weight": 424,
+			"h_weight_zougen": 4,
+			"f_time": "36.1",
+			"trainer": "高橋 文雅",
+			"pop": "14",
+			"corner": [
+				13,
+				13,
+				12,
+				10
+			]
+		},
+		{
+			"rank": 13,
+			"waku": "枠2黒",
+			"umaban": 3,
+			"horse": "ゴージョニーゴー",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "横山 和生",
+			"time": "2:13.8",
+			"margin": "２",
+			"h_weight": 514,
+			"h_weight_zougen": -2,
+			"f_time": "36.9",
+			"trainer": "四位 洋文",
+			"pop": "11",
+			"corner": [
+				3,
+				3,
+				4,
+				3
+			]
+		},
+		{
+			"rank": 14,
+			"waku": "枠7橙",
+			"umaban": 13,
+			"horse": "インテグレイト",
+			"age": "牡3",
+			"weight": "57.0",
+			"jockey": "荻野 極",
+			"time": "2:13.9",
+			"margin": "１／２",
+			"h_weight": 514,
+			"h_weight_zougen": 4,
+			"f_time": "37.1",
+			"trainer": "四位 洋文",
+			"pop": "13",
+			"corner": [
+				2,
+				2,
+				2,
+				3
+			]
+		}
+	]
+}

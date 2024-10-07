@@ -1,0 +1,254 @@
+{
+	"title": "農林水産省賞典 京都大賞典",
+	"course": {
+		"distance": 2400,
+		"surface": "芝",
+		"direction": "右",
+		"position": "外"
+	},
+	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/091.html",
+	"horse": [
+		{
+			"rank": 1,
+			"waku": "枠4青",
+			"umaban": 4,
+			"horse": "シュヴァリエローズ",
+			"age": "牡6",
+			"weight": "57.0",
+			"jockey": "北村 友一",
+			"time": "2:22.9",
+			"margin": "",
+			"h_weight": 468,
+			"h_weight_zougen": 10,
+			"f_time": "34.2",
+			"trainer": "清水 久詞",
+			"pop": "8",
+			"corner": [
+				6,
+				6,
+				5,
+				5
+			]
+		},
+		{
+			"rank": 2,
+			"waku": "枠6緑",
+			"umaban": 7,
+			"horse": "ディープボンド",
+			"age": "牡7",
+			"weight": "57.0",
+			"jockey": "幸 英明",
+			"time": "2:22.9",
+			"margin": "アタマ",
+			"h_weight": 516,
+			"h_weight_zougen": 8,
+			"f_time": "34.8",
+			"trainer": "大久保 龍志",
+			"pop": "4",
+			"corner": [
+				4,
+				4,
+				3,
+				2
+			]
+		},
+		{
+			"rank": 3,
+			"waku": "枠3赤",
+			"umaban": 3,
+			"horse": "メイショウブレゲ",
+			"age": "牡5",
+			"weight": "57.0",
+			"jockey": "酒井 学",
+			"time": "2:23.0",
+			"margin": "３／４",
+			"h_weight": 474,
+			"h_weight_zougen": 6,
+			"f_time": "34.1",
+			"trainer": "本田 優",
+			"pop": "11",
+			"corner": [
+				8,
+				8,
+				8,
+				8
+			]
+		},
+		{
+			"rank": 4,
+			"waku": "枠6緑",
+			"umaban": 6,
+			"horse": "スマートファントム",
+			"age": "牡4",
+			"weight": "57.0",
+			"jockey": "藤岡 佑介",
+			"time": "2:23.1",
+			"margin": "１／２",
+			"h_weight": 476,
+			"h_weight_zougen": 8,
+			"f_time": "33.9",
+			"trainer": "石橋 守",
+			"pop": "5",
+			"corner": [
+				11,
+				11,
+				10,
+				10
+			]
+		},
+		{
+			"rank": 5,
+			"waku": "枠1白",
+			"umaban": 1,
+			"horse": "サトノグランツ",
+			"age": "牡4",
+			"weight": "57.0",
+			"jockey": "川田 将雅",
+			"time": "2:23.2",
+			"margin": "クビ",
+			"h_weight": 506,
+			"h_weight_zougen": 8,
+			"f_time": "34.5",
+			"trainer": "友道 康夫",
+			"pop": "2",
+			"corner": [
+				6,
+				7,
+				5,
+				5
+			]
+		},
+		{
+			"rank": 6,
+			"waku": "枠7橙",
+			"umaban": 9,
+			"horse": "ドクタードリトル",
+			"age": "牡4",
+			"weight": "57.0",
+			"jockey": "松山 弘平",
+			"time": "2:23.2",
+			"margin": "クビ",
+			"h_weight": 462,
+			"h_weight_zougen": 2,
+			"f_time": "34.3",
+			"trainer": "今野 貞一",
+			"pop": "6",
+			"corner": [
+				8,
+				8,
+				8,
+				8
+			]
+		},
+		{
+			"rank": 7,
+			"waku": "枠7橙",
+			"umaban": 8,
+			"horse": "プラダリア",
+			"age": "牡5",
+			"weight": "58.0",
+			"jockey": "池添 謙一",
+			"time": "2:23.3",
+			"margin": "３／４",
+			"h_weight": 470,
+			"h_weight_zougen": 2,
+			"f_time": "34.9",
+			"trainer": "池添 学",
+			"pop": "3",
+			"corner": [
+				3,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"rank": 8,
+			"waku": "枠8桃",
+			"umaban": 10,
+			"horse": "バビット",
+			"age": "牡7",
+			"weight": "57.0",
+			"jockey": "団野 大成",
+			"time": "2:23.4",
+			"margin": "クビ",
+			"h_weight": 470,
+			"h_weight_zougen": 10,
+			"f_time": "35.5",
+			"trainer": "浜田 多実雄",
+			"pop": "10",
+			"corner": [
+				2,
+				2,
+				2,
+				1
+			]
+		},
+		{
+			"rank": 9,
+			"waku": "枠5黄",
+			"umaban": 5,
+			"horse": "ジューンアヲニヨシ",
+			"age": "牡4",
+			"weight": "57.0",
+			"jockey": "田口 貫太",
+			"time": "2:23.8",
+			"margin": "２ 1/2",
+			"h_weight": 486,
+			"h_weight_zougen": -12,
+			"f_time": "35.1",
+			"trainer": "松下 武士",
+			"pop": "7",
+			"corner": [
+				4,
+				5,
+				5,
+				5
+			]
+		},
+		{
+			"rank": 10,
+			"waku": "枠2黒",
+			"umaban": 2,
+			"horse": "ケイアイサンデラ",
+			"age": "牡4",
+			"weight": "57.0",
+			"jockey": "藤懸 貴志",
+			"time": "2:24.9",
+			"margin": "７",
+			"h_weight": 444,
+			"h_weight_zougen": 4,
+			"f_time": "37.0",
+			"trainer": "小林 真也",
+			"pop": "9",
+			"corner": [
+				1,
+				1,
+				1,
+				2
+			]
+		},
+		{
+			"rank": 11,
+			"waku": "枠8桃",
+			"umaban": 11,
+			"horse": "ブローザホーン",
+			"age": "牡5",
+			"weight": "59.0",
+			"jockey": "菅原 明良",
+			"time": "2:25.3",
+			"margin": "２ 1/2",
+			"h_weight": 426,
+			"h_weight_zougen": -2,
+			"f_time": "35.9",
+			"trainer": "吉岡 辰弥",
+			"pop": "1",
+			"corner": [
+				10,
+				10,
+				10,
+				11
+			]
+		}
+	]
+}

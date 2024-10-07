@@ -1,6 +1,11 @@
 {
 	"title": "シリウスステークス",
-	"course": "コース:2,000メートル（ダート・右）",
+	"course": {
+		"distance": 2000,
+		"surface": "ダート",
+		"direction": "右",
+		"position": null
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2023/088.html",
 	"horse": [
 		{

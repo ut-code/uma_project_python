@@ -1,6 +1,11 @@
 {
 	"title": "MBS賞スワンステークス",
-	"course": "コース:1,400メートル（芝・右 外）",
+	"course": {
+		"distance": 1400,
+		"surface": "芝",
+		"direction": "右",
+		"position": "外"
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2023/096.html",
 	"horse": [
 		{

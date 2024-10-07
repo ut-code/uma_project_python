@@ -1,6 +1,11 @@
 {
 	"title": "京都ジャンプステークス",
-	"course": "コース:3,170メートル（芝 内外）",
+	"course": {
+		"distance": 3170,
+		"surface": "芝",
+		"direction": null,
+		"position": "内外"
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2023/102.html",
 	"horse": [
 		{

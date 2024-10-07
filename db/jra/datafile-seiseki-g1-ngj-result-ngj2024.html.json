@@ -1,6 +1,11 @@
 {
 	"title": "中山グランドジャンプ",
-	"course": "コース:4,250メートル（芝 外）",
+	"course": {
+		"distance": 4250,
+		"surface": "芝",
+		"direction": null,
+		"position": "外"
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/g1/ngj/result/ngj2024.html",
 	"horse": [
 		{

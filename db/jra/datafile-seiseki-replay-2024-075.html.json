@@ -1,6 +1,11 @@
 {
 	"title": "新潟2歳ステークス",
-	"course": "コース:1,600メートル（芝・左 外）",
+	"course": {
+		"distance": 1600,
+		"surface": "芝",
+		"direction": "左",
+		"position": "外"
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/075.html",
 	"horse": [
 		{

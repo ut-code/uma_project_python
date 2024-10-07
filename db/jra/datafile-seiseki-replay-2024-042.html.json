@@ -1,6 +1,11 @@
 {
 	"title": "サンケイスポーツ賞フローラステークス",
-	"course": "コース:2,000メートル（芝・左）",
+	"course": {
+		"distance": 2000,
+		"surface": "芝",
+		"direction": "左",
+		"position": null
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/042.html",
 	"horse": [
 		{

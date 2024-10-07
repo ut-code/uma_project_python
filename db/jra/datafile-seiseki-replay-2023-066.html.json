@@ -1,6 +1,11 @@
 {
 	"title": "アイビスサマーダッシュ",
-	"course": "コース:1,000メートル（芝・直）",
+	"course": {
+		"distance": 1000,
+		"surface": "芝",
+		"direction": "直",
+		"position": null
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2023/066.html",
 	"horse": [
 		{

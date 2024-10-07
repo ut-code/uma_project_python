@@ -32,13 +32,51 @@ type uma_info = {
 
 type race_json = {
     title: string
-    course: string
+    course: {
+        distance: number
+        surface: string
+        direction: string | null
+        position: string | null
+    }
     url: string
     horse: uma_info[]
 }
 
 class ScrapingClient {
     constructor() {
+    }
+    extractCourseInfo(input: string) {
+        const regex = /(\d{1,3}(?:,\d{3})*)メートル（(芝|ダート)(?:・(右|左|直))?(?: (外|内|内2周))?）/
+        const otherRegex = /(\d{1,3}(?:,\d{3})*)メートル（(芝|ダート) (外内|内外)）/
+    
+        const match = input.match(regex)
+        const otherMatch = input.match(otherRegex)
+    
+        if (match) {
+            const distance = Number(match[1].replace(/,/g, ""))
+            const surface = match[2]
+            const direction = match[3] ? match[3] : null
+            const position = match[4] ? match[4] : null
+            return {
+                distance,
+                surface,
+                direction,
+                position,
+            }
+        }
+        if (otherMatch) {
+            const distance = Number(otherMatch[1].replace(/,/g, ""))
+            const surface = otherMatch[2]
+            const position = otherMatch[3]
+            return {
+                distance,
+                surface,
+                direction: null,
+                position,
+            }
+        }
+        
+        return null;
     }
     async race(options: raceOption) {
         await this.jra()
@@ -233,7 +271,7 @@ class ScrapingClient {
             const title = dom.window.document.querySelector("#race_result > div > table > caption > div.race_header > div > div.race_title > div > div.txt > h2 > span > span.race_name")
             const course = dom.window.document.querySelector("#race_result > div > table > caption > div.race_header > div > div.race_title > div > div.txt > div > div.cell.course")
             const trs = dom.window.document.querySelectorAll("#race_result > div > table > tbody > tr")
-    
+
             if (!title) {
                 return null
             }
@@ -246,10 +284,15 @@ class ScrapingClient {
             if (!course.textContent) {
                 return null
             }
-    
+
+            const course_data = this.extractCourseInfo(half_width.replace(course.textContent.replaceAll("\\n", "").trim()))
+            if (!course_data) {
+                return null
+            }
+
             let race_data = {
                 title: title.childNodes[0].textContent,
-                course: half_width.replace(course.textContent.replaceAll("\\n", "").trim()),
+                course: course_data,
                 url: url,
                 horse: []
             } as race_json

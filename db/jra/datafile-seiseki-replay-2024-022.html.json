@@ -1,6 +1,11 @@
 {
 	"title": "夕刊フジ賞オーシャンステークス",
-	"course": "コース:1,200メートル（芝・右 外）",
+	"course": {
+		"distance": 1200,
+		"surface": "芝",
+		"direction": "右",
+		"position": "外"
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/022.html",
 	"horse": [
 		{

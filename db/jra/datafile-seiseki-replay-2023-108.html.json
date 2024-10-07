@@ -1,6 +1,11 @@
 {
 	"title": "スポーツニッポン賞ステイヤーズステークス",
-	"course": "コース:3,600メートル（芝・右 内2周）",
+	"course": {
+		"distance": 3600,
+		"surface": "芝",
+		"direction": "右",
+		"position": "内2周"
+	},
 	"url": "https://www.jra.go.jp/datafile/seiseki/replay/2023/108.html",
 	"horse": [
 		{
