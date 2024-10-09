@@ -4,10 +4,15 @@ from ai_programs.ai import AiClient
 
 
 def main():
-    ai = AiClient("v2")
+    ai = AiClient("v4")
     predictions = ai.prediction_rank({
         "title": "サウジアラビアロイヤルカップ",
-        "course": "コース:1,600メートル（芝・右 外）",
+        "course": {
+            "distance": 1600,
+            "surface": "芝",
+            "direction": "右",
+            "position": "外"
+        },
         "url": "https://www.jra.go.jp/datafile/seiseki/g1/afs/result/afs2023.html",
         "horse": [
             {

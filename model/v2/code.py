@@ -33,9 +33,6 @@ class AiClient:
         for data in datas["horse"]:
             data["title"] = datas["title"]
             data["track"] = datas["course"]["distance"]
-            data["surface"] = datas["course"]["surface"]
-            data["direction"] = datas["course"]["direction"]
-            data["position"] = datas["course"]["position"]
             all_data.append(data)
 
         combined_data = pd.concat([pd.DataFrame(all_data)], ignore_index=True)
@@ -84,9 +81,6 @@ class AiClient:
             for data in datas["horse"]:
                 data["title"] = datas["title"]
                 data["track"] = datas["course"]["distance"]
-                data["surface"] = datas["course"]["surface"]
-                data["direction"] = datas["course"]["direction"]
-                data["position"] = datas["course"]["position"]
                 all_data.append(data)
 
         return all_data
@@ -94,9 +88,9 @@ class AiClient:
         horse_data = {}
 
         horse_infos = data.copy()
-        horse_info_list = ["horse", "age", "jockey", "pop", "title", "weight", "h_weight", "track", "surface", "direction", "position"]
+        horse_info_list = ["horse", "age", "jockey", "pop", "title", "weight", "h_weight", "track"]
 
-        for column in ["horse", "age", "jockey", "pop", "title", "surface", "direction", "position"]:
+        for column in ["horse", "age", "jockey", "pop", "title"]:
             horse_infos[column] = self.LabelEncode(horse_infos[column])
 
         horse_infos["weight"] = horse_infos["weight"].astype(float)
