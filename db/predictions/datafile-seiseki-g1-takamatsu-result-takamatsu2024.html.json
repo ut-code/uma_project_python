@@ -1,0 +1,78 @@
+{
+    "title": "高松宮記念",
+    "url": "https://www.jra.go.jp/datafile/seiseki/g1/takamatsu/result/takamatsu2024.html",
+    "horse": [
+        {
+            "name": "テイエムスパーダ",
+            "rank": 1
+        },
+        {
+            "name": "ソーダズリング",
+            "rank": 2
+        },
+        {
+            "name": "ディヴィーナ",
+            "rank": 3
+        },
+        {
+            "name": "ママコチャ",
+            "rank": 4
+        },
+        {
+            "name": "トウシンマカオ",
+            "rank": 5
+        },
+        {
+            "name": "ナムラクレア",
+            "rank": 6
+        },
+        {
+            "name": "シャンパンカラー",
+            "rank": 7
+        },
+        {
+            "name": "ビクターザウィナー",
+            "rank": 8
+        },
+        {
+            "name": "ビッグシーザー",
+            "rank": 9
+        },
+        {
+            "name": "ウインマーベル",
+            "rank": 10
+        },
+        {
+            "name": "ロータスランド",
+            "rank": 11
+        },
+        {
+            "name": "メイケイエール",
+            "rank": 12
+        },
+        {
+            "name": "ウインカーネリアン",
+            "rank": 13
+        },
+        {
+            "name": "マッドクール",
+            "rank": 14
+        },
+        {
+            "name": "マテンロウオリオン",
+            "rank": 15
+        },
+        {
+            "name": "モズメイメイ",
+            "rank": 16
+        },
+        {
+            "name": "シュバルツカイザー",
+            "rank": 17
+        },
+        {
+            "name": "ルガル",
+            "rank": 18
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "title": "宝塚記念",
+    "url": "https://www.jra.go.jp/datafile/seiseki/g1/takara/result/takara2024.html",
+    "horse": [
+        {
+            "name": "ジャスティンパレス",
+            "rank": 1
+        },
+        {
+            "name": "シュトルーヴェ",
+            "rank": 2
+        },
+        {
+            "name": "ヤマニンサンパ",
+            "rank": 3
+        },
+        {
+            "name": "ディープボンド",
+            "rank": 4
+        },
+        {
+            "name": "ソールオリエンス",
+            "rank": 5
+        },
+        {
+            "name": "ヒートオンビート",
+            "rank": 6
+        },
+        {
+            "name": "ベラジオオペラ",
+            "rank": 7
+        },
+        {
+            "name": "ルージュエヴァイユ",
+            "rank": 8
+        },
+        {
+            "name": "ローシャムパーク",
+            "rank": 9
+        },
+        {
+            "name": "プラダリア",
+            "rank": 10
+        },
+        {
+            "name": "カラテ",
+            "rank": 11
+        },
+        {
+            "name": "ドウデュース",
+            "rank": 12
+        },
+        {
+            "name": "ブローザホーン",
+            "rank": 13
+        }
+    ]
+}

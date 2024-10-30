@@ -1,0 +1,70 @@
+{
+    "title": "ヴィクトリアマイル",
+    "url": "https://www.jra.go.jp/datafile/seiseki/g1/victoria/result/victoria2023.html",
+    "horse": [
+        {
+            "name": "アンドヴァラナウト",
+            "rank": 1
+        },
+        {
+            "name": "ソダシ",
+            "rank": 2
+        },
+        {
+            "name": "スタニングローズ",
+            "rank": 3
+        },
+        {
+            "name": "スターズオンアース",
+            "rank": 4
+        },
+        {
+            "name": "ディヴィーナ",
+            "rank": 5
+        },
+        {
+            "name": "ルージュスティリア",
+            "rank": 6
+        },
+        {
+            "name": "サブライムアンセム",
+            "rank": 7
+        },
+        {
+            "name": "ソングライン",
+            "rank": 8
+        },
+        {
+            "name": "ステラリア",
+            "rank": 9
+        },
+        {
+            "name": "イズジョーノキセキ",
+            "rank": 10
+        },
+        {
+            "name": "サウンドビバーチェ",
+            "rank": 11
+        },
+        {
+            "name": "クリノプレミアム",
+            "rank": 12
+        },
+        {
+            "name": "ナミュール",
+            "rank": 13
+        },
+        {
+            "name": "ララクリスティーヌ",
+            "rank": 14
+        },
+        {
+            "name": "ナムラクレア",
+            "rank": 15
+        },
+        {
+            "name": "ロータスランド",
+            "rank": 16
+        }
+    ]
+}

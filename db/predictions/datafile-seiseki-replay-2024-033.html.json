@@ -1,0 +1,46 @@
+{
+    "title": "日経賞",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/033.html",
+    "horse": [
+        {
+            "name": "アドマイヤハレー",
+            "rank": 1
+        },
+        {
+            "name": "ウインエアフォルク",
+            "rank": 2
+        },
+        {
+            "name": "ホウオウリアリティ",
+            "rank": 3
+        },
+        {
+            "name": "サザンナイツ",
+            "rank": 4
+        },
+        {
+            "name": "クロミナンス",
+            "rank": 5
+        },
+        {
+            "name": "マテンロウレオ",
+            "rank": 6
+        },
+        {
+            "name": "マイネルウィルトス",
+            "rank": 7
+        },
+        {
+            "name": "シュトルーヴェ",
+            "rank": 8
+        },
+        {
+            "name": "ボッケリーニ",
+            "rank": 9
+        },
+        {
+            "name": "ヒートオンビート",
+            "rank": 10
+        }
+    ]
+}

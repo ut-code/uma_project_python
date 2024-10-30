@@ -1,0 +1,46 @@
+{
+    "title": "中山グランドジャンプ",
+    "url": "https://www.jra.go.jp/datafile/seiseki/g1/ngj/result/ngj2024.html",
+    "horse": [
+        {
+            "name": "エコロデュエル",
+            "rank": 1
+        },
+        {
+            "name": "フロールシュタット",
+            "rank": 2
+        },
+        {
+            "name": "ジューンベロシティ",
+            "rank": 3
+        },
+        {
+            "name": "ビレッジイーグル",
+            "rank": 4
+        },
+        {
+            "name": "ニシノデイジー",
+            "rank": 5
+        },
+        {
+            "name": "ギガバッケン",
+            "rank": 6
+        },
+        {
+            "name": "ダイシンクローバー",
+            "rank": 7
+        },
+        {
+            "name": "ワンダークローバー",
+            "rank": 8
+        },
+        {
+            "name": "マイネルグロン",
+            "rank": 9
+        },
+        {
+            "name": "イロゴトシ",
+            "rank": 10
+        }
+    ]
+}

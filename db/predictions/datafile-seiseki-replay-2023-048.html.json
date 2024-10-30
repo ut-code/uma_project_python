@@ -1,0 +1,38 @@
+{
+    "title": "京都ハイジャンプ",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2023/048.html",
+    "horse": [
+        {
+            "name": "トライフォーリアル",
+            "rank": 1
+        },
+        {
+            "name": "ザメイダン",
+            "rank": 2
+        },
+        {
+            "name": "ダイシンクローバー",
+            "rank": 3
+        },
+        {
+            "name": "ポルタフォリオ",
+            "rank": 4
+        },
+        {
+            "name": "セデックカズマ",
+            "rank": 5
+        },
+        {
+            "name": "メイショウアツイタ",
+            "rank": 6
+        },
+        {
+            "name": "リアム",
+            "rank": 7
+        },
+        {
+            "name": "ホッコーハナミチ",
+            "rank": 8
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "日刊スポーツ賞シンザン記念",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2023/003.html",
+    "horse": [
+        {
+            "name": "サンライズピース",
+            "rank": 1
+        },
+        {
+            "name": "クファシル",
+            "rank": 2
+        },
+        {
+            "name": "ペースセッティング",
+            "rank": 3
+        },
+        {
+            "name": "シンゼンイズモ",
+            "rank": 4
+        },
+        {
+            "name": "トーホウガレオン",
+            "rank": 5
+        },
+        {
+            "name": "スズカダブル",
+            "rank": 6
+        },
+        {
+            "name": "ライトクオンタム",
+            "rank": 7
+        }
+    ]
+}

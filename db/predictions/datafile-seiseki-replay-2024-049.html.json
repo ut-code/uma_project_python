@@ -1,0 +1,46 @@
+{
+    "title": "京都ハイジャンプ",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/049.html",
+    "horse": [
+        {
+            "name": "サンデイビス",
+            "rank": 1
+        },
+        {
+            "name": "トライフォーリアル",
+            "rank": 2
+        },
+        {
+            "name": "アサクサゲンキ",
+            "rank": 3
+        },
+        {
+            "name": "ラジェドール",
+            "rank": 4
+        },
+        {
+            "name": "メイショウハチク",
+            "rank": 5
+        },
+        {
+            "name": "サクセッション",
+            "rank": 6
+        },
+        {
+            "name": "メイショウアツイタ",
+            "rank": 7
+        },
+        {
+            "name": "スワヤンブナート",
+            "rank": 8
+        },
+        {
+            "name": "ザメイダン",
+            "rank": 9
+        },
+        {
+            "name": "ヴァリアメンテ",
+            "rank": 10
+        }
+    ]
+}

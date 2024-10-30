@@ -1,0 +1,66 @@
+{
+    "title": "ヴィクトリアマイル",
+    "url": "https://www.jra.go.jp/datafile/seiseki/g1/victoria/result/victoria2024.html",
+    "horse": [
+        {
+            "name": "キタウイング",
+            "rank": 1
+        },
+        {
+            "name": "コンクシェル",
+            "rank": 2
+        },
+        {
+            "name": "マスクトディーヴァ",
+            "rank": 3
+        },
+        {
+            "name": "ライラック",
+            "rank": 4
+        },
+        {
+            "name": "ウンブライル",
+            "rank": 5
+        },
+        {
+            "name": "モリアーナ",
+            "rank": 6
+        },
+        {
+            "name": "ナミュール",
+            "rank": 7
+        },
+        {
+            "name": "ハーパー",
+            "rank": 8
+        },
+        {
+            "name": "フィアスプライド",
+            "rank": 9
+        },
+        {
+            "name": "フィールシンパシー",
+            "rank": 10
+        },
+        {
+            "name": "サウンドビバーチェ",
+            "rank": 11
+        },
+        {
+            "name": "ルージュリナージュ",
+            "rank": 12
+        },
+        {
+            "name": "スタニングローズ",
+            "rank": 13
+        },
+        {
+            "name": "ドゥアイズ",
+            "rank": 14
+        },
+        {
+            "name": "テンハッピーローズ",
+            "rank": 15
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "きさらぎ賞",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2023/013.html",
+    "horse": [
+        {
+            "name": "クールミラボー",
+            "rank": 1
+        },
+        {
+            "name": "シェイクユアハート",
+            "rank": 2
+        },
+        {
+            "name": "オープンファイア",
+            "rank": 3
+        },
+        {
+            "name": "トーセントラム",
+            "rank": 4
+        },
+        {
+            "name": "フリームファクシ",
+            "rank": 5
+        },
+        {
+            "name": "レミージュ",
+            "rank": 6
+        },
+        {
+            "name": "ロゼル",
+            "rank": 7
+        }
+    ]
+}

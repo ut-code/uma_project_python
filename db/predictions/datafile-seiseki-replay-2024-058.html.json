@@ -1,0 +1,54 @@
+{
+    "title": "ラジオNIKKEI賞",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/058.html",
+    "horse": [
+        {
+            "name": "シリウスコルト",
+            "rank": 1
+        },
+        {
+            "name": "ウインマクシマム",
+            "rank": 2
+        },
+        {
+            "name": "アレグロブリランテ",
+            "rank": 3
+        },
+        {
+            "name": "ログラール",
+            "rank": 4
+        },
+        {
+            "name": "ヤマニンアドホック",
+            "rank": 5
+        },
+        {
+            "name": "オフトレイル",
+            "rank": 6
+        },
+        {
+            "name": "ジュンゴールド",
+            "rank": 7
+        },
+        {
+            "name": "ショーマンフリート",
+            "rank": 8
+        },
+        {
+            "name": "サトノシュトラーセ",
+            "rank": 9
+        },
+        {
+            "name": "セットアップ",
+            "rank": 10
+        },
+        {
+            "name": "メイショウヨゾラ",
+            "rank": 11
+        },
+        {
+            "name": "ミナデオロ",
+            "rank": 12
+        }
+    ]
+}

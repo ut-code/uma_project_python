@@ -1,0 +1,50 @@
+{
+    "title": "天皇賞(秋)",
+    "url": "https://www.jra.go.jp/datafile/seiseki/g1/akiten/result/akiten2023.html",
+    "horse": [
+        {
+            "name": "ダノンベルーガ",
+            "rank": 1
+        },
+        {
+            "name": "アドマイヤハダル",
+            "rank": 2
+        },
+        {
+            "name": "ノースブリッジ",
+            "rank": 3
+        },
+        {
+            "name": "イクイノックス",
+            "rank": 4
+        },
+        {
+            "name": "ジャスティンパレス",
+            "rank": 5
+        },
+        {
+            "name": "プログノーシス",
+            "rank": 6
+        },
+        {
+            "name": "ドウデュース",
+            "rank": 7
+        },
+        {
+            "name": "ガイアフォース",
+            "rank": 8
+        },
+        {
+            "name": "エヒト",
+            "rank": 9
+        },
+        {
+            "name": "ジャックドール",
+            "rank": 10
+        },
+        {
+            "name": "ヒシイグアス",
+            "rank": 11
+        }
+    ]
+}

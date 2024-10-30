@@ -1,0 +1,66 @@
+{
+    "title": "エリザベス女王杯",
+    "url": "https://www.jra.go.jp/datafile/seiseki/g1/eliza/result/eliza2023.html",
+    "horse": [
+        {
+            "name": "ディヴィーナ",
+            "rank": 1
+        },
+        {
+            "name": "サリエラ",
+            "rank": 2
+        },
+        {
+            "name": "マリアエレーナ",
+            "rank": 3
+        },
+        {
+            "name": "ジェラルディーナ",
+            "rank": 4
+        },
+        {
+            "name": "シンリョクカ",
+            "rank": 5
+        },
+        {
+            "name": "ブレイディヴェーグ",
+            "rank": 6
+        },
+        {
+            "name": "ハーパー",
+            "rank": 7
+        },
+        {
+            "name": "ローゼライト",
+            "rank": 8
+        },
+        {
+            "name": "アートハウス",
+            "rank": 9
+        },
+        {
+            "name": "ククナ",
+            "rank": 10
+        },
+        {
+            "name": "イズジョーノキセキ",
+            "rank": 11
+        },
+        {
+            "name": "ゴールドエクリプス",
+            "rank": 12
+        },
+        {
+            "name": "ライラック",
+            "rank": 13
+        },
+        {
+            "name": "ルージュエヴァイユ",
+            "rank": 14
+        },
+        {
+            "name": "ビッグリボン",
+            "rank": 15
+        }
+    ]
+}

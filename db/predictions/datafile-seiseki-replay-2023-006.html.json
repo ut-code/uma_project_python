@@ -1,0 +1,42 @@
+{
+    "title": "京成杯",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2023/006.html",
+    "horse": [
+        {
+            "name": "グラニット",
+            "rank": 1
+        },
+        {
+            "name": "シルヴァーデューク",
+            "rank": 2
+        },
+        {
+            "name": "シルバースペード",
+            "rank": 3
+        },
+        {
+            "name": "セブンマジシャン",
+            "rank": 4
+        },
+        {
+            "name": "シーウィザード",
+            "rank": 5
+        },
+        {
+            "name": "オメガリッチマン",
+            "rank": 6
+        },
+        {
+            "name": "シャンパンカラー",
+            "rank": 7
+        },
+        {
+            "name": "ソールオリエンス",
+            "rank": 8
+        },
+        {
+            "name": "サヴォーナ",
+            "rank": 9
+        }
+    ]
+}

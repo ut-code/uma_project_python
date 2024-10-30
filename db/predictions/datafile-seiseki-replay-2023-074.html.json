@@ -1,0 +1,46 @@
+{
+    "title": "小倉サマージャンプ",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2023/074.html",
+    "horse": [
+        {
+            "name": "シングンジョーイ",
+            "rank": 1
+        },
+        {
+            "name": "ナギサ",
+            "rank": 2
+        },
+        {
+            "name": "ディアマンミノル",
+            "rank": 3
+        },
+        {
+            "name": "テーオーソクラテス",
+            "rank": 4
+        },
+        {
+            "name": "イベリア",
+            "rank": 5
+        },
+        {
+            "name": "アサクサゲンキ",
+            "rank": 6
+        },
+        {
+            "name": "マイネルヴァッサー",
+            "rank": 7
+        },
+        {
+            "name": "リバーシブルレーン",
+            "rank": 8
+        },
+        {
+            "name": "ポルトラーノ",
+            "rank": 9
+        },
+        {
+            "name": "ホッコーメヴィウス",
+            "rank": 10
+        }
+    ]
+}

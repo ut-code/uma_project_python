@@ -1,0 +1,34 @@
+{
+    "title": "サウジアラビアロイヤルカップ",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/089.html",
+    "horse": [
+        {
+            "name": "アルレッキーノ",
+            "rank": 1
+        },
+        {
+            "name": "アルテヴェローチェ",
+            "rank": 2
+        },
+        {
+            "name": "マイネルチケット",
+            "rank": 3
+        },
+        {
+            "name": "フードマン",
+            "rank": 4
+        },
+        {
+            "name": "タイセイカレント",
+            "rank": 5
+        },
+        {
+            "name": "ニシノルアノーヴァ",
+            "rank": 6
+        },
+        {
+            "name": "シンフォーエバー",
+            "rank": 7
+        }
+    ]
+}

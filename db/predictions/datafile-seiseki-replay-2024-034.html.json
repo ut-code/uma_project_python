@@ -1,0 +1,46 @@
+{
+    "title": "毎日杯",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/034.html",
+    "horse": [
+        {
+            "name": "ニュージーズ",
+            "rank": 1
+        },
+        {
+            "name": "ルシフェル",
+            "rank": 2
+        },
+        {
+            "name": "スマートワイス",
+            "rank": 3
+        },
+        {
+            "name": "ベラジオボンド",
+            "rank": 4
+        },
+        {
+            "name": "ノーブルロジャー",
+            "rank": 5
+        },
+        {
+            "name": "メイショウタバル",
+            "rank": 6
+        },
+        {
+            "name": "ファーヴェント",
+            "rank": 7
+        },
+        {
+            "name": "トラジェクトワール",
+            "rank": 8
+        },
+        {
+            "name": "ナイトスラッガー",
+            "rank": 9
+        },
+        {
+            "name": "サトノシュトラーセ",
+            "rank": 10
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "title": "阪神スプリングジャンプ",
+    "url": "https://www.jra.go.jp/datafile/seiseki/replay/2024/026.html",
+    "horse": [
+        {
+            "name": "エコロデュエル",
+            "rank": 1
+        },
+        {
+            "name": "ネビーイーム",
+            "rank": 2
+        },
+        {
+            "name": "トライフォーリアル",
+            "rank": 3
+        },
+        {
+            "name": "ジェミニキング",
+            "rank": 4
+        },
+        {
+            "name": "エイシンクリック",
+            "rank": 5
+        },
+        {
+            "name": "ニシノデイジー",
+            "rank": 6
+        },
+        {
+            "name": "ワンダークローバー",
+            "rank": 7
+        },
+        {
+            "name": "ロックユー",
+            "rank": 8
+        },
+        {
+            "name": "マイネルグロン",
+            "rank": 9
+        }
+    ]
+}
